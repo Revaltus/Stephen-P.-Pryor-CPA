@@ -19,12 +19,12 @@ old_url,new_url,status_code,reason
 /services/advisory,/what-we-do/advisory,301,Relocated via AI
 /services,/what-we-do,301,Relocated via AI
 /what-we-do/outsourced-accounting/business-tax,/what-we-do/outsourced-accounting/tax,301,Relocated via AI
-/what-we-do/outsourced-accounting/bookkeeping,/what-we-do/bookkeeping,301,Nested via nav editor
-/what-we-do/outsourced-accounting/payroll,/what-we-do/payroll,301,Nested via nav editor
-/what-we-do/advisory/entity-type-analysis,/what-we-do/entity-type-analysis,301,Nested via nav editor
-/what-we-do/advisory/accounting-system-setup,/what-we-do/accounting-system-setup,301,Nested via nav editor
-/what-we-do/advisory/retirement-plan-analysis,/what-we-do/retirement-plan-analysis,301,Nested via nav editor
 /industries/real-estate,/specialties/real-estate,301,Relocated via AI
 /industries/construction,/specialties/construction,301,Relocated via AI
 /industries/restaurants,/specialties/restaurants,301,Relocated via AI
 /industries,/specialties,301,Relocated via AI
+/what-we-do/bookkeeping,/what-we-do/outsourced-accounting/bookkeeping,301,Nested via nav editor
+/what-we-do/payroll,/what-we-do/outsourced-accounting/payroll,301,Nested via nav editor
+/what-we-do/entity-type-analysis,/what-we-do/advisory/entity-type-analysis,301,Nested via nav editor
+/what-we-do/accounting-system-setup,/what-we-do/advisory/accounting-system-setup,301,Nested via nav editor
+/what-we-do/retirement-plan-analysis,/what-we-do/advisory/retirement-plan-analysis,301,Nested via nav editor
