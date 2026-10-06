@@ -1,11 +1,11 @@
 ---
 title: "Accounting System Setup | Stephen P. Pryor, CPA | Stephen P. Pryor, CPA"
-url: "/what-we-do/accounting-system-setup"
+url: "/what-we-do/advisory/accounting-system-setup"
 meta_title: "Accounting System Setup in Port Chester NY | CPA Firm"
 meta_description: "CPA-led accounting system setup in Port Chester NY for construction, real estate, and restaurant businesses. QuickBooks setup, ongoing support."
 target_keyword: "accounting system setup Port Chester NY"
 secondary_keywords: ["CPA accounting software setup Port Chester","bookkeeping system implementation Port Chester NY","accounting system setup for construction Port Chester","accounting system setup for real estate Port Chester","accounting software setup for restaurants Port Chester NY","QuickBooks setup Port Chester CPA","outsourced accounting setup Port Chester NY","small business accounting setup Port Chester","accounting system consultant Port Chester"]
-canonical_url: "https://pryorcpa.com/what-we-do/accounting-system-setup"
+canonical_url: "https://pryorcpa.com/what-we-do/advisory/accounting-system-setup"
 schema_markup: "Service"
 hero: "page-header"
 hero_subhead: "Expert guidance on accounting system setup so your books and your business finally match up"

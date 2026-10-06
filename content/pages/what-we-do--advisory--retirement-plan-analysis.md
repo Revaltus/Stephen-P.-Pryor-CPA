@@ -1,11 +1,11 @@
 ---
 title: "Retirement Plan Analysis | Stephen P. Pryor, CPA | Stephen P. Pryor, CPA"
-url: "/what-we-do/retirement-plan-analysis"
+url: "/what-we-do/advisory/retirement-plan-analysis"
 meta_title: "Retirement Plan Analysis in Port Chester, NY | CPA Firm"
 meta_description: "Retirement plan analysis for Port Chester, NY business owners. Stephen P. Pryor, CPA compares SEP IRA, solo 401k, and pension options for your budget and goals."
 target_keyword: "retirement plan analysis Port Chester NY"
 secondary_keywords: ["retirement planning CPA Port Chester","401k analysis Port Chester NY","SEP IRA setup Port Chester","solo 401k Port Chester NY","construction company retirement plans Port Chester","restaurant owner retirement planning Port Chester","real estate professional retirement plans NY","small business retirement plan analysis Port Chester","tax efficient retirement planning Port Chester"]
-canonical_url: "https://pryorcpa.com/what-we-do/retirement-plan-analysis"
+canonical_url: "https://pryorcpa.com/what-we-do/advisory/retirement-plan-analysis"
 schema_markup: "Service"
 hero: "page-header"
 answer_block: "Retirement plan analysis from Stephen P. Pryor, CPA helps business owners across Port Chester, the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States choose between options like SEP IRA, solo 401(k), SIMPLE IRA, and defined benefit plans based on cash flow and goals. The firm specializes in construction, real estate, and hospitality businesses, where income can be seasonal or fluctuate between projects."
