@@ -6,39 +6,43 @@
       "children": [
         {
           "label": "Outsourced Accounting",
-          "url": "/what-we-do/outsourced-accounting"
-        },
-        {
-          "label": "Bookkeeping",
-          "url": "/what-we-do/bookkeeping"
-        },
-        {
-          "label": "Payroll",
-          "url": "/what-we-do/payroll"
+          "url": "/what-we-do/outsourced-accounting",
+          "children": [
+            {
+              "label": "Bookkeeping",
+              "url": "/what-we-do/outsourced-accounting/bookkeeping"
+            },
+            {
+              "label": "Payroll",
+              "url": "/what-we-do/outsourced-accounting/payroll"
+            },
+            {
+              "label": "Business Tax",
+              "url": "/what-we-do/outsourced-accounting/business-tax"
+            }
+          ]
         },
         {
           "label": "Advisory Services",
-          "url": "/what-we-do/advisory"
+          "url": "/what-we-do/advisory",
+          "children": [
+            {
+              "label": "Entity Type Analysis",
+              "url": "/what-we-do/advisory/entity-type-analysis"
+            },
+            {
+              "label": "Accounting System Setup",
+              "url": "/what-we-do/advisory/accounting-system-setup"
+            },
+            {
+              "label": "Retirement Plan Analysis",
+              "url": "/what-we-do/advisory/retirement-plan-analysis"
+            }
+          ]
         },
         {
           "label": "Personal Income Tax",
           "url": "/what-we-do/personal-income-tax"
-        },
-        {
-          "label": "Business Tax",
-          "url": "/what-we-do/business-tax"
-        },
-        {
-          "label": "Entity Type Analysis",
-          "url": "/what-we-do/entity-type-analysis"
-        },
-        {
-          "label": "Accounting System Setup",
-          "url": "/what-we-do/accounting-system-setup"
-        },
-        {
-          "label": "Retirement Plan Analysis",
-          "url": "/what-we-do/retirement-plan-analysis"
         }
       ]
     },
