@@ -1,11 +1,11 @@
 ---
 title: "Entity Type Analysis | Stephen P. Pryor, CPA | Stephen P. Pryor, CPA"
-url: "/what-we-do/entity-type-analysis"
+url: "/what-we-do/advisory/entity-type-analysis"
 meta_title: "Entity Type Analysis | Stephen P. Pryor, CPA"
 meta_description: "Choosing between an LLC, S-corp, or partnership affects your taxes for years. Get entity type analysis grounded in your numbers from Stephen P. Pryor, CPA."
 target_keyword: "entity type analysis"
 secondary_keywords: ["business entity structure","LLC vs S-corp","choosing a business entity","entity selection CPA"]
-canonical_url: "https://pryorcpa.com/what-we-do/entity-type-analysis"
+canonical_url: "https://pryorcpa.com/what-we-do/advisory/entity-type-analysis"
 schema_markup: "Service"
 hero: "page-header"
 answer_block: "Entity type analysis is the process of reviewing a business's income goals, liability exposure, and growth plans to recommend the right structure, sole proprietorship, partnership, S-corp, C-corp, or LLC. Stephen P. Pryor, CPA evaluates federal and state tax implications specific to construction, real estate, and hospitality businesses before making a recommendation. The firm serves clients from its office in Port Chester, New York, across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
