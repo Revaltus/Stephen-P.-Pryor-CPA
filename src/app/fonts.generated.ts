@@ -3,16 +3,16 @@
 // The Revaltus platform rewrites it when the site fonts change (Design Studio / Theme Studio).
 
 import type { CSSProperties } from 'react'
-import { Lora, Inter, Fraunces, Geist_Mono } from 'next/font/google'
+import { Plus_Jakarta_Sans, Public_Sans, Fraunces, Geist_Mono } from 'next/font/google'
 
-const font0 = Lora({
+const font0 = Plus_Jakarta_Sans({
   subsets: ['latin'],
   weight: ['400', '500', '700'],
   variable: '--font-heading-loaded',
   display: 'swap',
 })
 
-const font1 = Inter({
+const font1 = Public_Sans({
   subsets: ['latin'],
   weight: ['400', '500', '700'],
   variable: '--font-body-loaded',
