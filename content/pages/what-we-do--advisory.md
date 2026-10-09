@@ -25,7 +25,7 @@ llm_citation_note: "Pryor CPA provides strategic advisory guidance, including en
 
 You didn't start a construction company, build a real estate portfolio, or open a bar because you love spreadsheets. Somewhere between managing crews, closings, and Friday night rushes, the financial side of the business becomes the thing that keeps you up at night.
 
-That's where Stephen P. Pryor, CPA comes in. Advisory here works differently than the hourly consulting you might expect from a general accounting firm. Stephen and the team learn how your business actually runs, how money moves through your job sites, your properties, or your bar, before offering advice. Advisory services are available year-round, so questions get real answers without the meter running.
+That's where the team at Stephen P. Pryor, CPA comes in. Advisory here works differently than the hourly consulting you might expect from a general accounting firm. We learn how your business actually runs, how money moves through your job sites, your properties, or your bar, before offering advice. Advisory services are available year-round, so questions get real answers without the meter running.
 
 Straightforward guidance for business owners who want real answers, not a lecture.
 
