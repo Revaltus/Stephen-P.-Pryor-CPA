@@ -49,6 +49,27 @@ icon: Wallet
 
 Thin margins leave no room for guessing. Advisory support digs into cash handling, tip reporting, and sales tax compliance, then builds a clearer picture of where every dollar goes behind the bar. Visit the [restaurants](/industries/restaurants) page for specifics.
 
+<!-- block: service-cards | variant: 2-col -->
+## Advisory guidance across four key areas
+
+Whether a business is just getting started or has been running for years, there are four areas where the right guidance makes a measurable difference. Stephen P. Pryor, CPA works with clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States on all four as part of the same advisory relationship.
+
+### Entity Type Analysis
+
+Choosing the right business structure from the start affects taxes, liability, and how the business can grow. The firm walks through the options and helps owners make the call that fits their situation. [Learn more](/what-we-do/entity-type-analysis)
+
+### Cash Management
+
+Monitoring inflows and outflows so decisions get made with real numbers, not a guess about what's sitting in the account. [Learn more](/what-we-do/cash-management)
+
+### Retirement Plan Analysis
+
+Matching a plan to the business's size and budget, so contributions make sense now and later. [Learn more](/what-we-do/retirement-plan-analysis)
+
+### Accounting System Setup
+
+Building a system connected to the firm's secure online platform, so real-time financial data is there whenever it's needed, not just at tax time. [Learn more](/services/advisory/accounting-system-setup)
+
 <!-- block: content-cards | variant: 3-col -->
 ## What's included in Advisory
 
