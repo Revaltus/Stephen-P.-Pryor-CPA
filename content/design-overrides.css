@@ -1,14 +1,189 @@
-/* design-overrides.css — per-client CSS authored or refined by Claude.ai Design.
- *
- * This file is loaded AFTER src/styles/theme.css, so any rules here override
- * the default block styling. Target blocks via the data-block attribute:
- *
- *   [data-block="hero"] { ... }
- *   [data-block="feature-grid"] h2 { ... }
- *
- * Cascade order: tailwindcss → theme.css → design-overrides.css. Use specific
- * selectors (data-block attribute + descendant) instead of !important.
- *
- * To regenerate: run `npm run export-brief`, paste the brief into Claude.ai
- * Design, save the returned CSS as this file, then `npm run dev`.
- */
+/* design-overrides.css — managed by the Revaltus Design Studio.
+ * The design-studio region below is regenerated on every apply; edit it through the Studio. */
+
+/* design-studio:begin */
+/* design-studio:global */
+:root {
+    --c5-media-grade-opacity: 0.34;
+    --c5-media-grade-fill: linear-gradient(150deg, var(--color-primary) 0%, var(--color-action) 110%);
+    --tracking-display: -0.025em
+
+
+}
+[data-block="cta-banner"] {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none' stroke='%23cfd8b8' stroke-opacity='0.22' stroke-width='1.5'%3E%3Cellipse cx='300' cy='300' rx='60' ry='40'/%3E%3Cellipse cx='300' cy='300' rx='110' ry='76'/%3E%3Cellipse cx='300' cy='300' rx='160' ry='112'/%3E%3Cellipse cx='300' cy='300' rx='210' ry='150'/%3E%3Cellipse cx='300' cy='300' rx='260' ry='188'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: min(460px,60%)
+}
+[data-block="hero"] .t-kicker::before {
+    content: "";
+    display: inline-block;
+    width: 2rem;
+    height: 2px;
+    margin-right: 0.75rem;
+    vertical-align: middle;
+    background: #5d6b3a
+}
+[data-block="hero"] .u-frame {
+    border-radius: var(--radius-lg);
+    box-shadow: 14px 14px 0 var(--color-complementary), 0 26px 50px -28px rgba(42,35,25,0.45)
+}
+@media (max-width: 640px) {
+    [data-block="hero"] .u-frame {
+        box-shadow: 8px 8px 0 var(--color-complementary), 0 20px 40px -26px rgba(42,35,25,0.45)
+    }
+}
+[data-block="hero"] .u-frame::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: var(--color-action);
+    mix-blend-mode: soft-light;
+    opacity: 0.3;
+    pointer-events: none
+}
+/* /design-studio:global */
+/* design-studio:hero */
+[data-block="hero"]::before {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 84px;
+    height: 150px;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none' stroke='%235d6b3a' stroke-width='3'%3E%3Cpath d='M200 400C196 300 210 200 200 30'/%3E%3Cpath d='M200 330C150 320 120 280 112 240C160 244 192 280 200 330ZM200 260C250 250 282 210 290 170C242 174 208 210 200 260ZM200 190C156 180 130 146 124 110C166 114 194 148 200 190ZM200 120C240 112 266 80 272 50C234 54 206 84 200 120Z'/%3E%3C/svg%3E") no-repeat center / contain;
+    opacity: 0.55;
+    pointer-events: none;
+    z-index: 0
+}
+@media (min-width: 768px) {
+    [data-block="hero"]::before {
+        left: 46%;
+        right: auto;
+        top: 72px;
+        width: 64px;
+        height: 120px
+    }
+}
+[data-block="hero"] h1 {
+    max-width: 20ch;
+    font-size: 2.75rem;
+    letter-spacing: -0.03em;
+    word-spacing: -0.02em;
+    font-kerning: normal;
+    font-feature-settings: "kern" 1
+}
+@media (min-width: 1024px) {
+    [data-block="hero"] h1 {
+        font-size: 3.75rem
+    }
+}
+[data-block="hero"] .t-kicker {
+    font-family: var(--font-accent);
+    font-style: italic;
+    text-transform: none;
+    letter-spacing: 0.01em;
+    font-size: 1rem
+}
+@media (min-width: 768px) {
+    [data-block="hero"] .t-kicker {
+        font-size: 1.125rem
+    }
+}
+[data-block="hero"] img {
+    filter: sepia(0.3) saturate(0.85) contrast(1.03)
+}
+/* /design-studio:hero */
+/* design-studio:content-split */
+[data-block="content-split"] img {
+    filter: sepia(0.3) saturate(0.85) contrast(1.03)
+}
+[data-block="content-split"] .u-frame {
+    border-radius: var(--radius-lg);
+    box-shadow: 14px 14px 0 var(--color-complementary), 0 22px 44px -26px rgba(42,35,25,0.4)
+}
+@media (max-width: 640px) {
+    [data-block="content-split"] .u-frame {
+        box-shadow: 8px 8px 0 var(--color-complementary), 0 18px 36px -24px rgba(42,35,25,0.4)
+    }
+}
+[data-block="content-split"] .w-10 {
+    width: 3rem;
+    background: #5d6b3a !important
+}
+/* /design-studio:content-split */
+/* design-studio:service-cards */
+[data-block="service-cards"] {
+    position: relative;
+    background: var(--color-secondary);
+    box-shadow: 0 0 0 100vmax var(--color-secondary);
+    clip-path: inset(0 -100vmax)
+}
+[data-block="service-cards"]::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 200px;
+    height: 200px;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none' stroke='%235d6b3a' stroke-width='2'%3E%3Cpath d='M200 400C196 300 210 200 200 30'/%3E%3Cpath d='M200 330C150 320 120 280 112 240C160 244 192 280 200 330ZM200 260C250 250 282 210 290 170C242 174 208 210 200 260ZM200 190C156 180 130 146 124 110C166 114 194 148 200 190ZM200 120C240 112 266 80 272 50C234 54 206 84 200 120Z'/%3E%3C/svg%3E") no-repeat center / contain;
+    opacity: 0.4;
+    pointer-events: none;
+    z-index: 0
+}
+[data-block="service-cards"] > * {
+    position: relative;
+    z-index: 1
+}
+[data-block="service-cards"] .u-card {
+    border-radius: var(--radius-lg);
+    border-top: 3px solid #5d6b3a;
+    box-shadow: 0 1px 2px rgba(42,35,25,0.08), 0 16px 32px -20px rgba(42,35,25,0.4);
+    transition: transform var(--duration-base) ease, box-shadow var(--duration-base) ease
+}
+[data-block="service-cards"] .u-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 2px 4px rgba(42,35,25,0.1), 0 24px 40px -20px rgba(42,35,25,0.45)
+}
+[data-block="service-cards"] .u-icon-square {
+    background: var(--color-complementary);
+    color: var(--color-primary);
+    border-radius: var(--radius-md)
+}
+/* /design-studio:service-cards */
+/* design-studio:industry-cards */
+[data-block="industry-cards"] {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none' stroke='%23cfd8b8' stroke-opacity='0.2' stroke-width='1.5'%3E%3Cellipse cx='300' cy='300' rx='60' ry='40'/%3E%3Cellipse cx='300' cy='300' rx='110' ry='76'/%3E%3Cellipse cx='300' cy='300' rx='160' ry='112'/%3E%3Cellipse cx='300' cy='300' rx='210' ry='150'/%3E%3Cellipse cx='300' cy='300' rx='260' ry='188'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: min(520px,70%)
+}
+[data-block="industry-cards"] .font-accent {
+    color: var(--color-complementary)
+}
+[data-block="industry-cards"] .t-kicker::before {
+    content: "";
+    display: inline-block;
+    width: 1.5rem;
+    height: 2px;
+    margin-right: 0.6rem;
+    vertical-align: middle;
+    background: var(--color-complementary)
+}
+/* /design-studio:industry-cards */
+/* design-studio:navbar */
+[data-component="navbar"] {
+    border-bottom: 1px solid var(--color-border)
+}
+[data-component="navbar"] [data-c5="button"] {
+    background: transparent;
+    border: 1.5px solid var(--color-primary);
+    color: var(--color-primary)
+}
+[data-component="navbar"] [data-c5="button"]:hover {
+    background: var(--color-primary);
+    color: var(--color-primary-foreground)
+}
+/* /design-studio:navbar */
+/* design-studio:end */
