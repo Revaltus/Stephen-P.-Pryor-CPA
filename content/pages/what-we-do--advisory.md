@@ -117,7 +117,7 @@ A: The firm provides payroll compliance services, covering payroll tax filings, 
 
 Whether the business is a construction company juggling three job sites, a real estate portfolio, or a bar figuring out where Friday night's cash actually went, the conversation starts the same way: a look at where things stand right now.
 
-Stephen P. Pryor, CPA works with business owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States who want a straight answer instead of a stack of reports. [Schedule a consultation](/contact) and find out what strategic guidance looks like for your business.
+The team at Stephen P. Pryor, CPA works with business owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States who want a straight answer instead of a stack of reports. [Schedule a consultation](/contact) and find out what strategic guidance looks like for your business.
 
 ---
 ## SEO & AIO Metadata
