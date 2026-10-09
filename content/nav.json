@@ -6,21 +6,7 @@
       "children": [
         {
           "label": "Outsourced Accounting",
-          "url": "/what-we-do/outsourced-accounting",
-          "children": [
-            {
-              "label": "Bookkeeping",
-              "url": "/what-we-do/outsourced-accounting/bookkeeping"
-            },
-            {
-              "label": "Payroll",
-              "url": "/what-we-do/outsourced-accounting/payroll"
-            },
-            {
-              "label": "Business Tax",
-              "url": "/what-we-do/outsourced-accounting/business-tax"
-            }
-          ]
+          "url": "/what-we-do/outsourced-accounting"
         },
         {
           "label": "Advisory Services",
@@ -85,18 +71,6 @@
     {
       "label": "Contact",
       "url": "/contact"
-    },
-    {
-      "label": "Outsourced Accounting Test",
-      "url": "/outsourced-accounting-test"
-    },
-    {
-      "label": "test",
-      "url": "/test"
-    },
-    {
-      "label": "Outsourced Accounting Test 2",
-      "url": "/outsourced-accounting-test-2"
     }
   ],
   "cta": {
