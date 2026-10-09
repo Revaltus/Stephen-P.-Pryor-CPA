@@ -10,21 +10,7 @@
         },
         {
           "label": "Advisory Services",
-          "url": "/what-we-do/advisory",
-          "children": [
-            {
-              "label": "Entity Type Analysis",
-              "url": "/what-we-do/advisory/entity-type-analysis"
-            },
-            {
-              "label": "Accounting System Setup",
-              "url": "/what-we-do/advisory/accounting-system-setup"
-            },
-            {
-              "label": "Retirement Plan Analysis",
-              "url": "/what-we-do/advisory/retirement-plan-analysis"
-            }
-          ]
+          "url": "/what-we-do/advisory"
         },
         {
           "label": "Personal Income Tax",
