@@ -42,6 +42,48 @@ Full charge outsourced accounting means every function that keeps your books acc
 
 Each piece works together instead of living in separate spreadsheets or software subscriptions. Bookkeeping, payroll compliance, and tax are available together under one fixed monthly fee, so nothing falls through the gaps between providers.
 
+<!-- block: service-cards | variant: 3-col -->
+## Services included with outsourced accounting
+
+Here's a closer look at the three core services that come together in your fixed monthly fee.
+
+### Bookkeeping
+
+Every client gets the same disciplined process, whether you're running a five-person contracting crew or a neighborhood bar. Each month, we reconcile your bank and credit card accounts, categorize every transaction, and keep your books ready before you ever need them to be.
+
+- Bank account reconciliation
+- Electronic transaction reconciliation into QuickBooks
+- Credit card account reconciliation
+- Sales tax preparation and filing
+- Transaction categorization and coding
+- Invoicing and accounts receivable tracking
+- Monthly financial reporting and statements
+- General ledger maintenance
+
+### Payroll Compliance
+
+Every industry brings its own payroll compliance headaches, and this firm has worked through most of them more than once.
+
+- **Multi-location and seasonal staffing:** filings handled correctly for businesses that hire across state lines or ramp up crews for a busy season
+- **Tipped employee compliance:** accurate tip credit calculations and reporting for bars and restaurants
+- **Job-costed labor:** labor costs tracked by project so construction contractors know true labor cost per job
+- **Multi-state tax filing:** withholding and unemployment filings kept accurate across New York, New Jersey, Connecticut, and Florida
+- **Overtime and prevailing wage awareness:** construction crews kept compliant with state labor requirements
+- **New hire and termination reporting:** filed correctly, every pay period, with no missed deadlines
+
+### Business Tax
+
+Business returns are unique to each industry. The team at Stephen P. Pryor, CPA knows tax planning and preparation is different depending on your business’s niche. With a specialized focus on construction, real estate, and bars and restaurants, our business tax services are designed to maximize tax savings and maintain compliance with year-round support.
+
+- Tracking job costs by project so profitability shows up correctly on returns
+- Reviewing depreciation schedules and cost segregation opportunities before year-end
+- Structuring 1031 exchanges to avoid tax bills from sales
+- Managing thin margins, tip reporting, and sales tax rules
+- Entity type analysis to confirm business structure fits current income
+- Retirement plan analysis for plans that fit budgets and lower taxable income
+- Quarterly estimated tax projections
+- Mid-year check-ins
+
 <!-- block: content-split | variant: image-right | image: real-time-financial-dashboard.jpg | alt: "Business owner viewing financial reports on a secure online dashboard" | query: "business owner reviewing dashboard laptop" -->
 ## See your numbers in real time
 
