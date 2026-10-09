@@ -32,15 +32,9 @@ You get one team that already knows your numbers, your industry, and your goals.
 <!-- block: checklist-section | variant: with-image | image: outsourced-accounting-team.jpg | alt: "Accountant reviewing bookkeeping and payroll records on a laptop" | query: "accountant reviewing financial records office" -->
 ## What our outsourced accounting includes
 
-Full charge outsourced accounting means every function that keeps your books accurate and your cash flow visible sits under one roof. Here's what's bundled into the monthly fee:
+Full charge outsourced accounting means every function that keeps your books accurate and your cash flow visible sits under one roof. 
 
-- Daily transaction classification and bookkeeping, so your books stay current instead of piling up for tax season
-- Bank and credit card reconciliation, catching errors and discrepancies before they become problems
-- Cash management, monitoring inflows and outflows so you always know where you stand
-- Payroll compliance filings, managed so your submissions are accurate, on time, and fully documented
-- Tax integration, so your bookkeeping data flows directly into planning and preparation instead of getting reconstructed every spring
-
-Each piece works together instead of living in separate spreadsheets or software subscriptions. Bookkeeping, payroll compliance, and tax are available together under one fixed monthly fee, so nothing falls through the gaps between providers.
+Each piece works together instead of living in separate spreadsheets or software subscriptions. Bookkeeping, payroll compliance, and tax are available together under one fixed monthly fee, so nothing falls through the gaps between providers. 
 
 <!-- block: service-cards | variant: 3-col -->
 ## Services included with outsourced accounting
@@ -85,11 +79,11 @@ Business returns are unique to each industry. The team at Stephen P. Pryor, CPA 
 - Mid-year check-ins
 
 <!-- block: content-split | variant: image-right | image: real-time-financial-dashboard.jpg | alt: "Business owner viewing financial reports on a secure online dashboard" | query: "business owner reviewing dashboard laptop" -->
-## See your numbers in real time
+## See your numbers anytime
 
 Most accounting relationships run on a lag. You get a report weeks after the month closes, by which point the decision it should have informed is already made. That's not how we work.
 
-Clients access a secure online platform built for real-time visibility into cash position, payables, and financial performance. No waiting for a monthly PDF. No guessing whether last week's numbers are still accurate.
+Clients access a secure online platform built for visibility into cash position, payables, and financial performance. No waiting for a monthly PDF. No guessing whether last week's numbers are still accurate.
 
 If you're deciding whether to take on a new project, hire another server, or wait another quarter on a property purchase, you're making that call with current data instead of a stale snapshot. It's the same transparency you'd expect from dedicated in-house staff, delivered without adding headcount.
 
