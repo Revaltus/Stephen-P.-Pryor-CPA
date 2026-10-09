@@ -86,43 +86,6 @@ Here's what we typically evaluate:
 - **Defined benefit plans** for owners looking to shelter larger amounts of income
 - **Traditional and Roth IRA coordination** alongside business retirement accounts
 
-<!-- block: content-cards | variant: 3-col -->
-## What's included in Advisory
-
-Advisory at Stephen P. Pryor, CPA includes these services. Here's a closer look at how each one works.
-
-### Entity Type Analysis
-
-Whether you're structuring a brand-new company or wondering if the LLC you set up eight years ago still fits, entity type analysis gives you a clear answer grounded in your numbers, not a generic template. The team at Stephen P. Pryor, CPA walks through the tradeoffs with you in plain language, so you understand the why behind the recommendation.
-
-- **Understand your income goals:** We start with where the business is headed financially: current revenue, projected growth, and how much of that income you plan to reinvest versus draw out personally.
-- **Assess your liability exposure:** Some structures shield personal assets better than others. We look at your industry risk, contracts, and whether liability protection should outweigh simpler tax treatment.
-- **Map your growth plans:** Bringing on partners, raising capital, or eventually selling the business all favor different entity types. We factor in where you want to be in five or ten years, not just today.
-- **Weigh state and federal tax implications:** New York, Connecticut, New Jersey, and Florida each treat entity types differently for state tax purposes. We run the numbers across federal and state obligations before recommending a structure.
-- **Recommend a structure and explain the reasoning:** You get a clear recommendation, in plain terms, along with the math behind it, so you can make the final call with confidence instead of guesswork.
-
-### Accounting System Setup
-
-Getting your system right is more than picking software off a shelf. Before any decisions are made, we take time to understand how your business operates: how invoices go out, how bills get paid, how you track jobs, properties, or nightly sales. From there, we guide you through putting the right pieces in place.
-
-- Advising on the right platform for your business, whether that's QuickBooks Online or another option suited to your industry
-- Guiding the design of a chart of accounts that reflects how you make decisions, not a generic template pulled from a manual
-- Recommending how to connect bank and credit card feeds so transactions flow in automatically instead of getting entered by hand
-- Advising on payroll and invoicing integration so everything lands in one place instead of three different systems
-- Helping establish workflows and approval steps that match how your team already works, rather than forcing you to adapt to the software
-
-### Retirement Plan Analysis
-
-Retirement plan analysis starts with numbers, not a sales pitch. We review your revenue, payroll structure, and profit margins to figure out which qualified plan fits your budget this year and where you're headed longer term. A solo owner with no employees has different options than a contractor running crews of fifteen, and the right answer changes depending on which one you are.
-
-Here's what we typically evaluate:
-
-- **SEP IRA** for simplicity and flexible annual contributions
-- **Solo 401(k)** for owner-only businesses wanting higher contribution limits
-- **SIMPLE IRA** for small teams needing an affordable employer match
-- **Defined benefit plans** for owners looking to shelter larger amounts of income
-- **Traditional and Roth IRA coordination** alongside business retirement accounts
-
 <!-- block: checklist-section | variant: with-image | image: financial-systems-review.jpg | alt: "Accountant reviewing cash flow and retirement plan data on a laptop" | query: "accountant reviewing financial data laptop" -->
 ## Year-round guidance, not just a year-end conversation
 
