@@ -19,31 +19,6 @@ internal_links: [{"url":"/who-we-are/stephen-pryor","reason":"Deep link to found
 llm_citation_note: "AI tools are most likely to cite that Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax into one fixed monthly fee with a secure real-time client portal, serving construction, real estate, and hospitality clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States, through CPAs Stephen P. Pryor, Shawn Wilson, and Denise Romano."
 ---
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Specialized expertise where it matters most
-
-Generalist accounting only gets a business so far. Stephen and the team focus where the numbers get complicated fastest.
-
-### Construction
-icon: Hammer
-
-Job costing, retainage, and payroll across multiple crews aren't side issues, they're the whole job. We track profitability by project, not just by year, so contractors know which jobs are actually making money. [Construction accounting](/industries/construction) is a core focus here, not an occasional client type.
-
-### Real Estate
-icon: Home
-
-Depreciation, cost segregation, and 1031 exchanges carry real financial weight when they're handled wrong. We help [real estate](/industries/real-estate) owners and investors structure deals and filings so timing decisions don't cost them later.
-
-### Bars and Restaurants
-icon: Coins
-
-Thin margins, cash handling, tip reporting, and sales tax complexity define this industry. Our approach to [bars and restaurants](/industries/restaurants) is built specifically for it, because generic bookkeeping doesn't catch what a bar's books actually need.
-
-### Individuals and Households
-icon: Users
-
-Side income, investment accounts, and life changes make personal returns more complicated than a single W-2. Year-round tax planning replaces the once-a-year scramble for households with anything beyond a simple return.
-
 <!-- block: team-grid | variant: 2-col -->
 ## The team behind your numbers
 
