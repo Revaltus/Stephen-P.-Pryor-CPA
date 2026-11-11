@@ -30,11 +30,11 @@ Outsourced accounting from Stephen P. Pryor, CPA gives businesses across the tri
 You get one team that already knows your numbers, your industry, and your goals. That's the difference between hiring help and having a back office that actually works.
 
 <!-- block: checklist-section | variant: with-image | image: outsourced-accounting-team.jpg | alt: "Accountant reviewing bookkeeping and payroll records on a laptop" | query: "accountant reviewing financial records office" -->
-## What our outsourced accounting includes
+## What does outsourced accounting mean? 
 
-Full charge outsourced accounting means every function that keeps your books accurate and your cash flow visible sits under one roof. 
+Full charge outsourced accounting means every function that keeps your books accurate and your cash flow visible sits under one roof.
 
-Each piece works together instead of living in separate spreadsheets or software subscriptions. Bookkeeping, payroll compliance, and tax are available together under one fixed monthly fee, so nothing falls through the gaps between providers. 
+Each piece works together instead of living in separate spreadsheets or software subscriptions. Bookkeeping, payroll compliance, and tax are available together under one fixed monthly fee, so nothing falls through the gaps between providers.
 
 <!-- block: service-cards | variant: 3-col -->
 ## Services included with outsourced accounting
