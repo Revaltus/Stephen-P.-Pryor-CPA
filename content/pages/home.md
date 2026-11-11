@@ -87,25 +87,6 @@ icon: Lightbulb
 
 Financial analysis and strategic guidance tailored to your business, without the overhead of a full-time hire. [Learn more](/services/advisory)
 
-<!-- block: content-split | variant: image-left | image: cpa-client-consultation.jpg | alt: "CPA and small business owner discussing financial documents at a desk" | query: "accountant client consultation meeting office" -->
-## Support that goes beyond tax season
-
-Tax season is three months a year. Your business runs the other nine. When you onboard with us, we invest time learning how your business operates, your invoicing habits, and the software you use before we change a single process.
-
-That upfront listening means fewer surprises later. If a vendor payment looks off in June or you're weighing an equipment purchase in September, you call us then, not in April. Our team stays in the conversation year-round, so decisions get made with current numbers instead of guesses. Personalized doesn't mean a form letter with your name on it. It means someone who already knows your business picks up the phone.
-
-<!-- block: checklist-section | variant: with-image-right | image: westchester-county-meeting.jpg | alt: "Advisor and business owner reviewing paperwork in a bright office" | query: "business meeting office consultation Westchester" -->
-## Trusted by business owners and families across the tri-state area and beyond
-
-Word travels fast in a region this connected, and most new clients arrive by referral from someone whose books we already handle. From our office in Port Chester, NY, we serve construction businesses, real estate professionals, bar and restaurant owners, and individuals well beyond the county line.
-
-- Construction businesses, real estate investors, and bar and restaurant owners across the tri-state area
-- Business and individual clients across the greater New York City area
-- Clients in Florida and throughout the United States
-- Practical financial guidance published through the firm's own resources, including tips on building healthier money habits
-
-Want to see if we're a fit? [Meet the team](/who-we-are) or reach out with what you're currently dealing with.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions
 
