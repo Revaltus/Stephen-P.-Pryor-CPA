@@ -43,7 +43,7 @@ Here's a closer look at the three core services that come together in your fixed
 
 ### Bookkeeping
 
-Every client gets the same disciplined process, whether you're running a five-person contracting crew or a neighborhood bar. Each month, we reconcile your bank and credit card accounts, categorize every transaction, and keep your books ready before you ever need them to be.
+Whether you run a five-person crew or a neighborhood bar, you get the same disciplined process. We reconcile your bank and credit card accounts monthly and keep your books ready.
 
 - Bank account reconciliation
 - Electronic transaction reconciliation into QuickBooks
@@ -56,7 +56,7 @@ Every client gets the same disciplined process, whether you're running a five-pe
 
 ### Payroll Compliance
 
-Every industry brings its own payroll compliance headaches, and this firm has worked through most of them more than once.
+Every industry brings its own payroll headaches, and we've worked through most of them. Our team keeps your filings accurate, on time, and compliant across every state you operate in.
 
 - **Multi-location and seasonal staffing:** filings handled correctly for businesses that hire across state lines or ramp up crews for a busy season
 - **Tipped employee compliance:** accurate tip credit calculations and reporting for bars and restaurants
@@ -67,7 +67,7 @@ Every industry brings its own payroll compliance headaches, and this firm has wo
 
 ### Business Tax
 
-Business returns are unique to each industry. The team at Stephen P. Pryor, CPA knows tax planning and preparation is different depending on your business’s niche. With a specialized focus on construction, real estate, and bars and restaurants, our business tax services are designed to maximize tax savings and maintain compliance with year-round support.
+Business returns look different in every industry. With a focus on construction, real estate, and bars and restaurants, we maximize tax savings and keep you compliant with steady year-round support.
 
 - Tracking job costs by project so profitability shows up correctly on returns
 - Reviewing depreciation schedules and cost segregation opportunities before year-end
