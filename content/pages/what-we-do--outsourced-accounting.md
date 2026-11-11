@@ -114,13 +114,6 @@ We review how you currently track jobs, properties, or nightly sales, then build
 
 The goal is a transition you barely notice, except for the part where your books finally make sense.
 
-<!-- block: content-prose -->
-## Serving Port Chester and the surrounding region
-
-The great majority of our clients are based in the tri-state area of New York, New Jersey, and Connecticut and the greater New York City area, with a home office in Port Chester. We also support outsourced accounting engagements across Florida and throughout the United States.
-
-Whether your business runs job sites in multiple states, manages rental properties across several towns, or pours drinks seven nights a week, the accounting fundamentals don't change with the zip code. What changes is how well your accounting firm understands your industry, and that's where hands-on knowledge of construction, real estate, and hospitality businesses makes the difference.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Outsourced Accounting
 
