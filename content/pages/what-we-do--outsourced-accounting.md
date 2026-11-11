@@ -81,8 +81,6 @@ Business returns are unique to each industry. The team at Stephen P. Pryor, CPA 
 <!-- block: content-split | variant: image-right | image: real-time-financial-dashboard.jpg | alt: "Business owner viewing financial reports on a secure online dashboard" | query: "business owner reviewing dashboard laptop" -->
 ## See your numbers anytime
 
-Most accounting relationships run on a lag. You get a report weeks after the month closes, by which point the decision it should have informed is already made. That's not how we work.
-
 Clients access a secure online platform built for visibility into cash position, payables, and financial performance. No waiting for a monthly PDF. No guessing whether last week's numbers are still accurate.
 
 If you're deciding whether to take on a new project, hire another server, or wait another quarter on a property purchase, you're making that call with current data instead of a stale snapshot. It's the same transparency you'd expect from dedicated in-house staff, delivered without adding headcount.
