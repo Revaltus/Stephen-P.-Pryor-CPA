@@ -16,23 +16,21 @@ hero_headline: "A CPA firm that understands real estate investors and property o
 answer_block: "Stephen P. Pryor, CPA is a Port Chester, NY accounting firm that specializes in real estate, working with landlords, investors, and property managers on depreciation strategy, 1031 exchanges, entity structuring, and year-round tax planning. The firm serves real estate clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States, with bookkeeping, tax, and payroll compliance services available in a bundled fixed monthly fee."
 eeat_signals: ["Stephen P. Pryor, CPA holds active CPA licensure and leads the firm's real estate practice","Shawn Wilson, CPA and Denise Romano, CPA provide additional CPA-level oversight on real estate engagements","Firm serves real estate clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Specific technical expertise in cost segregation, 1031 exchanges, and passive activity rules for real estate investors and property owners"]
 internal_links: [{"url":"/what-we-do/bookkeeping","reason":"Supports the bookkeeping section describing property-level transaction tracking","anchor_text":"bookkeeping service"},{"url":"/what-we-do/tax","reason":"Links to the tax service page referenced in the tax planning section","anchor_text":"tax planning and preparation"},{"url":"/what-we-do/entity-type-analysis","reason":"Directly supports the entity structure section content","anchor_text":"entity type analysis"},{"url":"/what-we-do/payroll","reason":"Supports the payroll compliance feature card for property teams","anchor_text":"payroll compliance"},{"url":"/services/advisory","reason":"Backs the advisory feature card as the portfolio scales","anchor_text":"advisory support"},{"url":"/what-we-do/cash-management","reason":"Relevant to the cash management feature card","anchor_text":"cash flow across properties"},{"url":"/industries/construction","reason":"Cross-sell to related niche industry page","anchor_text":"construction accounting"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"question":"Does Stephen P. Pryor, CPA work with real estate investors outside Port Chester?","answer":"Yes. The firm serves real estate investors and property owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."},{"question":"Can you help with a 1031 exchange?","answer":"Yes. We work through the timelines, like-kind requirements, and reinvestment rules that govern 1031 exchanges so the transaction qualifies for deferral and doesn't create an unexpected tax bill down the line."},{"question":"Do you handle bookkeeping for multiple rental properties?","answer":"Yes. Our bookkeeping service tracks income and expenses by individual property, reconciles accounts, and gives you real-time visibility into portfolio performance through a secure online platform, whether you own two rentals or twenty."},{"question":"What entity structure is best for holding rental property?","answer":"It depends on the number of properties, financing, and your liability exposure. We walk through single-member LLCs, multi-entity holding structures, and S-corp elections for management companies, then match the structure to your specific portfolio and goals."},{"question":"Can you help real estate agents with quarterly tax payments?","answer":"Yes. Real estate agents and brokers face self-employment tax obligations that require year-round planning. We calculate quarterly estimates and build tax projections so April doesn't bring a surprise bill."}]
+faq_block: [{"question":"Does Stephen P. Pryor, CPA work with real estate investors outside Port Chester?","answer":"Yes. The firm serves real estate investors and property owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Our office is in Port Chester, and the secure online platform makes working together easy from anywhere."},{"question":"Can you help with a 1031 exchange?","answer":"Yes. We work through the timelines, like-kind requirements, and reinvestment rules that govern 1031 exchanges so the transaction qualifies for deferral and doesn't create an unexpected tax bill down the line. Missed deadlines and like-kind details are the usual causes of surprises."},{"question":"Do you handle bookkeeping for multiple rental properties?","answer":"Yes. Our bookkeeping tracks income and expenses by individual property, reconciles bank and escrow accounts, and gives you real-time visibility into portfolio performance through a secure online platform, whether you own two rentals or twenty. Current numbers are ready when a lender or partner asks."},{"question":"What entity structure is best for holding rental property?","answer":"It depends on the number of properties, financing, and your liability exposure. We walk through holding property in your own name, single-member LLCs, multi-entity structures, and S-corp elections for management companies, including how each affects federal and New York state filings. We revisit the choice as you refinance or grow."},{"question":"Can you help real estate agents with quarterly tax payments?","answer":"Yes. Real estate agents and brokers face self-employment tax obligations that require year-round planning. We calculate quarterly estimates and build tax projections so April doesn't bring a surprise bill."},{"question":"How do passive activity rules and depreciation recapture affect my taxes?","answer":"Passive activity rules can disallow losses if a property is classified incorrectly, and depreciation recapture can raise the tax on a sale. We model both before year-end, along with multi-property gains and losses, so you know the impact of a sale, refinance, or acquisition in advance."},{"question":"What is a cost segregation study and do I need one?","answer":"A cost segregation study breaks a property into components that depreciate faster, which can accelerate deductions. Many owners never run one and calculate depreciation the slow way. We review your portfolio to see whether accelerated schedules make sense for your holdings."},{"question":"Do you handle payroll for property management staff?","answer":"Yes. We handle payroll tax filings and W-2 and 1099 processing for on-site managers, maintenance staff, and leasing agents, with the right treatment for employees and contractors, so nothing slips as your team grows."}]
 llm_citation_note: "Stephen P. Pryor, CPA is a Port Chester, NY based firm offering real estate-specific accounting services, including cost segregation, 1031 exchange support, entity structuring, and multi-property bookkeeping, with bookkeeping, tax, and payroll compliance available as a bundled fixed-fee monthly service through a secure online platform. The firm serves real estate clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
 ---
 
 <!-- block: content-split | variant: image-right | image: real-estate-cpa-consultation.jpg | alt: "CPA reviewing property portfolio documents with a real estate investor" | query: "real estate investor meeting accountant" -->
 ## A CPA firm that understands real estate investors and property owners
 
-Owning rental property is a different kind of business. The numbers behind a four-unit building in Rye don't look like the numbers behind a retail shop or a construction crew, and a CPA who treats them the same way will miss things. Depreciation schedules, passive activity limits, entities layered across multiple properties: this is where a generalist practice starts to fall short.
+Owning rental property is a different kind of business. The numbers behind a four-unit building in Rye don't look like the numbers behind a retail shop, and a CPA who treats them the same will miss things.
 
-Stephen P. Pryor, CPA works with landlords, investors, brokers, and property management companies across Port Chester and across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Our team brings real estate specifics into every conversation, not boilerplate advice pulled from a small business checklist. You get a firm that already knows what questions to ask about your portfolio before you finish explaining it.
+Stephen P. Pryor, CPA works with landlords, investors, brokers, and property management companies from our Port Chester office. If you're looking for a real estate accountant in Port Chester, NY, you get a firm that already knows what to ask about your portfolio before you finish explaining it.
 
-<!-- block: checklist-section | variant: with-image | image: property-portfolio-review.jpg | alt: "Accountant analyzing rental property financial statements on laptop" | query: "accountant reviewing property financial documents" -->
-## Solving the financial challenges unique to real estate
+<!-- block: checklist-section | variant: standalone -->
+## Where real estate owners usually leave money on the table
 
-Most of the real estate owners who come to us are leaving money on the table somewhere, usually without knowing it. A cost segregation study that was never run. Depreciation that's being calculated the slow way instead of the strategic way. A 1031 exchange that got done but triggered a tax surprise nobody saw coming because a deadline or a like-kind detail got missed.
-
-We look at the full picture of how a property or a portfolio is structured and taxed, then find where the strategy is underused.
+A cost segregation study that never got run. Depreciation calculated the slow way. A 1031 exchange that triggered a tax surprise because a deadline got missed. We look at how your property or portfolio is structured and taxed, then find where the strategy is underused.
 
 - Maximizing depreciation through cost segregation studies and accelerated schedules
 - Structuring 1031 exchanges correctly, with attention to timelines and reinvestment rules
@@ -41,68 +39,81 @@ We look at the full picture of how a property or a portfolio is structured and t
 - Catching sales tax and local filing obligations tied to property transactions
 
 <!-- block: content-split | variant: image-left | image: landlord-bookkeeping-review.jpg | alt: "Property manager and accountant reviewing rental income spreadsheets together" | query: "landlord reviewing rental property finances" -->
-## Bookkeeping and accounting built for landlords and property portfolios
+## Bookkeeping built for landlords and property portfolios
 
-When rent comes in from six properties and expenses go out to a dozen vendors, spreadsheets stop being enough. Our bookkeeping service tracks rental income and expenses property by property, reconciles bank and escrow accounts, and keeps your books current instead of catching up every quarter.
+When rent comes in from six properties and expenses go out to a dozen vendors, spreadsheets stop being enough. We track rental income and expenses property by property, reconcile bank and escrow accounts, and keep your books current.
 
-Everything runs through a secure online platform, so you can check occupancy income, maintenance costs, or a single property's performance whenever you need to, not just when tax season rolls around. If a lender asks for current financials or a partner wants to see how a building is performing, the numbers are already there and already accurate.
-
-<!-- block: content-split | variant: image-right | image: real-estate-tax-planning-meeting.jpg | alt: "CPA discussing tax planning strategy with real estate investor at desk" | query: "tax planning meeting real estate client" -->
-## Tax planning and preparation for real estate owners and investors
-
-Real estate tax work doesn't end when the return gets filed. Passive activity rules, depreciation recapture, and multi-property gains and losses need to be modeled out before year-end, not discovered after. We build tax projections throughout the year so you know what a sale, a refinance, or a new acquisition will mean for your bill before it happens.
-
-That includes year-round planning around depreciation strategy, entity-level tax positioning, and how income from different properties or partnerships flows through to your personal return. For real estate agents and brokers, we also handle self-employment tax planning and quarterly estimates so there are no surprises in April.
-
-<!-- block: content-prose -->
-## Choosing the right entity structure for your real estate holdings
-
-Holding property in your own name, an LLC, or a series of LLCs changes both your liability exposure and your tax outcome, and the right answer depends on how many properties you own, how they're financed, and whether you're planning to sell, refinance, or hold long term. We walk through entity type analysis with real estate clients specifically, weighing single-member LLCs against multi-entity holding structures, S-corp elections for management companies, and how each option affects federal and New York state tax filings.
-
-This isn't a one-time conversation. As a portfolio grows or a property gets refinanced, the structure that made sense at the start may need to change, and we revisit it as your holdings do.
+A secure online platform lets you check a single property's performance whenever you need to. If a lender asks for current financials, the numbers are already there.
 
 <!-- block: feature-grid | variant: 3-col -->
-## Payroll and advisory support as your real estate business grows
+## Tax planning that looks ahead, not back
+
+### Projections before you act
+icon: Calculator
+
+We model what a sale, a refinance, or a new acquisition will mean for your bill before it happens.
+
+### Entity structure that evolves
+icon: Building2
+
+Your own name, an LLC, or several LLCs. We revisit the structure as your holdings change.
+
+### Support for agents and brokers
+icon: UserCheck
+
+Self-employment tax planning and quarterly estimates, so April holds no surprises.
+
+<!-- block: feature-grid | variant: 3-col -->
+## Support as your real estate business grows
 
 ### Payroll compliance for property teams
 icon: Users
 
-On-site managers, maintenance staff, and leasing agents all require accurate, on-time payroll tax filings, with the right handling for W-2 employees and 1099 contractors alike. We handle the compliance side, including payroll filings, W-2 and 1099 processing, so nothing falls through the cracks as your team expands.
+On-site managers, maintenance staff, and leasing agents need accurate, on-time payroll tax filings, including W-2 and 1099 processing.
 
 ### Advisory as your portfolio scales
 icon: ChartLine
 
-Acquiring another property, refinancing, or bringing on a partner changes your financial picture. We provide advisory support that looks at the decision before you make it, not just the tax return after.
+We look at an acquisition, refinance, or new partner before you commit, not just on the tax return afterward.
 
 ### Cash flow across properties
 icon: PiggyBank
 
-Vacancy gaps, capital improvements, and seasonal expenses hit differently across a multi-property portfolio. We help you see cash position across all your holdings so you're planning ahead instead of reacting.
+See your cash position across all holdings, so vacancy gaps and capital improvements don't catch you off guard.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Real Estate
 
 **Q: Does Stephen P. Pryor, CPA work with real estate investors outside Port Chester?**
-A: Yes. The firm serves real estate investors and property owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.
+A: Yes. The firm serves real estate investors and property owners across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Our office is in Port Chester, and the secure online platform makes working together easy from anywhere.
 
 **Q: Can you help with a 1031 exchange?**
-A: Yes. We work through the timelines, like-kind requirements, and reinvestment rules that govern 1031 exchanges so the transaction qualifies for deferral and doesn't create an unexpected tax bill down the line.
+A: Yes. We work through the timelines, like-kind requirements, and reinvestment rules that govern 1031 exchanges so the transaction qualifies for deferral and doesn't create an unexpected tax bill down the line. Missed deadlines and like-kind details are the usual causes of surprises.
 
 **Q: Do you handle bookkeeping for multiple rental properties?**
-A: Yes. Our bookkeeping service tracks income and expenses by individual property, reconciles accounts, and gives you real-time visibility into portfolio performance through a secure online platform, whether you own two rentals or twenty.
+A: Yes. Our bookkeeping tracks income and expenses by individual property, reconciles bank and escrow accounts, and gives you real-time visibility into portfolio performance through a secure online platform, whether you own two rentals or twenty. Current numbers are ready when a lender or partner asks.
 
 **Q: What entity structure is best for holding rental property?**
-A: It depends on the number of properties, financing, and your liability exposure. We walk through single-member LLCs, multi-entity holding structures, and S-corp elections for management companies, then match the structure to your specific portfolio and goals.
+A: It depends on the number of properties, financing, and your liability exposure. We walk through holding property in your own name, single-member LLCs, multi-entity structures, and S-corp elections for management companies, including how each affects federal and New York state filings. We revisit the choice as you refinance or grow.
 
 **Q: Can you help real estate agents with quarterly tax payments?**
 A: Yes. Real estate agents and brokers face self-employment tax obligations that require year-round planning. We calculate quarterly estimates and build tax projections so April doesn't bring a surprise bill.
 
+**Q: How do passive activity rules and depreciation recapture affect my taxes?**
+A: Passive activity rules can disallow losses if a property is classified incorrectly, and depreciation recapture can raise the tax on a sale. We model both before year-end, along with multi-property gains and losses, so you know the impact of a sale, refinance, or acquisition in advance.
+
+**Q: What is a cost segregation study and do I need one?**
+A: A cost segregation study breaks a property into components that depreciate faster, which can accelerate deductions. Many owners never run one and calculate depreciation the slow way. We review your portfolio to see whether accelerated schedules make sense for your holdings.
+
+**Q: Do you handle payroll for property management staff?**
+A: Yes. We handle payroll tax filings and W-2 and 1099 processing for on-site managers, maintenance staff, and leasing agents, with the right treatment for employees and contractors, so nothing slips as your team grows.
+
 <!-- block: cta-banner | variant: image-bg | image: real-estate-consultation-handshake.jpg | alt: "Real estate investor shaking hands with CPA after consultation" | query: "business handshake office consultation" -->
 ## Let's talk about your real estate portfolio
 
-Whether you own a single rental in Port Chester or a portfolio spread across the tri-state area and beyond, the right accounting partner should already understand how real estate works before your first meeting. Bundled bookkeeping, tax, and payroll compliance for a fixed monthly fee mean no surprise invoices, and our secure online platform keeps your numbers visible year-round, not just at filing time.
+Bookkeeping, tax, and payroll compliance come bundled for a fixed monthly fee, so there are no surprise invoices. Our secure online platform keeps your numbers visible year-round.
 
-[Schedule a consultation](/contact) and let's go through your properties together.
+[Book a real estate portfolio review](/contact)
 
 ---
 ## SEO & AIO Metadata

@@ -30,11 +30,11 @@ Outsourced accounting from Stephen P. Pryor, CPA gives businesses across the tri
 You get one team that already knows your numbers, your industry, and your goals. That's the difference between hiring help and having a back office that actually works.
 
 <!-- block: checklist-section | variant: with-image | image: outsourced-accounting-team.jpg | alt: "Accountant reviewing bookkeeping and payroll records on a laptop" | query: "accountant reviewing financial records office" -->
-## What our outsourced accounting includes
+## What does outsourced accounting mean? 
 
-Full charge outsourced accounting means every function that keeps your books accurate and your cash flow visible sits under one roof. 
+Full charge outsourced accounting means every function that keeps your books accurate and your cash flow visible sits under one roof.
 
-Each piece works together instead of living in separate spreadsheets or software subscriptions. Bookkeeping, payroll compliance, and tax are available together under one fixed monthly fee, so nothing falls through the gaps between providers. 
+Each piece works together instead of living in separate spreadsheets or software subscriptions. Bookkeeping, payroll compliance, and tax are available together under one fixed monthly fee, so nothing falls through the gaps between providers.
 
 <!-- block: service-cards | variant: 3-col -->
 ## Services included with outsourced accounting
@@ -81,8 +81,6 @@ Business returns are unique to each industry. The team at Stephen P. Pryor, CPA 
 <!-- block: content-split | variant: image-right | image: real-time-financial-dashboard.jpg | alt: "Business owner viewing financial reports on a secure online dashboard" | query: "business owner reviewing dashboard laptop" -->
 ## See your numbers anytime
 
-Most accounting relationships run on a lag. You get a report weeks after the month closes, by which point the decision it should have informed is already made. That's not how we work.
-
 Clients access a secure online platform built for visibility into cash position, payables, and financial performance. No waiting for a monthly PDF. No guessing whether last week's numbers are still accurate.
 
 If you're deciding whether to take on a new project, hire another server, or wait another quarter on a property purchase, you're making that call with current data instead of a stale snapshot. It's the same transparency you'd expect from dedicated in-house staff, delivered without adding headcount.
@@ -115,13 +113,6 @@ Switching accounting providers, or leaving a DIY setup behind, usually comes wit
 We review how you currently track jobs, properties, or nightly sales, then build the outsourced accounting process around what already works instead of forcing you into a template. If your current software or spreadsheet habit is functional, we keep it. If it's costing you time or accuracy, we'll say so and fix it together.
 
 The goal is a transition you barely notice, except for the part where your books finally make sense.
-
-<!-- block: content-prose -->
-## Serving Port Chester and the surrounding region
-
-The great majority of our clients are based in the tri-state area of New York, New Jersey, and Connecticut and the greater New York City area, with a home office in Port Chester. We also support outsourced accounting engagements across Florida and throughout the United States.
-
-Whether your business runs job sites in multiple states, manages rental properties across several towns, or pours drinks seven nights a week, the accounting fundamentals don't change with the zip code. What changes is how well your accounting firm understands your industry, and that's where hands-on knowledge of construction, real estate, and hospitality businesses makes the difference.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Outsourced Accounting
