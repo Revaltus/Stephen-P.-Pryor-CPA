@@ -37,7 +37,7 @@ Bars and pubs are a specific focus here, not an afterthought. During onboarding 
 
 Explore the full [bookkeeping services](/services/bookkeeping) built around this kind of daily reality.
 
-<!-- block: feature-grid | variant: 3-col -->
+<!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Payroll compliance without the paperwork chase
 
 Multi-shift schedules, tipped employees, and seasonal hires make payroll filings harder for restaurants than for most small businesses. We handle the filings so you can run the floor. See how [payroll compliance services](/what-we-do/payroll) fit your operation.
