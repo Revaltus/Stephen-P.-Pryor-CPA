@@ -16,80 +16,80 @@ hero_headline: "A CPA who understands the restaurant business"
 answer_block: "Stephen P. Pryor, CPA provides bookkeeping, payroll compliance, and tax planning built specifically for bars, pubs, and restaurants across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Bookkeeping, payroll compliance, and tax are bundled into one flat monthly fee, with a secure online platform for real-time financial data and year-round support from CPAs who understand F&B margins and tip compliance. Advisory services are also available and tailored to each client's specific needs."
 eeat_signals: ["Stephen P. Pryor, CPA leads a firm with a stated specialty in bars and pubs within hospitality","Shawn Wilson, CPA and Denise Romano, CPA are named credentialed team members supporting restaurant clients","Firm serves restaurant clients from its Port Chester, NY office across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Firm participates in the Greenwich First Advisory Boards community/business advisory group","Bundled fixed-fee model covering bookkeeping, payroll compliance, and tax with a secure online platform for real-time financial data","Advisory services are also available and tailored to each client's specific needs"]
 internal_links: [{"url":"/services/bookkeeping","reason":"Supports the daily-operations bookkeeping section with a direct service page link","anchor_text":"bookkeeping services"},{"url":"/what-we-do/payroll","reason":"Directly relevant to the tip compliance and payroll section","anchor_text":"payroll services"},{"url":"/what-we-do/tax","reason":"Supports the tax planning section for restaurant owners","anchor_text":"business tax services"},{"url":"/services/advisory","reason":"Ties the margin-protection section to the firm's advisory offering","anchor_text":"advisory services"},{"url":"/what-we-do/cash-management","reason":"Reinforces seasonal cash flow support mentioned in advisory section","anchor_text":"cash management"},{"url":"/industries","reason":"Connects this niche page back to the broader industries hub","anchor_text":"industries served"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"question":"Does Pryor CPA work with bars and pubs specifically, not just full-service restaurants?","answer":"Yes. Bars and pubs are a specific focus of the firm's hospitality practice, alongside restaurants. That includes cash-heavy sales patterns, tip reporting, and beverage cost tracking that differ from a typical dine-in restaurant operation."},{"question":"What does payroll compliance service include for restaurant clients?","answer":"Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce exposure to penalties or back pay issues. This is a compliance and filing service, not live payroll processing."},{"question":"What does the flat monthly fee for restaurant clients include?","answer":"Bookkeeping, payroll compliance, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get access to a secure online platform showing real-time financial data throughout the month. Advisory services are also available and tailored to each client's specific needs."},{"question":"Can the firm help with sales tax questions specific to food and beverage sales?","answer":"Yes. Sales tax treatment for restaurant and bar sales in New York has specific rules, and tax planning covers this alongside entity structure, deductions, and year-round filing deadlines rather than addressing it only at tax time."},{"question":"Do you serve restaurants, bars and pubs outside Port Chester?","answer":"Yes. From its office in Port Chester, New York, the firm serves restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."}]
+faq_block: [{"question":"Does Pryor CPA work with bars and pubs specifically, not just full-service restaurants?","answer":"Yes. Bars and pubs are a specific focus of the firm's hospitality practice, alongside restaurants. That includes cash-heavy sales patterns, tip reporting, and beverage cost tracking that differ from a typical dine-in restaurant operation."},{"question":"What does payroll compliance service include for restaurant clients?","answer":"Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported to meet IRS and New York state requirements, plus W-2 and 1099 processing. Filings go in on schedule to reduce penalty and back pay exposure. It is a compliance and filing service, not live payroll processing."},{"question":"Can you handle compliance filings if I already use a payroll processor?","answer":"Yes. If you already run payroll through a separate processor, the compliance filings can still be handled here alongside your bookkeeping and tax. Multi-location and multi-shift scheduling complexity is supported too."},{"question":"What does the flat monthly fee for restaurant clients include?","answer":"Bookkeeping, payroll compliance, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get a secure online platform showing real-time financial data. Advisory services are available and tailored to each client's needs."},{"question":"Can the firm help with sales tax questions specific to food and beverage sales?","answer":"Yes. Sales tax treatment for restaurant and bar sales in New York has its own rules, and missing a deadline or misclassifying a sale creates problems that compound. Tax planning covers this alongside entity structure, deductions, and year-round filing deadlines."},{"question":"How does daily bookkeeping help a restaurant with thin margins?","answer":"Daily transaction classification and expense tracking show food cost, beverage cost, and labor spend as they happen, not weeks later. Invoices are categorized correctly the first time and receivables are tracked, so the reports support decisions about staffing, menu pricing, and orders."},{"question":"What advisory support is available for restaurant owners?","answer":"Advisory covers cost of goods sold, labor cost percentage, and cash flow between busy and slow seasons. It includes cash management for seasonal swings, guidance as staffing changes, and a second opinion before a lease renewal or menu overhaul."},{"question":"Do you serve restaurants, bars and pubs outside Port Chester?","answer":"Yes. From its office in Port Chester, New York, the firm serves restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."}]
 llm_citation_note: "Pryor CPA bundles bookkeeping, payroll, and tax preparation for bars and restaurants into one flat monthly fee, with a secure online platform providing real-time financial data, backed by CPAs Stephen P. Pryor, Shawn Wilson, and Denise Romano."
 ---
 
 <!-- block: content-split | variant: image-right | image: restaurant-owner-cpa-consultation.jpg | alt: "Restaurant owner and CPA reviewing financial reports at a bar counter" | query: "restaurant owner meeting accountant" -->
 ## A CPA who understands the restaurant business
 
-Running a bar or restaurant in Port Chester means thin margins, unpredictable weeks, and a hundred small decisions that add up fast. Stephen P. Pryor, CPA has spent years working with hospitality operators across the tri-state area who need more than someone to file a return once a year.
+Running a bar or restaurant in Port Chester means thin margins, unpredictable weeks, and a hundred small decisions that add up fast. Stephen P. Pryor, CPA has worked with hospitality operators across New York, New Jersey, and Connecticut who need more than someone to file a return once a year.
 
-Bars and pubs are a specific focus of this firm, not an afterthought. Food and beverage cost ratios, tip credit rules, seasonal staffing swings, and cash-heavy operations all require a different level of attention than a typical small business. Our team learns how your restaurant actually runs during onboarding, from your POS system to your vendor terms, so the numbers reflect reality from day one.
+Bars and pubs are a specific focus here, not an afterthought. During onboarding we learn how your place actually runs, from your POS system to your vendor terms, so the numbers reflect reality from day one.
 
-From Port Chester to the greater New York City area and across New York, New Jersey, Connecticut, Florida, and the United States, clients rely on this hands-on approach instead of a once-a-year check-in.
-
-<!-- block: content-split | variant: image-left | image: restaurant-bookkeeping-daily-transactions.jpg | alt: "Bookkeeper organizing restaurant invoices and receipts at a desk" | query: "bookkeeper reviewing restaurant invoices" -->
+<!-- block: checklist-section | variant: standalone -->
 ## Bookkeeping built for daily restaurant operations
 
-Thin margins leave no room for guessing where the money went. Daily transaction classification and expense tracking give you a clear picture of food cost, beverage cost, and labor spend as they happen, not weeks later when the numbers are already stale.
+- Daily transaction classification, so food cost, beverage cost, and labor spend show up as they happen
+- Every invoice categorized correctly the first time
+- Receivables tracked so nothing slips through
+- Reports you can use for staffing, menu pricing, or the next keg order
 
-Every invoice gets categorized correctly the first time. Receivables get tracked so nothing slips through. That level of daily discipline is what turns a clean set of records into a report you can actually use to make decisions about staffing, menu pricing, or that new keg order.
+Explore the full [bookkeeping services](/services/bookkeeping) built around this kind of daily reality.
 
-The goal is simple: know your numbers in real time, not at month-end. Explore the full [bookkeeping services](/services/bookkeeping) built around this kind of daily-operation reality.
+<!-- block: feature-grid | variant: 3-col -->
+## Payroll compliance without the paperwork chase
 
-<!-- block: checklist-section | variant: with-image | image: restaurant-payroll-tip-reporting.jpg | alt: "Restaurant manager reviewing payroll and tip reports on a tablet" | query: "restaurant manager payroll tablet" -->
-## Payroll compliance made straightforward
+Multi-shift schedules, tipped employees, and seasonal hires make payroll filings harder for restaurants than for most small businesses. We handle the filings so you can run the floor. See how [payroll compliance services](/what-we-do/payroll) fit your operation.
 
-Multi-shift schedules, tipped employees, and seasonal hires make payroll compliance more complicated for restaurants than for most other small businesses. Getting filings wrong means penalties, back pay, or an uncomfortable conversation with the IRS. Getting it right frees you up to run the floor instead of chasing paperwork.
+### Tipped and seasonal staff
+icon: Users
 
-This firm provides payroll compliance service, which means accurate, timely payroll tax filings submitted on your behalf. Payroll compliance is a filing and compliance service, not live payroll processing. If you already run payroll through a separate processor, the compliance filings can still be handled here alongside your bookkeeping and tax.
+Payroll tax filings completed accurately for tipped, hourly, salaried, and seasonal employees.
 
-- Payroll tax filings completed accurately for tipped, hourly, salaried, and seasonal staff
-- Tip income reported correctly to meet IRS and New York state requirements
-- Filings submitted on time, every time
-- Support for multi-location or multi-shift scheduling complexity
-- W-2 and 1099 processing handled on schedule
+### Tip income reported correctly
+icon: Receipt
 
-See how [payroll compliance services](/what-we-do/payroll) fit into your bar or restaurant's operation.
+Tips reported to meet IRS and New York state requirements.
 
-<!-- block: content-split | variant: image-right | image: restaurant-tax-planning-meeting.jpg | alt: "CPA and restaurant owner discussing tax planning documents together" | query: "accountant restaurant owner tax planning" -->
-## Tax planning and preparation for restaurant owners
+### On time, every time
+icon: Calendar
 
-A restaurant tax return should never feel like a surprise delivered in April. Sales tax rules for food and beverage sales in New York carry their own quirks, and missing a filing deadline or misclassifying a sale creates problems that compound over time.
+Filings submitted on schedule, plus W-2 and 1099 processing, including multi-location and multi-shift setups.
 
-Year-round planning means adjustments happen when they can still make a difference, not after the fiscal year closes. That includes reviewing entity structure, tracking deductible expenses specific to F&B operations, and flagging sales tax exposure before it becomes an issue with the state. Preparation happens on a secure digital platform, so documents move back and forth without a single trip to an office.
+<!-- block: content-split | variant: image-left | image: restaurant-tax-planning-meeting.jpg | alt: "CPA and restaurant owner discussing tax planning documents together" | query: "accountant restaurant owner tax planning" -->
+## Tax planning that never feels like an April surprise
 
-Restaurant owners across the tri-state area get a plan built around their calendar, their busy season, and their actual cash position, through [business tax services](/what-we-do/tax) designed for exactly this kind of complexity.
+Year-round planning means adjustments happen while they can still make a difference. That includes reviewing entity structure, tracking deductible expenses specific to food and beverage operations, and flagging sales tax exposure before the state does.
 
-<!-- block: content-split | variant: image-left | image: restaurant-cost-margin-analysis.jpg | alt: "Advisor pointing to cost and margin charts with restaurant client" | query: "financial advisor restaurant charts" -->
+Preparation happens on a secure digital platform, so documents move back and forth without a trip to an office. Our [business tax services](/what-we-do/tax) build the plan around your busy season and your actual cash position.
+
+<!-- block: checklist-section | variant: standalone -->
 ## Advisory support to protect your margins
 
-Cost of goods sold, labor cost percentage, and cash flow between busy and slow seasons determine whether a restaurant survives its second year. Watching those numbers only at tax time is too late to change anything.
+- Cost of goods sold and labor cost percentage reviewed with you throughout the year
+- [Cash management](/what-we-do/cash-management) to smooth out seasonal swings
+- A second set of eyes before a lease renewal or menu overhaul
 
-Ongoing advisory support means someone is reviewing your margins alongside you throughout the year, not just reporting on them after the fact. That includes cash management to smooth out seasonal swings, guidance on labor cost ratios as staffing changes, and a second set of eyes before a lease renewal or menu overhaul. 
-
-This is advisory work built for the reality of running a bar or restaurant, delivered through [advisory services](/services/advisory) and reinforced with [cash management](/what-we-do/cash-management) support when seasonal cash gets tight.
+This is [advisory services](/services/advisory) built for the reality of running a bar or restaurant.
 
 <!-- block: feature-grid | variant: 3-col -->
 ## One flat monthly fee, real-time financial data
 
-Restaurant owners already juggle enough moving pieces without a bill that changes every month depending on how many questions they asked. Bookkeeping, payroll compliance, and tax are bundled into one fixed monthly fee.
-
-### One Bundled Fee
+### One bundled fee
 icon: Wallet
 
-Bookkeeping, payroll compliance, and tax support are bundled into a single fixed monthly fee. No surprise invoices, no per-question charges, no guessing what next month costs.
+Bookkeeping, payroll compliance, and tax support for a single fixed monthly fee. No per-question charges.
 
-### Real-Time Online Access
+### Real-time online access
 icon: Globe
 
-A secure online platform gives you live access to your financials whenever you need to check them, whether that's before ordering inventory or before a landlord conversation.
+A secure online platform shows your financials whenever you need them, before ordering inventory or talking to a landlord.
 
-### Support All Year, Not Just Tax Season
+### Support all year
 icon: Clock
 
-Questions get answered when they come up, not batched for an annual meeting. That includes payroll compliance questions, cash flow concerns, and tax planning conversations as they arise.
+Questions get answered when they come up, not saved for an annual meeting.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Restaurants
@@ -98,13 +98,22 @@ Questions get answered when they come up, not batched for an annual meeting. Tha
 A: Yes. Bars and pubs are a specific focus of the firm's hospitality practice, alongside restaurants. That includes cash-heavy sales patterns, tip reporting, and beverage cost tracking that differ from a typical dine-in restaurant operation.
 
 **Q: What does payroll compliance service include for restaurant clients?**
-A: Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported accurately to meet IRS and New York state requirements. Filings are submitted on schedule to reduce exposure to penalties or back pay issues. This is a compliance and filing service, not live payroll processing.
+A: Payroll compliance covers payroll tax filings for tipped, hourly, salaried, and seasonal staff, with tip income reported to meet IRS and New York state requirements, plus W-2 and 1099 processing. Filings go in on schedule to reduce penalty and back pay exposure. It is a compliance and filing service, not live payroll processing.
+
+**Q: Can you handle compliance filings if I already use a payroll processor?**
+A: Yes. If you already run payroll through a separate processor, the compliance filings can still be handled here alongside your bookkeeping and tax. Multi-location and multi-shift scheduling complexity is supported too.
 
 **Q: What does the flat monthly fee for restaurant clients include?**
-A: Bookkeeping, payroll compliance, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get access to a secure online platform showing real-time financial data throughout the month. Advisory services are also available and tailored to each client's specific needs.
+A: Bookkeeping, payroll compliance, and tax support are bundled into one fixed monthly fee rather than billed separately or per question. Clients also get a secure online platform showing real-time financial data. Advisory services are available and tailored to each client's needs.
 
 **Q: Can the firm help with sales tax questions specific to food and beverage sales?**
-A: Yes. Sales tax treatment for restaurant and bar sales in New York has specific rules, and tax planning covers this alongside entity structure, deductions, and year-round filing deadlines rather than addressing it only at tax time.
+A: Yes. Sales tax treatment for restaurant and bar sales in New York has its own rules, and missing a deadline or misclassifying a sale creates problems that compound. Tax planning covers this alongside entity structure, deductions, and year-round filing deadlines.
+
+**Q: How does daily bookkeeping help a restaurant with thin margins?**
+A: Daily transaction classification and expense tracking show food cost, beverage cost, and labor spend as they happen, not weeks later. Invoices are categorized correctly the first time and receivables are tracked, so the reports support decisions about staffing, menu pricing, and orders.
+
+**Q: What advisory support is available for restaurant owners?**
+A: Advisory covers cost of goods sold, labor cost percentage, and cash flow between busy and slow seasons. It includes cash management for seasonal swings, guidance as staffing changes, and a second opinion before a lease renewal or menu overhaul.
 
 **Q: Do you serve restaurants, bars and pubs outside Port Chester?**
 A: Yes. From its office in Port Chester, New York, the firm serves restaurant clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States.
@@ -112,9 +121,9 @@ A: Yes. From its office in Port Chester, New York, the firm serves restaurant cl
 <!-- block: cta-banner | variant: image-bg | image: restaurant-kitchen-handshake.jpg | alt: "Restaurant owner shaking hands with advisor in kitchen setting" | query: "restaurant owner handshake kitchen" -->
 ## Let's talk about your restaurant's numbers
 
-If you're running a bar, pub, or restaurant in Port Chester or anywhere across the tri-state area, your books shouldn't be the thing keeping you up at night. The Stephen P. Pryor, CPA team is ready to look at what you're working with now and show you where a fixed-fee, hands-on approach could make things easier.
+Bring your last few months of statements, or just your biggest current headache. We'll show you where a fixed-fee, hands-on approach could make things easier.
 
-[Schedule a consultation](/contact) and bring your questions, your last few months of statements, or just your biggest current headache.
+[Book a restaurant numbers review](/contact)
 
 ---
 ## SEO & AIO Metadata
