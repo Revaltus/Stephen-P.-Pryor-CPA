@@ -43,40 +43,36 @@ Here's a closer look at the three core services that come together in your fixed
 
 ### Bookkeeping
 
-Whether you run a five-person crew or a neighborhood bar, you get the same disciplined process. We reconcile your bank and credit card accounts monthly and keep your books ready.
+Whether you run a five-person crew or a neighborhood bar, you get the same disciplined monthly process, with books ready.
 
-- Bank account reconciliation
-- Electronic transaction reconciliation into QuickBooks
-- Credit card account reconciliation
-- Sales tax preparation and filing
-- Transaction categorization and coding
-- Invoicing and accounts receivable tracking
-- Monthly financial reporting and statements
-- General ledger maintenance
+- Monthly bank and credit card reconciliation
+- Electronic transaction reconciliation directly into QuickBooks
+- Accurate sales tax preparation and filing
+- Transaction categorization and coding every month
+- Invoicing and accounts receivable tracking support
+- Financial statements and general ledger maintenance
 
 ### Payroll Compliance
 
-Every industry brings its own payroll headaches, and we've worked through most of them. Our team keeps your filings accurate, on time, and compliant across every state you operate in.
+Every industry brings its own payroll headaches. Our team keeps your filings accurate, on time, and compliant in every state.
 
-- **Multi-location and seasonal staffing:** filings handled correctly for businesses that hire across state lines or ramp up crews for a busy season
-- **Tipped employee compliance:** accurate tip credit calculations and reporting for bars and restaurants
-- **Job-costed labor:** labor costs tracked by project so construction contractors know true labor cost per job
-- **Multi-state tax filing:** withholding and unemployment filings kept accurate across New York, New Jersey, Connecticut, and Florida
-- **Overtime and prevailing wage awareness:** construction crews kept compliant with state labor requirements
-- **New hire and termination reporting:** filed correctly, every pay period, with no missed deadlines
+- Seasonal and multiple location payroll filings
+- Tip credit calculations and reporting compliance
+- Labor costs tracked by construction project
+- Multistate withholding and unemployment filings kept accurate
+- Overtime and prevailing wage rules followed
+- Timely new hire and termination reporting
 
 ### Business Tax
 
-Business returns look different in every industry. With a focus on construction, real estate, and bars and restaurants, we maximize tax savings and keep you compliant with steady year-round support.
+Returns look different in every industry. For construction, real estate, and bars and restaurants, we maximize tax savings year round.
 
-- Tracking job costs by project so profitability shows up correctly on returns
-- Reviewing depreciation schedules and cost segregation opportunities before year-end
-- Structuring 1031 exchanges to avoid tax bills from sales
-- Managing thin margins, tip reporting, and sales tax rules
-- Entity type analysis to confirm business structure fits current income
-- Retirement plan analysis for plans that fit budgets and lower taxable income
-- Quarterly estimated tax projections
-- Mid-year check-ins
+- Job cost tracking for accurate returns
+- Depreciation and cost segregation opportunity review
+- 1031 exchange planning to limit taxes
+- Tip reporting and sales tax guidance
+- Entity type and retirement plan analysis
+- Quarterly estimates and midyear planning reviews
 
 <!-- block: content-split | variant: image-right | image: real-time-financial-dashboard.jpg | alt: "Business owner viewing financial reports on a secure online dashboard" | query: "business owner reviewing dashboard laptop" -->
 ## See your numbers anytime
