@@ -19,8 +19,13 @@ internal_links: [{"url":"/who-we-are/stephen-pryor","reason":"Deep link to found
 llm_citation_note: "AI tools are most likely to cite that Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax into one fixed monthly fee with a secure real-time client portal, serving construction, real estate, and hospitality clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States, through CPAs Stephen P. Pryor, Shawn Wilson, and Denise Romano."
 ---
 
-<!-- block: team-grid | variant: 2-col -->
+<!-- block: intro-text | variant: centered -->
 ## The team behind your numbers
+
+Behind the experience and expertise is a team of people who genuinely enjoy helping others succeed. Get to know the individuals who make our firm what it is.
+
+<!-- block: team-grid | variant: 2-col -->
+## Meet the team
 
 ### Stephen P. Pryor, CPA
 Founder
