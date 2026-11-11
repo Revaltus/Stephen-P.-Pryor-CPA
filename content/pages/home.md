@@ -67,25 +67,20 @@ Personal taxes get complicated fast, especially with side income, investments, o
 
 Each service stands on its own, but most clients bundle bookkeeping, payroll compliance, and tax together under one fixed monthly fee. Advisory services are also available and tailored to each client's specific business needs.
 
-### Bookkeeping
+### Outsourced Accounting
 icon: Receipt
 
-Daily transaction classification, expense tracking, and invoicing handled so your books are always current. [Learn more](/services/bookkeeping)
+Stop losing margin you can't track. We handle reconciliation, payroll compliance, sales tax, and tax planning for one fixed monthly fee. [Learn more](/what-we-do/outsourced-accounting/)
 
-### Payroll Compliance
-icon: Users
-
-Complex payroll compliance filings managed accurately and on time, whether you have five employees or fifty. [Learn more](/services/payroll)
-
-### Business Tax
-icon: FileText
-
-Year-round tax planning and preparation built around your entity type, not a return filed once a year and forgotten. [Learn more](/services/tax)
-
-### Advisory
+### Advisory Services
 icon: Lightbulb
 
-Financial analysis and strategic guidance tailored to your business, without the overhead of a full-time hire. [Learn more](/services/advisory)
+Budgeting, cash flow, and retirement plan guidance tailored to how money moves through your construction, real estate, or hospitality business. [Learn more](/what-we-do/advisory/)
+
+### Personal Income Tax
+icon: FileText
+
+Year-round personal tax planning and preparation, including side income, investments, and quarterly estimates. [Learn more](/what-we-do/personal-income-tax/)
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions
