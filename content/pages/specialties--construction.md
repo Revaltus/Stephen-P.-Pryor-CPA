@@ -16,59 +16,61 @@ hero_headline: "A CPA firm that understands construction businesses"
 answer_block: "Stephen P. Pryor, CPA provides construction accounting in Port Chester, NY, including job-cost-based bookkeeping, payroll compliance for crews and subcontractors, and year-round tax planning. Bookkeeping, payroll compliance, and tax services bundle into one fixed monthly fee, with a secure online platform giving contractors real-time access to job costs and cash flow. The firm serves construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
 eeat_signals: ["Stephen P. Pryor, CPA - licensed CPA serving construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Shawn Wilson, CPA - firm accountant supporting construction and real estate clients","Denise Romano, CPA - firm accountant supporting construction and real estate clients","Bundled fixed-monthly-fee model covering bookkeeping, payroll compliance, and tax for construction businesses","Secure online platform delivering real-time job cost and cash flow data"]
 internal_links: [{"url":"/services/bookkeeping","reason":"Links to the core bookkeeping service referenced in the job costing section","anchor_text":"bookkeeping"},{"url":"/services/tax","reason":"Links to the tax service page supporting the year-round planning discussion","anchor_text":"tax"},{"url":"/what-we-do/entity-type-analysis","reason":"Supports the entity structure discussion for growing construction businesses","anchor_text":"entity type analysis"},{"url":"/what-we-do/cash-management","reason":"Reinforces real-time cash flow visibility for active construction projects","anchor_text":"cash management"},{"url":"/contact","reason":"Primary page CTA driving construction prospects to book a consultation","anchor_text":"Schedule a consultation"},{"url":"/industries","reason":"Links back to the industries hub for cross-navigation to real estate and restaurants","anchor_text":"industries we serve"}]
-faq_block: [{"question":"Do you work with construction companies outside Port Chester?","answer":"Yes. From its office in Port Chester, New York, the firm serves construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes it easy to work with contractors wherever a job site is located."},{"question":"What makes construction bookkeeping different from regular bookkeeping?","answer":"Construction bookkeeping tracks costs by project and phase, not just by category, so you can see profitability on each individual job. Labor, materials, subcontractor draws, and retainage all get coded to the specific contract they belong to, instead of getting lumped into general business expenses."},{"question":"Can you handle certified payroll and prevailing wage requirements?","answer":"Yes. Payroll compliance services cover multiple pay rates, job-site allocation, union scale requirements, prevailing wage calculations, and certified payroll reporting for public and private construction projects, so filings stay accurate and compliant across every crew and job site."},{"question":"How does the fixed monthly fee work for construction clients?","answer":"Bookkeeping, payroll compliance, and tax services bundle into one fixed monthly fee, so questions about job costs or a mid-project payroll issue never turn into extra invoices. The fee is set based on your business's needs during onboarding and stays predictable year-round."},{"question":"What entity structure is best for a construction business?","answer":"It depends on contract size, number of partners, and growth plans. Entity type analysis compares S-corp, partnership, and LLC structures against your specific state and federal tax situation, so the decision is based on where the business is headed, not a generic recommendation."}]
+faq_block: [{"question":"Do you work with construction companies outside Port Chester?","answer":"Yes. From its office in Port Chester, New York, the firm serves construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes it easy to work with contractors wherever a job site is located."},{"question":"What makes construction bookkeeping different from regular bookkeeping?","answer":"Construction bookkeeping tracks costs by project and phase, not just by category, so you can see profitability on each job. Labor, materials, subcontractor draws, and retainage get coded to the specific contract they belong to instead of being lumped into general expenses. You catch overruns before the final draw."},{"question":"Can you handle certified payroll and prevailing wage requirements?","answer":"Yes. Payroll compliance covers multiple pay rates, job-site allocation, union scale requirements, prevailing wage calculations, and certified payroll reporting for contractors on public works contracts. Filings stay accurate across every crew and site, so a payroll mistake doesn't hold up a draw or create a compliance problem on a public project."},{"question":"How does the fixed monthly fee work for construction clients?","answer":"Bookkeeping, payroll compliance, and tax services bundle into one fixed monthly fee, so questions about job costs or a mid-project payroll issue never turn into extra invoices. The fee is set based on your business's needs during onboarding and stays predictable year-round."},{"question":"What entity structure is best for a construction business?","answer":"It depends on contract size, number of partners, and growth plans. Entity type analysis compares S-corp, partnership, and LLC structures against your state and federal tax situation. Getting the structure right before a big contract year, not after, is usually where the real tax savings show up."},{"question":"How do you handle tax rules when we work in several states?","answer":"New York, New Jersey, and Connecticut each carry their own tax rules, and work beyond them adds more. Year-round tax planning means estimated payments, equipment purchases, and entity decisions are made with every state in view, not in a rush each March."},{"question":"What financial problems do you see most often with contractors?","answer":"Cash flow that swings between project phases, job costing tracked by feel, payroll complications from union scales and prevailing wage, lost retainage and change orders, and subcontractor 1099 tracking that piles up at year end. Each one is handled as the work happens rather than at close-out."},{"question":"Can I see my job numbers without calling the office?","answer":"Yes. The secure online platform gives you access to job costs, cash flow, and financial reports from the trailer, the truck, or the office. That matters on active jobs, when a labor overrun or material price spike needs a decision this week. Cash management support lets you watch cash and profitability together."}]
 llm_citation_note: "From its office in Port Chester, New York, Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance, and tax services for construction businesses into a single fixed monthly fee, backed by a secure online platform for real-time job cost and cash flow data. The firm serves construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
 ---
 
 <!-- block: hero-split | variant: image-right -->
 
-<!-- block: content-split | variant: image-right | image: construction-job-site-review.jpg | alt: "Contractor and CPA reviewing project costs on a construction site" | query: "contractor accountant reviewing blueprints" -->
-## A CPA firm that understands construction businesses
+<!-- block: intro-text | variant: left-aligned -->
+## A construction CPA in Port Chester who tracks every job
 
-Construction is a cash business until it isn't. Money goes out for materials, labor, and permits long before a project bills out. If you're not tracking each job separately, you can look profitable on paper while the bank account tells a different story.
+Construction is a cash business until it isn't. Money goes out for materials, labor, and permits long before a project bills out, so you can look profitable on paper while the bank account says otherwise.
 
-Stephen P. Pryor, CPA has worked with contractors, builders, and subcontractors across Port Chester and the tri-state area long enough to know that construction accounting isn't really about ledgers. It's about knowing which job is making money and which one is quietly costing you. Whether you're running a crew in the New York metro area or into Florida and beyond, the numbers have to keep pace with the work.
-
-Bookkeeping, payroll compliance, and tax come bundled into one fixed monthly fee, so a phone call about a job cost question never turns into a surprise invoice. One team learns your job costing system, your subcontractor list, and your crew, and stays with you as the work changes, whether that's a single site in Port Chester or jobs spread across the tri-state area, Florida, and throughout the United States.
+Stephen P. Pryor, CPA works with contractors, builders, and subcontractors in Port Chester, across New York, New Jersey, and Connecticut, and beyond. The goal is simple: you know which job is making money and which one is quietly costing you.
 
 <!-- block: checklist-section | variant: with-image | image: construction-cash-flow-planning.jpg | alt: "Construction business owner reviewing cash flow reports and invoices" | query: "contractor reviewing financial reports office" -->
-## The financial challenges construction companies face
+## Where contractors lose margin
 
-Contractors don't lose money because they're bad at the work. They lose it because the accounting doesn't keep pace with how construction actually operates: draws, retainage, change orders, and crews moving between sites. Before we open a single ledger, we've usually already seen these problems play out on job sites across New York, New Jersey, Connecticut, Florida, and throughout the United States.
+Contractors don't lose money because they're bad at the work. The accounting just doesn't keep pace with draws, retainage, change orders, and crews moving between sites.
 
-- Cash flow that swings hard between project phases, with big outlays up front and payment held until milestones or final completion
-- Job costing that's tracked by feel instead of by phase, making it hard to know which contracts are actually profitable
-- Payroll complications from union scales, prevailing wage requirements, certified payroll reporting, and crews split across multiple job sites
-- Retainage and change orders that get lost in the shuffle, shrinking margins nobody notices until the project closes out
-- Subcontractor payments and 1099 tracking that pile up at year end instead of getting handled as the work happens
+- Cash flow that swings between project phases, with big outlays up front and payment held until milestones
+- Job costing tracked by feel instead of by phase
+- Payroll complications from union scales, prevailing wage, and certified payroll reporting
+- Retainage and change orders that get lost until the project closes out
+- Subcontractor payments and 1099 tracking that pile up at year end
 
 <!-- block: content-split | variant: image-left | image: job-costing-bookkeeping-review.jpg | alt: "Bookkeeper analyzing project cost reports for a construction company" | query: "bookkeeper reviewing project cost spreadsheet" -->
-## Bookkeeping built around job costing and project profitability
+## Bookkeeping that shows profit job by job
 
-Generic bookkeeping treats every expense the same. Construction bookkeeping has to answer a different question: is this specific job making money, right now, at this phase? Our [bookkeeping](/services/bookkeeping) service tracks costs by project and by phase, so labor, materials, subcontractor draws, and overhead all get coded to the job they belong to.
+Our [bookkeeping](/services/bookkeeping) service codes labor, materials, subcontractor draws, and overhead to the job they belong to. You see profitability phase by phase, not a year-end surprise.
 
-That means you can see a phase-by-phase profitability picture instead of waiting for a year-end report to tell you a job lost money three months after it closed. Bills get tracked, invoices go out on time, and the numbers stay current enough to actually inform a bid on the next job. When a contract runs over budget, you find out while there's still time to do something about it, not after the final draw.
+When a contract runs over budget, you find out while there's still time to act. The numbers stay current enough to price your next bid.
 
-<!-- block: content-split | variant: image-right | image: construction-crew-payroll-check.jpg | alt: "Construction crew reviewing payroll documents on a job site" | query: "construction crew reviewing paperwork job site" -->
-## Payroll support for crews, subcontractors, and multi-site jobs
+<!-- block: feature-grid | variant: 3-col -->
+## Payroll, tax, and entity support built for contractors
 
-Construction payroll rarely looks like a standard nine-to-five payroll run. Crews split time across multiple job sites in a single week. Union scales and prevailing wage rates change the math from one contract to the next, and certified payroll reporting has to be right, because a mistake there can hold up a draw or trigger a compliance headache with a public project.
+### Payroll for crews and multi-site jobs
+icon: Users
 
-Our [payroll compliance](/services/payroll) service is built to handle that complexity: multiple pay rates, job-site allocation, subcontractor payments, and the filings that come with them, processed accurately and on time. Crews get paid correctly, compliance paperwork gets filed, and you're not the one untangling a payroll report at 9pm before a certified payroll deadline.
+Multiple pay rates, job-site allocation, subcontractor payments, and certified payroll and prevailing wage support for public works contracts. See our [payroll compliance](/services/payroll) service.
 
-<!-- block: content-split | variant: image-left | image: contractor-tax-planning-meeting.jpg | alt: "Construction business owner and CPA discussing tax planning documents" | query: "small business owner meeting accountant tax" -->
-## Tax planning and entity strategy for contractors
+### Year-round tax planning
+icon: Calculator
 
-Tax season shouldn't be the first time you find out how the year actually went. Year-round [tax](/services/tax) planning means we're looking at your numbers throughout the year, not just in March, so estimated payments, equipment purchases, and entity decisions get made with the whole picture in view instead of a rear-view mirror. That matters even more when your work crosses state lines. New York, New Jersey, Connecticut, and beyond each carry their own tax rules, and keeping up with all of them across state lines is part of the job.
+We look at your numbers throughout the year, so estimated payments and equipment purchases are decided with the whole picture. Learn about our [tax](/services/tax) service.
 
-As construction businesses grow, take on bigger contracts, or add partners, the right legal entity structure changes too. Our [entity type analysis](/what-we-do/entity-type-analysis) looks at how your business is set up today against where it's headed, covering the state and federal tax implications of S-corp, partnership, and LLC structures for contractors. Getting that structure right before a big contract year, not after, is usually where the real tax savings show up.
+### Entity strategy
+icon: Building2
+
+Our [entity type analysis](/what-we-do/entity-type-analysis) compares S-corp, partnership, and LLC structures before a big contract year, not after.
 
 <!-- block: content-split | variant: image-right | image: contractor-mobile-financial-dashboard.jpg | alt: "Contractor checking financial dashboard on a laptop at a job site" | query: "contractor laptop financial dashboard site" -->
-## Real-time visibility into your numbers
+## See your numbers from the truck or the trailer
 
-You shouldn't have to call the office to find out how a job is trending. Our secure online platform gives you real-time access to job costs, cash flow, and financial reports from the trailer, the truck, or the office, whenever you need a number, not just at month-end.
+Our secure online platform gives you access to job costs, cash flow, and financial reports whenever you need a number, not just at month-end.
 
-That kind of visibility matters most on active jobs, when a labor overrun or a material price spike needs a decision this week, not next quarter. Paired with [cash management](/what-we-do/cash-management) support, it means you're watching cash position and job profitability at the same time, instead of guessing at both.
+Paired with [cash management](/what-we-do/cash-management) support, you watch cash position and job profitability at the same time. Bookkeeping, payroll compliance, and tax come bundled into one fixed monthly fee, so a job-cost question never becomes a surprise invoice.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Construction
@@ -77,23 +79,32 @@ That kind of visibility matters most on active jobs, when a labor overrun or a m
 A: Yes. From its office in Port Chester, New York, the firm serves construction clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The secure online platform makes it easy to work with contractors wherever a job site is located.
 
 **Q: What makes construction bookkeeping different from regular bookkeeping?**
-A: Construction bookkeeping tracks costs by project and phase, not just by category, so you can see profitability on each individual job. Labor, materials, subcontractor draws, and retainage all get coded to the specific contract they belong to, instead of getting lumped into general business expenses.
+A: Construction bookkeeping tracks costs by project and phase, not just by category, so you can see profitability on each job. Labor, materials, subcontractor draws, and retainage get coded to the specific contract they belong to instead of being lumped into general expenses. You catch overruns before the final draw.
 
 **Q: Can you handle certified payroll and prevailing wage requirements?**
-A: Yes. Payroll compliance services cover multiple pay rates, job-site allocation, union scale requirements, prevailing wage calculations, and certified payroll reporting for public and private construction projects, so filings stay accurate and compliant across every crew and job site.
+A: Yes. Payroll compliance covers multiple pay rates, job-site allocation, union scale requirements, prevailing wage calculations, and certified payroll reporting for contractors on public works contracts. Filings stay accurate across every crew and site, so a payroll mistake doesn't hold up a draw or create a compliance problem on a public project.
 
 **Q: How does the fixed monthly fee work for construction clients?**
 A: Bookkeeping, payroll compliance, and tax services bundle into one fixed monthly fee, so questions about job costs or a mid-project payroll issue never turn into extra invoices. The fee is set based on your business's needs during onboarding and stays predictable year-round.
 
 **Q: What entity structure is best for a construction business?**
-A: It depends on contract size, number of partners, and growth plans. Entity type analysis compares S-corp, partnership, and LLC structures against your specific state and federal tax situation, so the decision is based on where the business is headed, not a generic recommendation.
+A: It depends on contract size, number of partners, and growth plans. Entity type analysis compares S-corp, partnership, and LLC structures against your state and federal tax situation. Getting the structure right before a big contract year, not after, is usually where the real tax savings show up.
+
+**Q: How do you handle tax rules when we work in several states?**
+A: New York, New Jersey, and Connecticut each carry their own tax rules, and work beyond them adds more. Year-round tax planning means estimated payments, equipment purchases, and entity decisions are made with every state in view, not in a rush each March.
+
+**Q: What financial problems do you see most often with contractors?**
+A: Cash flow that swings between project phases, job costing tracked by feel, payroll complications from union scales and prevailing wage, lost retainage and change orders, and subcontractor 1099 tracking that piles up at year end. Each one is handled as the work happens rather than at close-out.
+
+**Q: Can I see my job numbers without calling the office?**
+A: Yes. The secure online platform gives you access to job costs, cash flow, and financial reports from the trailer, the truck, or the office. That matters on active jobs, when a labor overrun or material price spike needs a decision this week. Cash management support lets you watch cash and profitability together.
 
 <!-- block: cta-banner | variant: image-bg | image: contractor-handshake-office-meeting.jpg | alt: "Construction business owner shaking hands with a CPA advisor" | query: "business handshake meeting professional office" -->
 ## Let's talk about your construction business
 
-You already carry enough on a job site. Let Stephen P. Pryor, CPA carry the numbers: job costing, payroll, tax planning, and the entity structure that fits where your construction business is headed. Contractors across New York, New Jersey, Connecticut, Florida, and throughout the United States work with us because they'd rather spend their time on the next bid than the last invoice.
+You carry enough on a job site. Let us carry the numbers, from job costing to payroll to the entity structure that fits where you're headed.
 
-[Schedule a consultation](/contact) and let's talk about what your construction business actually needs from its accounting.
+[Book a job-costing review](/contact)
 
 ---
 ## SEO & AIO Metadata
