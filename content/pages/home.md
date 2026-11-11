@@ -70,17 +70,17 @@ Each service stands on its own, but most clients bundle bookkeeping, payroll com
 ### Outsourced Accounting
 icon: Receipt
 
-Stop losing margin you can't track. We handle reconciliation, payroll compliance, sales tax, and tax planning for one fixed monthly fee. [Learn more](/services/outsourced-accounting)
+Stop losing margin you can't track. We handle reconciliation, payroll compliance, sales tax, and tax planning for one fixed monthly fee. [Learn more](/what-we-do/outsourced-accounting/)
 
 ### Advisory Services
 icon: Lightbulb
 
-Budgeting, cash flow, and retirement plan guidance tailored to how money moves through your construction, real estate, or hospitality business. [Learn more](/services/advisory)
+Budgeting, cash flow, and retirement plan guidance tailored to how money moves through your construction, real estate, or hospitality business. [Learn more](/what-we-do/advisory/)
 
 ### Personal Income Tax
 icon: FileText
 
-Year-round personal tax planning and preparation, including side income, investments, and quarterly estimates. [Learn more](/what-we-do/personal-income-tax)
+Year-round personal tax planning and preparation, including side income, investments, and quarterly estimates. [Learn more](/what-we-do/personal-income-tax/)
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions
