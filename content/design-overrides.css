@@ -9,6 +9,8 @@
     --tracking-display: -0.025em
 
 
+
+
 }
 [data-block="cta-banner"] {
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400' fill='none' stroke='%23cfd8b8' stroke-opacity='0.22' stroke-width='1.5'%3E%3Cellipse cx='300' cy='300' rx='60' ry='40'/%3E%3Cellipse cx='300' cy='300' rx='110' ry='76'/%3E%3Cellipse cx='300' cy='300' rx='160' ry='112'/%3E%3Cellipse cx='300' cy='300' rx='210' ry='150'/%3E%3Cellipse cx='300' cy='300' rx='260' ry='188'/%3E%3C/svg%3E");
@@ -172,6 +174,11 @@
     background: var(--color-complementary)
 }
 /* /design-studio:industry-cards */
+/* design-studio:answer-callout */
+[data-block="answer-callout"] > div:first-child {
+    border-radius: var(--radius-none)
+}
+/* /design-studio:answer-callout */
 /* design-studio:navbar */
 [data-component="navbar"] {
     border-bottom: 1px solid var(--color-border)
