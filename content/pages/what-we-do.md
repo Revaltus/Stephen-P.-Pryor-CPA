@@ -16,105 +16,125 @@ hero_headline: "A CPA partner that handles your numbers year round"
 answer_block: "Stephen P. Pryor, CPA provides bookkeeping, payroll compliance, business and personal tax, and advisory services for businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Bookkeeping, payroll compliance, and tax are each bundled into one fixed monthly fee with real-time online access to financial data. Advisory services are available separately. The firm serves construction, real estate, and bar and restaurant clients alongside individuals and new business owners from its office in Port Chester, New York."
 eeat_signals: ["Founded and led by Stephen P. Pryor, CPA","Team includes Shawn Wilson, CPA and Denise Romano, CPA","Member, Greenwich First Advisory Boards","Based in Port Chester, NY, serving clients across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Specialized service delivery for construction, real estate, and bar and restaurant clients"]
 internal_links: [{"url":"/what-we-do/bookkeeping","reason":"Links to dedicated bookkeeping service page for deeper detail","anchor_text":"bookkeeping services"},{"url":"/what-we-do/payroll","reason":"Links to dedicated payroll service page","anchor_text":"payroll services"},{"url":"/what-we-do/tax","reason":"Links to business tax service detail","anchor_text":"business tax"},{"url":"/what-we-do/entity-type-analysis","reason":"Supports business tax section with entity planning detail","anchor_text":"entity structure"},{"url":"/what-we-do/personal-income-tax","reason":"Links to personal tax service detail","anchor_text":"personal income tax"},{"url":"/what-we-do/cash-management","reason":"Links to advisory sub-service detail","anchor_text":"cash management"},{"url":"/what-we-do/retirement-plan-analysis","reason":"Links to advisory sub-service detail","anchor_text":"retirement plan analysis"},{"url":"/what-we-do/accounting-system-setup","reason":"Links to advisory sub-service detail","anchor_text":"accounting system setup"},{"url":"/industries/construction","reason":"Links to construction industry page for deeper niche content","anchor_text":"Learn more"},{"url":"/industries/real-estate","reason":"Links to real estate industry page for deeper niche content","anchor_text":"Learn more"},{"url":"/industries/restaurants","reason":"Links to restaurant industry page for deeper niche content","anchor_text":"Learn more"},{"url":"/contact","reason":"Primary page CTA driving conversion","anchor_text":"Schedule a consultation"}]
-faq_block: [{"question":"What accounting services does Stephen P. Pryor, CPA offer in Port Chester, NY?","answer":"The firm provides bookkeeping, payroll compliance, business and personal tax planning and preparation, and advisory services. Bookkeeping, payroll compliance, and tax are each bundled into one fixed monthly fee with real-time access through a secure online platform. Advisory services are available separately."},{"question":"Do you work with construction and real estate businesses?","answer":"Yes. The firm specializes in job costing and cash flow tracking for construction businesses and depreciation, cost segregation, and 1031 exchange planning for real estate clients, in addition to standard bookkeeping and tax services."},{"question":"How does the fixed monthly fee work?","answer":"Bookkeeping, payroll compliance, and tax are each bundled into one predictable monthly fee, so there's no surprise invoice for a phone call or extra report. Advisory services are available separately and are not included in the fixed monthly bundle. The fixed fee is designed for year-round support rather than one-time seasonal work."},{"question":"What does the payroll compliance service include?","answer":"The payroll compliance service covers payroll filings, W-2 and 1099 processing, and state and federal payroll tax deposits. It is a compliance service, not a live payroll processing service. The firm manages the filings and tax obligations for employers who run their own payroll or work with a payroll provider, ensuring accuracy and timely compliance."},{"question":"Can you help with bookkeeping and tax for a bar or restaurant?","answer":"Yes. The firm handles margin tracking, cash handling, tip reporting compliance, and the sales tax complexity specific to bars and restaurants, alongside standard bookkeeping, payroll compliance, and tax preparation."},{"question":"Do you prepare personal income tax returns as well as business returns?","answer":"Yes. Personal income tax planning and preparation is available alongside business services, which is useful for business owners who want their household and business numbers handled by the same team throughout the year."}]
+faq_block: [{"question":"What accounting services does Stephen P. Pryor, CPA offer in Port Chester, NY?","answer":"The firm provides bookkeeping, payroll compliance, business and personal tax planning and preparation, and advisory services. Bookkeeping, payroll compliance, and tax are bundled into one fixed monthly fee with real-time access through a secure online platform. Advisory services are available separately. Clients include small businesses and individuals across Port Chester and New York City."},{"question":"Do you work with construction and real estate businesses?","answer":"Yes. As a construction CPA and real estate accountant serving Port Chester, NY, the firm handles job costing and cash flow tracking for contractors, and depreciation, cost segregation, and 1031 exchange planning for real estate clients, alongside standard bookkeeping and tax services."},{"question":"How does the fixed monthly fee work?","answer":"Bookkeeping, payroll compliance, and tax are bundled into one predictable monthly fee, so there's no surprise invoice for a phone call or extra report. Advisory services are available separately and are not included in the bundle. The fixed fee is designed for year-round support rather than one-time seasonal work."},{"question":"What does the payroll compliance service include?","answer":"It covers payroll filings, W-2 and 1099 processing, and state and federal payroll tax deposits. It is a compliance service, not live payroll processing. The firm manages filings and tax obligations for employers who run their own payroll or use a payroll provider, including the shifting wages common in hospitality and construction."},{"question":"Can you help with bookkeeping and tax for a bar or restaurant?","answer":"Yes. As a restaurant CPA near Port Chester, NY, the firm handles margin tracking, cash handling, tip reporting compliance, and the sales tax complexity specific to bars, pubs, and restaurants, alongside bookkeeping, payroll compliance, and tax preparation."},{"question":"How does business tax planning differ from filing a return?","answer":"A return reports what already happened. Planning starts with your entity structure, whether LLC, S-corp, or partnership, since it affects what you owe and how you pay yourself. From there come quarterly check-ins, projections before year-end, and strategy on equipment purchases, retirement contributions, and income timing."},{"question":"Do you prepare personal income tax returns as well as business returns?","answer":"Yes. Personal tax planning and preparation is available alongside business services, which helps owners who want household and business numbers handled by the same team all year. It also suits individuals with side income, rental income, investments, or life changes like a new home."},{"question":"What does advisory cover beyond compliance?","answer":"Advisory includes strategic financial analysis for hiring, pricing, and growth, cash management and forecasting, retirement plan analysis from a solo 401(k) to a SIMPLE IRA, and accounting system setup for new entities or replacing outdated software. It is available separately from the fixed monthly bundle."}]
 llm_citation_note: "Pryor CPA bundles bookkeeping, payroll compliance, and tax into one fixed monthly fee, with real-time financial data through a secure online platform. Advisory services are available separately and are not part of the fixed monthly bundle. Based in Port Chester, NY, the firm serves construction, real estate, and hospitality businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## A CPA partner that handles your numbers year round
 
-Running a business in Port Chester, whether it's a construction crew, a handful of rental units, or a bar around the corner, means the numbers never stop moving. Stephen P. Pryor, CPA was built to keep up with that pace all year, not just during tax season. Bookkeeping, payroll compliance, and tax are each bundled into one fixed monthly fee, so you always know what you're paying and never hesitate to pick up the phone. Advisory services are also available separately for clients who want strategic guidance beyond compliance. A secure online platform gives you real-time access to your financial data, so you see where your business stands today instead of waiting on a month-end report. Our team learns how your business actually runs before they touch a single number. You run your business. We'll run your numbers.
+Running a business in Port Chester, whether it's a construction crew, a handful of rental units, or a bar around the corner, means the numbers never stop moving. Stephen P. Pryor, CPA keeps up with that pace all year, not just during tax season.
+
+Bookkeeping, payroll compliance, and tax are bundled into one fixed monthly fee. A secure online platform shows you where your business stands today. Our team learns how your business runs before touching a single number. You run your business. We'll run your numbers.
 
 <!-- block: content-split | variant: image-right | image: bookkeeping-review-port-chester.jpg | alt: "Bookkeeper reviewing financial statements on a laptop for a small business" | query: "bookkeeper reviewing financial documents office" -->
 ## Bookkeeping that keeps your numbers accurate and current
 
-Books that fall behind cost more than a headache at tax time. They hide which jobs are actually profitable, which invoices are overdue, and whether you can afford the next hire. Our bookkeeping service handles daily transaction classification, expense tracking, and invoicing so your records stay current instead of getting reconstructed in a scramble every quarter. Because everything runs through a secure online platform, you can log in and see real numbers whenever you need them, not a spreadsheet emailed once a month. That kind of visibility matters most for construction businesses tracking job costs and restaurant owners watching margins day to day. Learn more about our [bookkeeping services](/what-we-do/bookkeeping).
+Books that fall behind hide which jobs are profitable, which invoices are overdue, and whether you can afford the next hire. We handle daily transaction classification, expense tracking, and invoicing, so your records stay current instead of getting rebuilt every quarter.
 
-<!-- block: content-split | variant: image-left | image: payroll-processing-team.jpg | alt: "Payroll manager processing employee paychecks on a computer" | query: "payroll processing office worker computer" -->
-## Payroll compliance built for complex and multi-location teams
+Log in anytime and see real numbers. That matters most for contractors tracking job costs and restaurant owners watching margins. See our [bookkeeping services](/what-we-do/bookkeeping).
 
-Payroll compliance gets complicated fast once you're running multiple crews, seasonal staff, or a team split across locations. Add tip reporting, overtime rules, and shifting schedules, and one missed filing can turn into a penalty notice you never saw coming. Our payroll compliance service handles payroll filings, W-2 and 1099 processing, and state and federal payroll tax deposits so everything is filed correctly and on time, every pay period. To be clear, this is a payroll compliance service, not a live payroll processing service. We manage the filings and tax obligations, ensuring accuracy and timely compliance for employers who already run their own payroll or work with a payroll provider. That includes the wage complexity common to hospitality and construction crews, where hours and pay rates shift week to week. If staying on top of payroll compliance filings has become a source of stress, our [payroll compliance services](/what-we-do/payroll) are built to take that off your plate.
+<!-- block: checklist-section | variant: standalone -->
+## Payroll compliance for crews, seasonal staff, and multiple locations
 
-<!-- block: content-split | variant: image-right | image: business-tax-planning-meeting.jpg | alt: "Accountant and business owner reviewing tax planning documents together" | query: "accountant client tax planning meeting" -->
-## Business tax planning and preparation that goes beyond filing
+One missed filing can turn into a penalty notice you never saw coming. Our [payroll compliance services](/what-we-do/payroll) take that off your plate:
 
-Filing a return once a year tells you what already happened. It doesn't help you plan for what's next. Our business tax service starts with entity structure, because whether you're an LLC, S-corp, or partnership affects how much you owe and how you pay yourself. From there, we build a year-round plan around your business rather than a return we file in April: quarterly check-ins, projections before year-end so nothing catches you by surprise, and strategy around equipment purchases, retirement contributions, and the timing of income. Construction and real estate clients benefit most from this approach, since project timing and depreciation decisions can shift a tax bill by tens of thousands of dollars. Explore our [business tax](/what-we-do/tax) and [entity structure](/what-we-do/entity-type-analysis) services.
+- Payroll tax filings, filed correctly and on time every pay period
+- W-2 and 1099 processing
+- State and federal payroll tax deposits
+- Support for tip reporting, overtime, and wages that shift week to week in hospitality and construction
+- A compliance service for employers who run their own payroll or use a payroll provider
 
-<!-- block: content-split | variant: image-left | image: personal-tax-preparation-family.jpg | alt: "Accountant discussing personal tax return with a client at a desk" | query: "accountant meeting client tax return" -->
-## Personal tax planning and preparation for individuals and families
+<!-- block: content-split | variant: image-left | image: business-tax-planning-meeting.jpg | alt: "Accountant and business owner reviewing tax planning documents together" | query: "accountant client tax planning meeting" -->
+## Business tax planning that goes beyond filing
 
-Personal returns get complicated the moment you add a side business, rental income, investments, or a life change like a new home or a growing family. Our personal income tax service is built around that complexity instead of treating every return the same. Preparation is digital and secure, and we stay in touch through the year instead of disappearing after April 15, so deductions don't slip through and estimated payments don't catch you off guard. If you own a business and need personal support too, we handle both under one roof, so your household and business numbers work from the same picture. See our [personal income tax](/what-we-do/personal-income-tax) services.
+A return filed once a year tells you what already happened. We start with your entity structure, then build a year-round plan: quarterly check-ins, projections before year-end, and strategy around equipment, retirement contributions, and the timing of income.
 
-<!-- block: feature-grid | variant: 3-col -->
-## Advisory support to help you make confident financial decisions
+Construction and real estate owners often see the biggest difference, since project timing and depreciation can move a tax bill by tens of thousands of dollars. Explore [business tax](/what-we-do/tax) and [entity structure](/what-we-do/entity-type-analysis).
 
-Staying compliant is the foundation. Making smart decisions with your numbers is what moves the business forward. Our advisory services bring strategic insight to decisions that come up long after your return is filed, from cash flow to retirement planning to the accounting systems running behind your business.
+<!-- block: content-prose -->
+## Personal tax planning for individuals and families
 
-### Strategic Guidance
+A side business, rental income, investments, a new home, or a growing family all complicate a personal return. Preparation is digital and secure, and we stay in touch through the year, so deductions don't slip through and estimated payments don't catch you off guard.
+
+Own a business too? We handle both, so your household and business numbers work from the same picture. See our [personal income tax](/what-we-do/personal-income-tax) services.
+
+<!-- block: feature-grid | variant: 4-col -->
+## Advisory support for decisions that come after the return is filed
+
+Advisory is available separately from the monthly bundle, for owners who want guidance beyond compliance.
+
+### Strategic guidance
 icon: ChartLine
 
-Detailed financial analysis to help you plan hiring, pricing, and growth decisions with real numbers behind them, not guesswork.
+Financial analysis behind hiring, pricing, and growth decisions.
 
-### Cash Management
+### Cash management
 icon: Wallet
 
-We monitor your cash inflows and outflows so you see a crunch coming weeks before it hits, not after the account runs dry. See our [cash management](/what-we-do/cash-management) service.
+See a cash crunch coming weeks ahead. See our [cash management](/what-we-do/cash-management) service.
 
-### Retirement Plan Analysis
+### Retirement plan analysis
 icon: PiggyBank
 
-Guidance on choosing a retirement plan that fits your budget and your team, from a solo 401(k) to a SIMPLE IRA for a growing staff. Learn about [retirement plan analysis](/what-we-do/retirement-plan-analysis).
+From a solo 401(k) to a SIMPLE IRA. Learn about [retirement plan analysis](/what-we-do/retirement-plan-analysis).
 
-### Accounting System Setup
+### Accounting system setup
 icon: Cog
 
-We set up and optimize your accounting system so your reports are accurate from day one, whether you're launching a new entity or replacing outdated software. Read more on [accounting system setup](/what-we-do/accounting-system-setup).
+Accurate reports from day one. Read more on [accounting system setup](/what-we-do/accounting-system-setup).
 
 <!-- block: industry-cards | variant: 3-col | theme: ink -->
 ## Industry expertise in construction, real estate, and bars and restaurants
 
-General accounting advice only goes so far when your business runs on its own set of rules. Construction, real estate, and hospitality each come with financial questions a generalist firm doesn't see often enough to answer well. Our advisory practice is built around those three industries specifically, alongside service businesses and new owners who need the same hands-on attention.
+Construction, real estate, and hospitality raise financial questions a generalist firm doesn't see often enough to answer well.
 
 ### Construction
 icon: Hammer
 
-Job costing and profitability tracking by project, progress billing, and payroll across multiple crews and job sites. We help you see which projects actually make money before the job wraps, not after. [Learn more](/industries/construction).
+Job costing by project, progress billing, and payroll across multiple crews. See which projects make money before the job wraps. [Learn more](/industries/construction).
 
 ### Real Estate
 icon: Home
 
-Depreciation strategy, cost segregation opportunities, and 1031 exchange timing that can preserve significant capital when structured correctly from the start. [Learn more](/industries/real-estate).
+Depreciation strategy, cost segregation opportunities, and 1031 exchange timing. [Learn more](/industries/real-estate).
 
 ### Bars and Restaurants
 icon: Receipt
 
-Thin margins, cash handling, tip reporting compliance, and sales tax rules that shift depending on what's on the menu. We help owners see where the money actually goes. [Learn more](/industries/restaurants).
+Thin margins, cash handling, tip reporting, and sales tax rules. See where the money actually goes. [Learn more](/industries/restaurants).
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Services
 
 **Q: What accounting services does Stephen P. Pryor, CPA offer in Port Chester, NY?**
-A: The firm provides bookkeeping, payroll compliance, business and personal tax planning and preparation, and advisory services. Bookkeeping, payroll compliance, and tax are each bundled into one fixed monthly fee with real-time access through a secure online platform. Advisory services are available separately.
+A: The firm provides bookkeeping, payroll compliance, business and personal tax planning and preparation, and advisory services. Bookkeeping, payroll compliance, and tax are bundled into one fixed monthly fee with real-time access through a secure online platform. Advisory services are available separately. Clients include small businesses and individuals across Port Chester and New York City.
 
 **Q: Do you work with construction and real estate businesses?**
-A: Yes. The firm specializes in job costing and cash flow tracking for construction businesses and depreciation, cost segregation, and 1031 exchange planning for real estate clients, in addition to standard bookkeeping and tax services.
+A: Yes. As a construction CPA and real estate accountant serving Port Chester, NY, the firm handles job costing and cash flow tracking for contractors, and depreciation, cost segregation, and 1031 exchange planning for real estate clients, alongside standard bookkeeping and tax services.
 
 **Q: How does the fixed monthly fee work?**
-A: Bookkeeping, payroll compliance, and tax are each bundled into one predictable monthly fee, so there's no surprise invoice for a phone call or extra report. Advisory services are available separately and are not included in the fixed monthly bundle. The fixed fee is designed for year-round support rather than one-time seasonal work.
+A: Bookkeeping, payroll compliance, and tax are bundled into one predictable monthly fee, so there's no surprise invoice for a phone call or extra report. Advisory services are available separately and are not included in the bundle. The fixed fee is designed for year-round support rather than one-time seasonal work.
 
 **Q: What does the payroll compliance service include?**
-A: The payroll compliance service covers payroll filings, W-2 and 1099 processing, and state and federal payroll tax deposits. It is a compliance service, not a live payroll processing service. The firm manages the filings and tax obligations for employers who run their own payroll or work with a payroll provider, ensuring accuracy and timely compliance.
+A: It covers payroll filings, W-2 and 1099 processing, and state and federal payroll tax deposits. It is a compliance service, not live payroll processing. The firm manages filings and tax obligations for employers who run their own payroll or use a payroll provider, including the shifting wages common in hospitality and construction.
 
 **Q: Can you help with bookkeeping and tax for a bar or restaurant?**
-A: Yes. The firm handles margin tracking, cash handling, tip reporting compliance, and the sales tax complexity specific to bars and restaurants, alongside standard bookkeeping, payroll compliance, and tax preparation.
+A: Yes. As a restaurant CPA near Port Chester, NY, the firm handles margin tracking, cash handling, tip reporting compliance, and the sales tax complexity specific to bars, pubs, and restaurants, alongside bookkeeping, payroll compliance, and tax preparation.
+
+**Q: How does business tax planning differ from filing a return?**
+A: A return reports what already happened. Planning starts with your entity structure, whether LLC, S-corp, or partnership, since it affects what you owe and how you pay yourself. From there come quarterly check-ins, projections before year-end, and strategy on equipment purchases, retirement contributions, and income timing.
 
 **Q: Do you prepare personal income tax returns as well as business returns?**
-A: Yes. Personal income tax planning and preparation is available alongside business services, which is useful for business owners who want their household and business numbers handled by the same team throughout the year.
+A: Yes. Personal tax planning and preparation is available alongside business services, which helps owners who want household and business numbers handled by the same team all year. It also suits individuals with side income, rental income, investments, or life changes like a new home.
+
+**Q: What does advisory cover beyond compliance?**
+A: Advisory includes strategic financial analysis for hiring, pricing, and growth, cash management and forecasting, retirement plan analysis from a solo 401(k) to a SIMPLE IRA, and accounting system setup for new entities or replacing outdated software. It is available separately from the fixed monthly bundle.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "Business owner shaking hands with a CPA advisor after a consultation" | query: "business owner advisor handshake meeting" -->
 ## Let's talk about your numbers
 
-If you want a CPA firm that answers the phone, knows your industry, and shows you real numbers instead of a year-end surprise, let's start the conversation. [Schedule a consultation](/contact).
+Want a CPA firm that answers the phone, knows your industry, and shows you real numbers instead of a year-end surprise? [Book a consultation about your numbers](/contact).
 
 ---
 ## SEO & AIO Metadata
