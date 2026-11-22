@@ -17,7 +17,7 @@ schema_markup: "FAQPage"
 answer_block: "Whether to lease or buy a car depends on your mileage, how long you keep vehicles, and how the vehicle is used in your business. Leasing suits lower annual mileage and predictable cash flow, while buying favors high-mileage drivers and vehicles over 6,000 pounds that qualify for larger Section 179 deductions under IRS Publication 946."
 ---
 
-*By Stephen P Pryor, CPA — Westchester firm providing accounting, tax and advisory services to businesses and individual throughout New York, New Jersey, Connecticut and across the country.*
+*By Stephen P. Pryor, CPA — Westchester firm providing accounting, tax and advisory services to businesses and individual throughout New York, New Jersey, Connecticut and across the country.*
 
 A contractor in Port Chester walks into a dealership needing a new work truck, and within ten minutes the salesperson has three lease offers on the table and zero mention of what happens to his tax return in April. That's the problem with most lease-vs-buy advice: it starts and ends with the monthly payment. The better question is what each option does to your cash flow, your tax bill, and your balance sheet over the next three to five years.
 
