@@ -51,7 +51,7 @@ Business coverage should be sized to how the business actually operates, not to 
 |---|---|---|---|
 | Construction | Jobsite injury, subcontractor liability, equipment loss | Workers' comp with a managed EMR, commercial umbrella, builder's risk | Low-deductible tool and equipment riders |
 | Real estate | Tenant injury, property damage, loss of rental income | Landlord liability, business interruption/loss of rents, umbrella | Redundant coverage across multiple small policies per property |
-| Bars and restaurants | Liquor liability, cash handling exposure, kitchen fire | Liquor liability ($1M/$2M limits are standard in New York), property with replacement cost valuation, business interruption | Extended warranties on kitchen equipment |
+| Bars and restaurants | Liquor liability, cash handling exposure, kitchen fire | Liquor liability, property with replacement cost valuation, business interruption | Extended warranties on kitchen equipment |
 
 A construction company's workers' compensation experience modification rate (EMR) drives premium more than almost anything else on the policy, and it's tied directly to how claims are managed and how payroll is classified, which is exactly the kind of detail that shows up in clean, current books. Our [construction accounting page](/industries/construction) covers how job costing and payroll classification connect to that number.
 
