@@ -29,7 +29,7 @@ Cash reserves matter, but they're a blunt instrument. If you're pulling $10,000 
 
 ## HSA tax benefits are the strongest tool most people underuse
 
-If you're on a high-deductible health plan, a Health Savings Account is close to the best deal in the tax code. Contributions are deductible (or pre-tax through payroll), the account grows tax-free, and withdrawals for qualified medical expenses are never taxed. That's a triple benefit no other account offers, not a 401(k), not a Roth IRA. For 2024, individuals can contribute up to $4,150 and families up to $8,300, with an extra $1,000 catch-up allowed at 55 and older. Unlike an FSA, HSA funds roll over indefinitely and stay with you if you change jobs. Left untouched, an HSA can function as a second retirement account, since after age 65 you can withdraw funds for any purpose without penalty (though non-medical withdrawals are taxed as income). The mistake we see most often: people treat the HSA like a checking account, spending contributions as fast as they go in. If your cash flow allows it, paying smaller medical bills out of pocket and letting the HSA balance grow gives you a larger tax-free cushion for the expense that actually knocks you off balance.
+If you're on a high-deductible health plan, a Health Savings Account is close to the best deal in the tax code. Contributions are deductible (or pre-tax through payroll), the account grows tax-free, and withdrawals for qualified medical expenses are never taxed. That's a triple benefit no other account offers, not a 401(k), not a Roth IRA. Unlike an FSA, HSA funds roll over indefinitely and stay with you if you change jobs. Left untouched, an HSA can function as a second retirement account, since after age 65 you can withdraw funds for any purpose without penalty (though non-medical withdrawals are taxed as income). The mistake we see most often: people treat the HSA like a checking account, spending contributions as fast as they go in. If your cash flow allows it, paying smaller medical bills out of pocket and letting the HSA balance grow gives you a larger tax-free cushion for the expense that actually knocks you off balance.
 
 ## FSAs work differently, and the deadline pressure is real
 
@@ -51,22 +51,16 @@ Here's what proactive medical expense planning actually looks like, in order:
 | 4 | Keep a separate cash reserve for costs neither account covers | Copays, out-of-network care, non-qualified expenses |
 | 5 | Revisit entity and payroll setup if you're self-employed | Self-employed health insurance deduction may apply separately |
 
-Business owners in construction and hospitality face a version of this problem that's easy to overlook: inconsistent income makes it harder to predict how much to set aside, and payroll structures affect what's even eligible for pre-tax treatment. If you're running payroll for a crew or a restaurant staff, the plan design decisions you make for your team can affect your own options too. Getting that structure right is part of what we do when we set up [payroll](/industries/construction) and benefits for clients in those industries.
-
-We also see this come up alongside broader financial habit questions. Underfunding an HSA because of a scarcity mindset, or avoiding the paperwork of tracking deductible expenses, tends to trace back to the same avoidance patterns we cover in [Your Money Mindset Is Costing Your Small Business More Than Your Budget](/resources/your-money-mindset-is-costing-your-small-business-more-than-2).
+Business owners in construction and hospitality face a version of this problem that's easy to overlook: inconsistent income makes it harder to predict how much to set aside, and payroll structures affect what's even eligible for pre-tax treatment. If you're running payroll for a crew or a restaurant staff, the plan design decisions you make for your team can affect your own options too. Getting that structure right is part of what we do when we set up payroll and benefits for clients in those industries.
 
 ## Common Questions
 
-**How much should I keep in cash versus an HSA for medical emergencies?**
-A reasonable split is a smaller cash reserve, roughly one month of essential expenses, for immediate copays and non-qualified costs, with the rest of your medical safety net built through HSA contributions if you're eligible. The HSA dollars stretch further because they're never taxed going in or coming out for qualified expenses.
+**How much should I keep in cash versus an HSA for medical emergencies**?A reasonable split is a smaller cash reserve, roughly one month of essential expenses, for immediate copays and non-qualified costs, with the rest of your medical safety net built through HSA contributions if you're eligible. The HSA dollars stretch further because they're never taxed going in or coming out for qualified expenses.
 
-**Can I deduct medical expenses if I don't itemize?**
-No. The medical expense deduction under [IRS Publication 502](https://www.irs.gov/publications/p502) only applies if your itemized deductions, including medical costs above 7.5% of your adjusted gross income, exceed the standard deduction. Track expenses anyway; a major medical year can be the one year itemizing makes sense.
+**Can I deduct medical expenses if I don't itemize**?No. The medical expense deduction under [IRS Publication 502](https://www.irs.gov/publications/p502) only applies if your itemized deductions, including medical costs above 7.5% of your adjusted gross income, exceed the standard deduction. Track expenses anyway; a major medical year can be the one year itemizing makes sense.
 
-**What happens to unused HSA funds at the end of the year?**
-Nothing. Unlike an FSA, HSA balances roll over every year with no expiration and no cap on how much can accumulate, which is why funding it consistently, even in years with no major medical costs, pays off later.
+**What happens to unused HSA funds at the end of the year**?Nothing. Unlike an FSA, HSA balances roll over every year with no expiration and no cap on how much can accumulate, which is why funding it consistently, even in years with no major medical costs, pays off later.
 
-**Is COBRA or a marketplace premium a deductible medical expense?**
-Health insurance premiums generally qualify as deductible medical expenses under IRS rules once you clear the 7.5% AGI threshold, including COBRA premiums in many cases. Self-employed individuals may have a separate, often more favorable, deduction available for health insurance premiums.
+**Is COBRA or a marketplace premium a deductible medical expense**?Health insurance premiums generally qualify as deductible medical expenses under IRS rules once you clear the 7.5% AGI threshold, including COBRA premiums in many cases. Self-employed individuals may have a separate, often more favorable, deduction available for health insurance premiums.
 
 If a health scare has you rethinking how your accounts, deductions, and payroll setup all fit together, we'd rather help you build that plan now than reconstruct it during a crisis. [Reach out through our contact page](/contact) and we'll walk through what makes sense for your situation.
