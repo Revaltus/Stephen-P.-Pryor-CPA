@@ -51,7 +51,7 @@ Qualified long-term care insurance premiums are deductible as medical expenses, 
 
 ## Building long-term care into a real financial plan
 
-The families who handle this well treat long-term care the same way they'd treat a business risk: they quantify it, they price out the ways to cover it, and they revisit the plan every few years as health and assets change. A good plan looks at least once a year at where your income, investments, and potential care costs intersect, and it gets adjusted as circumstances shift. Stephen also serves on the Greenwich First Advisory Boards, a community and business advisory group, which keeps him close to the kinds of estate and elder-care questions coming up across Westchester County right now.
+The families who handle this well treat long-term care the same way they'd treat a business risk: they quantify it, they price out the ways to cover it, and they revisit the plan every few years as health and assets change. A good plan looks at least once a year at where your income, investments, and potential care costs intersect, and it gets adjusted as circumstances shift.
 
 A lot of the anxiety around long-term care comes from not knowing the numbers, which is the same pattern we see in [money mindset conversations](/resources/quick-reads/5-tips-to-build-a-healthy-money-mindset-and-grow-your-finances) with business owners who avoid looking at their books. Once the actual cost range and funding options are on the table, the decision gets a lot less overwhelming.
 
