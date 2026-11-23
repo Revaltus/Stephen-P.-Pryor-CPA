@@ -16,6 +16,9 @@ canonical_url: https://pryorcpa.com/resources/long-term-care-how-you-can-financi
 schema_markup: "FAQPage"
 answer_block: "Long-term care planning means funding future care costs, often $170,000 or more a year in Westchester County, through a mix of long-term care insurance, the VA Aid and Attendance benefit for eligible veterans, and personal savings, rather than waiting until a health event forces the decision."
 ---
+
+*By Stephen P. Pryor, CPA — Port Chester accountant providing accounting, tax and advisory services to businesses and individuals throughout New York, New Jersey, Connecticut and across the country.*
+
 A woman in Rye called our office last spring because her father's assisted living facility had just raised its monthly rate to $9,800. She wanted to know how her family was supposed to keep paying that for another five years. The honest answer is that most families never plan for this cost until it's already showing up on a bill, and by then the cheapest options are already off the table. Long-term care is one of the few expenses in life that is both highly likely and almost entirely predictable in shape, if not in timing, which makes it a planning problem, not a crisis to react to.
 
 About 70% of people who turn 65 will need some form of long-term care during their lifetime, whether that's a home health aide three days a week or full-time nursing home care. In New York, a private room in a nursing home now runs somewhere between $170,000 and $190,000 a year depending on the county, and Westchester is on the higher end of that range. Home health aides in the region typically bill $30 to $35 an hour, which adds up fast once care moves from a few hours a week to around-the-clock coverage. Medicare does not cover custodial care, the kind that helps with bathing, dressing, and daily living, so families are left choosing between insurance, veterans benefits, spending down savings, or some combination of the three.
