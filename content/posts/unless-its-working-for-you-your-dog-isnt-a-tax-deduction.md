@@ -16,7 +16,10 @@ canonical_url: https://pryorcpa.com/resources/unless-its-working-for-you-your-do
 schema_markup: "FAQPage"
 answer_block: "Pet expenses are generally not tax deductible because the IRS treats them as personal costs. Narrow exceptions exist for trained guard dogs protecting business property, legitimate dog breeding operations run for profit, and service animals trained to assist with a diagnosed disability, which can qualify as an itemized medical expense under IRS Publication 502."
 ---
-Picture a real estate office owner who asks whether she can write off her Bernese Mountain Dog because he "greets customers at the front desk" three days a week. It's a fair question, and it's one business owners in Port Chester and Westchester County could easily ask, especially if they genuinely believe their dog earns its keep. The honest answer is almost always no. But [almost never means never, and there are a handful of narrow, well-documented situations where dog-related costs are legitimately deductible](/resources/unless-its-working-for-you-your-dog-isnt-a-tax-deduction-2) under IRS rules. Knowing the difference matters, because getting it wrong on a return can trigger exactly the kind of scrutiny nobody wants.
+
+*By Stephen P. Pryor, CPA — Port Chester accountant providing accounting, tax and advisory services to businesses and individuals throughout New York, New Jersey, Connecticut and across the country.*
+
+Picture a real estate office owner who asks whether she can write off her Bernese Mountain Dog because he "greets customers at the front desk" three days a week. It's a fair question, especially if they genuinely believe their dog earns its keep. The honest answer is almost always no. But almost never means never, and there are a handful of narrow, well-documented situations where dog-related costs are legitimately deductible under IRS rules. Knowing the difference matters, because getting it wrong on a return can trigger exactly the kind of scrutiny nobody wants.
 
 ## Why your golden retriever doesn't count as a write-off
 
@@ -54,16 +57,12 @@ We walk clients through this kind of documentation constantly, whether it's a co
 
 ## Common Questions
 
-**Can I deduct my dog's food and vet bills if I work from home?**
-No. Owning a dog while running a home-based business doesn't make pet care a business expense. The dog would need a specific, documented business function, like guarding inventory or equipment, before any of its costs could qualify under [IRS Publication 535](https://www.irs.gov/publications/p535).
+**Can I deduct my dog's food and vet bills if I work from home**?No. Owning a dog while running a home-based business doesn't make pet care a business expense. The dog would need a specific, documented business function, like guarding inventory or equipment, before any of its costs could qualify under [IRS Publication 535](https://www.irs.gov/publications/p535).
 
-**Is a guard dog at my construction site really deductible?**
-It can be, if the dog is trained for security work, actually stationed at the property, and the business has a real need for that protection, such as equipment or materials left on site overnight. Keep a log of the dog's hours and location, since that's the documentation that matters most if it's ever questioned.
+**Is a guard dog at my construction site really deductible**?It can be, if the dog is trained for security work, actually stationed at the property, and the business has a real need for that protection, such as equipment or materials left on site overnight. Keep a log of the dog's hours and location, since that's the documentation that matters most if it's ever questioned.
 
-**What's the difference between a service dog and a therapy dog for tax purposes?**
-A service dog trained for a specific task tied to a diagnosed disability can qualify as a medical expense deduction under [IRS Publication 502](https://www.irs.gov/publications/p502). A therapy dog or emotional support animal generally doesn't qualify unless there's specific medical documentation showing prescribed training tied to a diagnosed condition.
+**What's the difference between a service dog and a therapy dog for tax purposes**?A service dog trained for a specific task tied to a diagnosed disability can qualify as a medical expense deduction under [IRS Publication 502](https://www.irs.gov/publications/p502). A therapy dog or emotional support animal generally doesn't qualify unless there's specific medical documentation showing prescribed training tied to a diagnosed condition.
 
-**Can I deduct expenses for breeding dogs as a business?**
-Yes, if you're running it as an actual business with a genuine profit motive, reported on Schedule C, and not simply claiming losses on what functions as a hobby. Consistent recordkeeping and a track record of trying to turn a profit matter more here than any single expense.
+**Can I deduct expenses for breeding dogs as a business**?Yes, if you're running it as an actual business with a genuine profit motive, reported on Schedule C, and not simply claiming losses on what functions as a hobby. Consistent recordkeeping and a track record of trying to turn a profit matter more here than any single expense.
 
 If you're not sure whether a dog-related expense on your books, or your bookkeeper's, is defensible, it's worth a short conversation before it becomes a line item on a return. [Contact Stephen P. Pryor, CPA](/contact) to talk through your specific situation.
