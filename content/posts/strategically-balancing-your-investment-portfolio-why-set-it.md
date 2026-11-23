@@ -46,7 +46,7 @@ There are ways around this that most people never use because nobody tells them:
 - Pair gains with tax-loss harvesting elsewhere in the portfolio in the same calendar year.
 - Time larger rebalancing trades around a lower-income year, if one is coming.
 
-This is exactly the kind of decision that belongs in a year-round tax planning conversation, not a scramble every April. Our [tax services](/services/tax) build rebalancing timing into the broader tax picture for clients throughout the year, not just at filing season.
+This is exactly the kind of decision that belongs in a year-round tax planning conversation, not a scramble every April. 
 
 ## Diversification and asset allocation solve different problems
 
