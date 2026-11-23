@@ -16,6 +16,9 @@ canonical_url: https://pryorcpa.com/resources/insuring-where-it-counts-avoid-ove
 schema_markup: "FAQPage"
 answer_block: "The right amount of insurance coverage equals the gap between your net worth and your current liability limits, plus enough income replacement and disability coverage to protect your household if you couldn't work. There's no flat dollar figure that fits everyone; it depends on your assets, income, and specific liability exposure."
 ---
+
+*By Stephen P. Pryor, CPA — Port Chester accountant providing accounting, tax and advisory services to businesses and individuals throughout New York, New Jersey, Connecticut and across the country.*
+
 Insurance conversations usually start backward. Someone asks what policies they should buy, and the honest answer is: it depends on what you'd lose if things went wrong, not what a broker has on a rate sheet this month. Buying a policy because your contractor friend has one, or adding an umbrella because someone mentioned it at a networking event, isn't a strategy. It's a guess dressed up as prudence.
 
 The better question is what would actually hurt you financially, how likely is that event, and what's the cheapest way to transfer that risk instead of carrying it yourself. That's a calculation tied to your net worth, your cash flow, and the specific exposures in your business or household. It isn't a checklist copied from a template, and it isn't a list of every insurance product that exists.
