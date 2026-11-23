@@ -16,6 +16,9 @@ canonical_url: https://pryorcpa.com/resources/strategically-balancing-your-inves
 schema_markup: "BlogPosting"
 answer_block: "A balanced investment portfolio requires periodic rebalancing because market gains and losses shift your asset mix away from your original target over time. Rebalancing resets that mix, but doing it without a tax plan can trigger unnecessary capital gains, which is why coordinating with a CPA on timing and account location matters as much as the trade itself."
 ---
+
+*By Stephen P. Pryor, CPA — Port Chester accountant providing accounting, tax and advisory services to businesses and individuals throughout New York, New Jersey, Connecticut and across the country.*
+
 A slow cooker rewards you for walking away. A stock portfolio doesn't. Leave a 401(k) or brokerage account untouched for five years and the mix of stocks, bonds, and cash you started with stops being the mix you actually have. One sector runs hot, another stalls, and by the time you glance at a statement, a portfolio built for moderate risk has quietly turned aggressive. That drift is the real cost of set-it-and-forget-it investing. It doesn't show up as a bill you can see. It shows up as risk you never agreed to.
 
 For business owners in Port Chester and across Westchester County, this matters more than it might seem. Most people in their 40s and 50s aren't checking their asset allocation strategy every quarter. They're running a restaurant, managing a construction crew, or closing on a rental property. Investments sit in the background until a life event, a market swing, or a tax return forces a second look. By then, the portfolio has usually drifted further than anyone realized.
