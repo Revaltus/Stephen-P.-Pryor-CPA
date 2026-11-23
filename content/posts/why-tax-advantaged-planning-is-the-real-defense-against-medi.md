@@ -17,7 +17,7 @@ schema_markup: "FAQPage"
 answer_block: "Planning for unexpected medical expenses works best when it combines a modest cash reserve with tax-advantaged tools: maxing out HSA contributions, using an FSA only for predictable costs, and tracking expenses toward the 7.5% AGI medical deduction threshold. These strategies reduce the actual tax cost of a medical crisis in a way a savings account alone cannot."
 ---
 
-*By Stephen P. Pryor, CPA — Westchester accountant providing accounting, tax and advisory services to businesses and individuals throughout New York, New Jersey, Connecticut and across the country.*
+*By Stephen P. Pryor, CPA — Port Chester accountant providing accounting, tax and advisory services to businesses and individuals throughout New York, New Jersey, Connecticut and across the country.*
 
 A medical crisis rarely announces itself. One week you're fine, the next you're staring at a $14,000 hospital bill or a diagnosis that means months of treatment. According to the Federal Reserve's [Report on the Economic Well-Being of U.S. Households](https://www.federalreserve.gov/publications/report-economic-well-being-us-households.htm), a large share of adults would struggle to cover a $400 emergency expense without borrowing or selling something. Medical bills are a common trigger for exactly that kind of gap, and an emergency fund alone doesn't close it fast enough.
 
