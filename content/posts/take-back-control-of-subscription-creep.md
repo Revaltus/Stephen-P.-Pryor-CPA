@@ -57,8 +57,6 @@ For businesses, tie the review to your existing bookkeeping close. If your books
 
 The discipline matters more than the frequency. A restaurant owner who reviews software costs every quarter will catch overlap long before it becomes a $500-a-month problem. A household that checks recurring charges once a year at tax time will catch the same pattern before it becomes an $1,800 annual leak. Either way, the number only shrinks once someone looks at it on purpose.
 
-If subscription costs are part of a bigger pattern of underpriced services or reactive budgeting, it's worth reading how [money mindset habits](/resources/quick-reads/5-tips-to-build-a-healthy-money-mindset-and-grow-your-finances) show up in day-to-day financial decisions, subscriptions included. And if your business is on the other side of this, charging customers through recurring billing, our guide on [subscription-based pricing](/resources/e-books/making-the-move-to-subscription-based-pricing) covers how to structure that model so it works in your favor instead of against it.
-
 ## Common Questions
 
 **What exactly counts as subscription creep**?It's the gradual accumulation of recurring charges, software licenses, memberships, service add-ons, that individually seem small but collectively grow without anyone reviewing whether they're still needed. The defining feature isn't the cost of any one subscription, it's the lack of a regular decision point to keep or cancel it.
