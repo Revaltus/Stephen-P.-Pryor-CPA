@@ -48,7 +48,7 @@ Third, disability income. Social Security disability rarely replaces more than a
 Business coverage should be sized to how the business actually operates, not to an industry-generic list. A landlord's risk profile has almost nothing in common with a bar owner's, even though both might buy a policy labeled "general liability."
 
 | Industry | Highest-severity exposure | Coverage that usually matters most | Coverage that's often overbought |
-|---|---|---|
+|---|---|---|---|
 | Construction | Jobsite injury, subcontractor liability, equipment loss | Workers' comp with a managed EMR, commercial umbrella, builder's risk | Low-deductible tool and equipment riders |
 | Real estate | Tenant injury, property damage, loss of rental income | Landlord liability, business interruption/loss of rents, umbrella | Redundant coverage across multiple small policies per property |
 | Bars and restaurants | Liquor liability, cash handling exposure, kitchen fire | Liquor liability ($1M/$2M limits are standard in New York), property with replacement cost valuation, business interruption | Extended warranties on kitchen equipment |
