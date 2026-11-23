@@ -23,7 +23,7 @@ Insurance conversations usually start backward. Someone asks what policies they 
 
 The better question is what would actually hurt you financially, how likely is that event, and what's the cheapest way to transfer that risk instead of carrying it yourself. That's a calculation tied to your net worth, your cash flow, and the specific exposures in your business or household. It isn't a checklist copied from a template, and it isn't a list of every insurance product that exists.
 
-We're CPAs, not licensed insurance brokers, and this isn't a pitch to sell you a policy. What we do is sit down with your actual financials, entity structure, and cash position and work out where the real gaps are before you ever call a broker. That conversation tends to save money in two ways. It keeps you from over-insuring low-probability risks out of worry, and it catches the one exposure, usually liability or income interruption, that could truly be catastrophic.
+We're CPAs and accountants, not licensed insurance brokers, and this isn't a pitch to sell you a policy. What we do is sit down with your actual financials, entity structure, and cash position and work out where the real gaps are before you ever call a broker. That conversation tends to save money in two ways. It keeps you from over-insuring low-probability risks out of worry, and it catches the one exposure, usually liability or income interruption, that could truly be catastrophic.
 
 ## What insurance is really protecting
 
