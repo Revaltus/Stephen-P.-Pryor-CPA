@@ -21,7 +21,7 @@ answer_block: "Planning for unexpected medical expenses works best when it combi
 
 A medical crisis rarely announces itself. One week you're fine, the next you're staring at a $14,000 hospital bill or a diagnosis that means months of treatment. According to the Federal Reserve's [Report on the Economic Well-Being of U.S. Households](https://www.federalreserve.gov/publications/report-economic-well-being-us-households.htm), a large share of adults would struggle to cover a $400 emergency expense without borrowing or selling something. Medical bills are a common trigger for exactly that kind of gap, and an emergency fund alone doesn't close it fast enough.
 
-The advice you've heard a hundred times, build a three-to-six-month cushion, isn't wrong. It's just incomplete. A savings account earns nothing in tax benefit and does nothing to reduce what you owe the IRS. The clients who come through a medical crisis in the best financial shape are the ones who [set up tax-advantaged tools](/resources/why-tax-advantaged-planning-is-the-real-defense-against-medi-2) before the crisis hits, not after. That's the real difference between having cash on hand and having a strategy.
+The advice you've heard a hundred times, build a three-to-six-month cushion, isn't wrong. It's just incomplete. A savings account earns nothing in tax benefit and does nothing to reduce what you owe the IRS. The clients who come through a medical crisis in the best financial shape are the ones who set up tax-advantaged tools before the crisis hits, not after. That's the real difference between having cash on hand and having a strategy.
 
 ## Why an emergency fund isn't enough on its own
 
