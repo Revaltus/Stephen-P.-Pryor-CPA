@@ -16,6 +16,10 @@ canonical_url: https://pryorcpa.com/resources/business-credit-card-rewards-a-fin
 schema_markup: "FAQPage"
 answer_block: "Business credit card rewards earned through spending are generally treated as a rebate and are not taxable income, while sign-up bonuses requiring no spending may be taxable. The right card depends on matching its rewards categories to your actual top expenses, whether that's fuel and materials, recurring vendor payments, or food and beverage distributors."
 ---
+
+
+*By Stephen P. Pryor, CPA — Port Chester accountant providing accounting, tax and advisory services to businesses and individuals throughout New York, New Jersey, Connecticut and across the country.*
+
 If you run a construction company, a rental property portfolio, or a bar in downtown Port Chester, you've probably wondered the same three things about your business credit card: are the rewards taxable, is this even the right card for how I spend, and how do I keep this from making a mess of my books at tax time. Those questions come up constantly during bookkeeping onboarding and tax planning meetings, and the answers matter more than most owners realize. A [credit card rewards program](/resources/business-credit-card-rewards-a-financial-strategy-for-busine-2) isn't a bonus sitting off to the side of your finances. Used well, it's part of your cash-flow strategy. Used carelessly, it becomes a bookkeeping headache and, in some cases, a tax problem.
 
 ## Rewards are a rebate, not income, in most cases
