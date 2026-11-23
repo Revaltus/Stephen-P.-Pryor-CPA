@@ -66,20 +66,16 @@ Deductions for volunteer expenses get disallowed more often from poor records th
 
 That $250 threshold catches people who don't think of themselves as making a single large donation. If your unreimbursed mileage, supplies, and out-of-pocket costs for one organization add up to $250 or more across the year, you need that written acknowledgment before you file, not after. Asking the organization for it in January of the following year, once records have been archived or a volunteer coordinator has moved on, is a common way this deduction gets lost entirely.
 
-Business owners juggling these details alongside quarterly estimates and payroll deadlines often find the recordkeeping habit is the harder part, not the tax rule itself. For strategies on staying ahead of that load before year-end pressure hits, see [4 Steps to Get Ahead of Higher Taxes](/resources/quick-reads/4-steps-to-get-ahead-of-higher-taxes).
+Business owners juggling these details alongside quarterly estimates and payroll deadlines often find the recordkeeping habit is the harder part, not the tax rule itself.
 
 ## Common Questions
 
-**Can I deduct the value of my time when I volunteer?**
-No. The IRS does not allow a deduction for the value of services or time donated to a charity, regardless of your normal hourly rate or professional expertise. Only unreimbursed, out-of-pocket costs connected to that volunteer work are deductible.
+**Can I deduct the value of my time when I volunteer**?No. The IRS does not allow a deduction for the value of services or time donated to a charity, regardless of your normal hourly rate or professional expertise. Only unreimbursed, out-of-pocket costs connected to that volunteer work are deductible.
 
-**Can I deduct mileage for driving to volunteer activities?**
-Yes. You can deduct actual gas and oil costs directly tied to the volunteer driving, or use the standard charitable mileage rate set out in [IRS Publication 526](https://www.irs.gov/publications/p526). Parking fees and tolls can be added on top of either method.
+**Can I deduct mileage for driving to volunteer activities**?Yes. You can deduct actual gas and oil costs directly tied to the volunteer driving, or use the standard charitable mileage rate set out in [IRS Publication 526](https://www.irs.gov/publications/p526). Parking fees and tolls can be added on top of either method.
 
-**Do I need a receipt for every volunteer expense?**
-For any single expense, yes, keep a receipt or canceled check. If your unreimbursed expenses for one organization total $250 or more across the year, you also need a written acknowledgment from that organization confirming the amount and that you received nothing in return.
+**Do I need a receipt for every volunteer expense**?For any single expense, yes, keep a receipt or canceled check. If your unreimbursed expenses for one organization total $250 or more across the year, you also need a written acknowledgment from that organization confirming the amount and that you received nothing in return.
 
-**Can my business deduct donated materials or discounted services?**
-A business can generally deduct the cost basis of materials donated to a qualified charity, but not the retail value or the value of labor performed for free. Details on qualifying organizations and documentation are available through the [IRS Charities and Nonprofits resource hub](https://www.irs.gov/charities-non-profits).
+**Can my business deduct donated materials or discounted services**?A business can generally deduct the cost basis of materials donated to a qualified charity, but not the retail value or the value of labor performed for free. Details on qualifying organizations and documentation are available through the [IRS Charities and Nonprofits resource hub](https://www.irs.gov/charities-non-profits).
 
 If you volunteer regularly, sit on a nonprofit board, or your construction, real estate, or hospitality business donates materials or space to local causes, it's worth walking through your specific situation with someone who can tell you exactly what qualifies and what documentation to keep. [Contact Stephen P. Pryor, CPA](/contact) to talk through your volunteer and charitable deductions before the next filing deadline catches you unprepared.
