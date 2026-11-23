@@ -16,6 +16,9 @@ canonical_url: https://pryorcpa.com/resources/strategically-balancing-your-inves
 schema_markup: "BlogPosting"
 answer_block: "A balanced investment portfolio requires periodic rebalancing because market gains and losses shift your asset mix away from your original target over time. Rebalancing resets that mix, but doing it without a tax plan can trigger unnecessary capital gains, which is why coordinating with a CPA on timing and account location matters as much as the trade itself."
 ---
+
+*By Stephen P. Pryor, CPA — Port Chester accountant providing accounting, tax and advisory services to businesses and individuals throughout New York, New Jersey, Connecticut and across the country.*
+
 A slow cooker rewards you for walking away. A stock portfolio doesn't. Leave a 401(k) or brokerage account untouched for five years and the mix of stocks, bonds, and cash you started with stops being the mix you actually have. One sector runs hot, another stalls, and by the time you glance at a statement, a portfolio built for moderate risk has quietly turned aggressive. That drift is the real cost of set-it-and-forget-it investing. It doesn't show up as a bill you can see. It shows up as risk you never agreed to.
 
 For business owners in Port Chester and across Westchester County, this matters more than it might seem. Most people in their 40s and 50s aren't checking their asset allocation strategy every quarter. They're running a restaurant, managing a construction crew, or closing on a rental property. Investments sit in the background until a life event, a market swing, or a tax return forces a second look. By then, the portfolio has usually drifted further than anyone realized.
@@ -43,7 +46,7 @@ There are ways around this that most people never use because nobody tells them:
 - Pair gains with tax-loss harvesting elsewhere in the portfolio in the same calendar year.
 - Time larger rebalancing trades around a lower-income year, if one is coming.
 
-This is exactly the kind of decision that belongs in a year-round tax planning conversation, not a scramble every April. Our [tax services](/services/tax) build rebalancing timing into the broader tax picture for clients throughout the year, not just at filing season.
+This is exactly the kind of decision that belongs in a year-round tax planning conversation, not a scramble every April. 
 
 ## Diversification and asset allocation solve different problems
 
@@ -58,24 +61,20 @@ This gets more complicated for clients who already have real estate exposure thr
 
 ## Where your CPA fits into the rebalancing conversation
 
-A CPA doesn't pick your stocks. That's not the job, and Stephen P. Pryor, CPA, doesn't pretend otherwise. What a CPA does well is the tax side of the decision: when a rebalancing trade makes sense given your bracket this year, how a sale interacts with your business income, and what a rental property sale or 1031 exchange does to the rest of your allocation. Stephen Pryor, Shawn Wilson, CPA, and Denise Romano, CPA, work through these questions with clients as part of the same year-round advisory relationship that covers bookkeeping, payroll, and tax.
+A CPA doesn't pick your stocks. What a CPA does well is the tax side of the decision: when a rebalancing trade makes sense given your bracket this year, how a sale interacts with your business income, and what a rental property sale or 1031 exchange does to the rest of your allocation.
 
 The AICPA's personal financial planning resources describe this coordination well: a CPA who understands your full tax picture is often better positioned to catch the cost of a badly timed trade than an advisor who only sees the investment account (see the [AICPA Personal Financial Planning resources](https://www.aicpa-cima.com/topic/personal-financial-planning)). That's the gap our [advisory services](/services/advisory) are built to close, especially for construction, real estate, and hospitality business owners whose personal and business finances are more intertwined than a standard financial plan usually accounts for.
 
-Clients working with our firm get access to a secure online platform showing real-time financial data, so a conversation about rebalancing doesn't start with three weeks of pulling statements together. It starts with the numbers already in front of both of you.
+Clients working with our firm get access to a secure online platform showing financial data, so a conversation about rebalancing doesn't start with three weeks of pulling statements together. It starts with the numbers already in front of both of you.
 
 ## Common Questions
 
-**How often should I rebalance my portfolio?**
-Most financial professionals suggest reviewing allocation at least once a year, or any time one asset class drifts more than 5 to 10 percentage points from its target. The right frequency depends on how volatile your holdings are and how much new money you're adding regularly.
+**How often should I rebalance my portfolio**?Most financial professionals suggest reviewing allocation at least once a year, or any time one asset class drifts more than 5 to 10 percentage points from its target. The right frequency depends on how volatile your holdings are and how much new money you're adding regularly.
 
-**Does rebalancing always trigger capital gains tax?**
-Only in taxable accounts. Rebalancing inside a 401(k), IRA, or Roth account doesn't create a current tax bill. In a taxable brokerage account, selling appreciated positions to rebalance does trigger gains, which is why timing and tax-loss harvesting matter.
+**Does rebalancing always trigger capital gains tax**?Only in taxable accounts. Rebalancing inside a 401(k), IRA, or Roth account doesn't create a current tax bill. In a taxable brokerage account, selling appreciated positions to rebalance does trigger gains, which is why timing and tax-loss harvesting matter.
 
-**What's the real difference between diversification and asset allocation?**
-Asset allocation is your split across major categories like stocks, bonds, cash, and real estate. Diversification is how spread out your holdings are within each of those categories. You can have a diversified stock portfolio that's still badly allocated if it's 90% of your net worth.
+**What's the real difference between diversification and asset allocation**?Asset allocation is your split across major categories like stocks, bonds, cash, and real estate. Diversification is how spread out your holdings are within each of those categories. You can have a diversified stock portfolio that's still badly allocated if it's 90% of your net worth.
 
-**Can a CPA help me rebalance, or do I need a financial advisor?**
-Both roles matter, and they're not interchangeable. A financial advisor typically handles the trades and investment selection. A CPA handles the tax consequences of those trades and how they fit into your broader tax planning, business income, and year-end strategy.
+**Can a CPA help me rebalance, or do I need a financial advisor**?Both roles matter, and they're not interchangeable. A financial advisor typically handles the trades and investment selection. A CPA handles the tax consequences of those trades and how they fit into your broader tax planning, business income, and year-end strategy.
 
 If your portfolio hasn't had a real review in a while, or if a business sale, property purchase, or retirement is coming up, that's the moment allocation and tax planning need to be looked at together, not separately. [Contact Stephen P. Pryor, CPA](/contact) to talk through what a coordinated review would look like for your specific situation.

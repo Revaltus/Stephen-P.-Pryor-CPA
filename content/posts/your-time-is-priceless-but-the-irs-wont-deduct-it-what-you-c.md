@@ -16,6 +16,9 @@ canonical_url: https://pryorcpa.com/resources/your-time-is-priceless-but-the-irs
 schema_markup: "FAQPage"
 answer_block: "The IRS doesn't allow a deduction for the value of your time or services when you volunteer, but unreimbursed out-of-pocket costs directly tied to that volunteer work, like mileage, supplies, and required uniforms, are deductible for itemizers under IRS Publication 526. Keep receipts for every expense and get written acknowledgment from the organization for totals of $250 or more."
 ---
+
+*By Stephen P. Pryor, CPA — Port Chester accountant providing accounting, tax and advisory services to businesses and individuals throughout New York, New Jersey, Connecticut and across the country.*
+
 You spend a Saturday framing interior walls on a Habitat for Humanity build in Westchester County, pay $150 out of pocket for lumber the project ran short on, and drive to two nonprofit board meetings a month in your own car. Tax season rolls around and you wonder what, if any of it, counts. The honest answer: the IRS puts a value of exactly zero on your time, but your out-of-pocket costs are a different story entirely.
 
 This mix-up trips up a lot of people, and it usually goes one of two ways. Some assume volunteering is worth something on a tax return simply because it feels valuable in real life. Others assume the opposite: that because their time isn't deductible, nothing about volunteering is. Both are wrong, and the gap between those two assumptions is where real deductions get missed every year.
@@ -46,11 +49,9 @@ Either method lets you add parking fees and tolls on top, which is where a lot o
 
 ## Nonprofit board service has its own deduction rules
 
-A number of our clients in Westchester County and beyond sit on nonprofit boards alongside running a construction firm, managing rental properties, or operating a bar. Stephen Pryor's own involvement with the Greenwich First Advisory Boards reflects the same instinct: business owners tend to show up for their communities, and that involvement often carries real, deductible costs.
-
 The expenses that typically qualify for board members include mileage or actual driving costs to meetings, parking, unreimbursed conference or training fees connected to the board role, and materials purchased for the organization's use. What doesn't qualify is the value of your professional advice given during those meetings, even if that advice would normally cost a client several hundred dollars an hour.
 
-One detail that catches people off guard: these deductions belong on your personal return as itemized charitable contributions, not on your business return, even if the nonprofit work overlaps with your professional expertise. Keeping that line clean matters if you're ever asked to substantiate the deduction. If you want these habits built into a broader tax plan rather than handled once a year in a scramble, our [tax planning guide](/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning) walks through how year-round documentation makes deductions like these hold up.
+One detail that catches people off guard: these deductions belong on your personal return as itemized charitable contributions, not on your business return, even if the nonprofit work overlaps with your professional expertise. Keeping that line clean matters if you're ever asked to substantiate the deduction.
 
 ## The recordkeeping the IRS expects
 
@@ -65,20 +66,16 @@ Deductions for volunteer expenses get disallowed more often from poor records th
 
 That $250 threshold catches people who don't think of themselves as making a single large donation. If your unreimbursed mileage, supplies, and out-of-pocket costs for one organization add up to $250 or more across the year, you need that written acknowledgment before you file, not after. Asking the organization for it in January of the following year, once records have been archived or a volunteer coordinator has moved on, is a common way this deduction gets lost entirely.
 
-Business owners juggling these details alongside quarterly estimates and payroll deadlines often find the recordkeeping habit is the harder part, not the tax rule itself. For strategies on staying ahead of that load before year-end pressure hits, see [4 Steps to Get Ahead of Higher Taxes](/resources/quick-reads/4-steps-to-get-ahead-of-higher-taxes).
+Business owners juggling these details alongside quarterly estimates and payroll deadlines often find the recordkeeping habit is the harder part, not the tax rule itself.
 
 ## Common Questions
 
-**Can I deduct the value of my time when I volunteer?**
-No. The IRS does not allow a deduction for the value of services or time donated to a charity, regardless of your normal hourly rate or professional expertise. Only unreimbursed, out-of-pocket costs connected to that volunteer work are deductible.
+**Can I deduct the value of my time when I volunteer**?No. The IRS does not allow a deduction for the value of services or time donated to a charity, regardless of your normal hourly rate or professional expertise. Only unreimbursed, out-of-pocket costs connected to that volunteer work are deductible.
 
-**Can I deduct mileage for driving to volunteer activities?**
-Yes. You can deduct actual gas and oil costs directly tied to the volunteer driving, or use the standard charitable mileage rate set out in [IRS Publication 526](https://www.irs.gov/publications/p526). Parking fees and tolls can be added on top of either method.
+**Can I deduct mileage for driving to volunteer activities**?Yes. You can deduct actual gas and oil costs directly tied to the volunteer driving, or use the standard charitable mileage rate set out in [IRS Publication 526](https://www.irs.gov/publications/p526). Parking fees and tolls can be added on top of either method.
 
-**Do I need a receipt for every volunteer expense?**
-For any single expense, yes, keep a receipt or canceled check. If your unreimbursed expenses for one organization total $250 or more across the year, you also need a written acknowledgment from that organization confirming the amount and that you received nothing in return.
+**Do I need a receipt for every volunteer expense**?For any single expense, yes, keep a receipt or canceled check. If your unreimbursed expenses for one organization total $250 or more across the year, you also need a written acknowledgment from that organization confirming the amount and that you received nothing in return.
 
-**Can my business deduct donated materials or discounted services?**
-A business can generally deduct the cost basis of materials donated to a qualified charity, but not the retail value or the value of labor performed for free. Details on qualifying organizations and documentation are available through the [IRS Charities and Nonprofits resource hub](https://www.irs.gov/charities-non-profits).
+**Can my business deduct donated materials or discounted services**?A business can generally deduct the cost basis of materials donated to a qualified charity, but not the retail value or the value of labor performed for free. Details on qualifying organizations and documentation are available through the [IRS Charities and Nonprofits resource hub](https://www.irs.gov/charities-non-profits).
 
 If you volunteer regularly, sit on a nonprofit board, or your construction, real estate, or hospitality business donates materials or space to local causes, it's worth walking through your specific situation with someone who can tell you exactly what qualifies and what documentation to keep. [Contact Stephen P. Pryor, CPA](/contact) to talk through your volunteer and charitable deductions before the next filing deadline catches you unprepared.

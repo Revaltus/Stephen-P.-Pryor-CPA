@@ -17,7 +17,7 @@ schema_markup: "FAQPage"
 answer_block: "Whether to lease or buy a car depends on your mileage, how long you keep vehicles, and how the vehicle is used in your business. Leasing suits lower annual mileage and predictable cash flow, while buying favors high-mileage drivers and vehicles over 6,000 pounds that qualify for larger Section 179 deductions under IRS Publication 946."
 ---
 
-*By Stephen P. Pryor, CPA — Westchester firm providing accounting, tax and advisory services to businesses and individual throughout New York, New Jersey, Connecticut and across the country.*
+*By Stephen P. Pryor, CPA — Port Chester accountant providing accounting, tax and advisory services to businesses and individuals throughout New York, New Jersey, Connecticut and across the country.*
 
 A contractor in Port Chester walks into a dealership needing a new work truck, and within ten minutes the salesperson has three lease offers on the table and zero mention of what happens to his tax return in April. That's the problem with most lease-vs-buy advice: it starts and ends with the monthly payment. The better question is what each option does to your cash flow, your tax bill, and your balance sheet over the next three to five years.
 
@@ -65,26 +65,22 @@ Interest rates matter here too. Auto loan rates have moved with the broader cred
 
 ## Which path fits your situation
 
-A construction business running heavy trucks that log 30,000 miles a year on job sites across the Hudson Valley usually comes out ahead buying, both for the mileage freedom and the Section 179 treatment available on qualifying vehicles. You can see how this kind of first-year depreciation strategy plays out for equipment and vehicles alike in our piece on [cost segregation studies for construction companies](/resources/cost-segregation-studies-are-a-construction-companys-most-ov-2).
+A construction business running heavy trucks that log 30,000 miles a year on job sites across the Hudson Valley usually comes out ahead buying, both for the mileage freedom and the Section 179 treatment available on qualifying vehicles. 
 
-A real estate agent who drives clients to two or three showings a day but replaces vehicles every few years for image and reliability may prefer leasing, especially if mileage stays under the cap. Landlords and investors juggling other depreciation decisions on their properties should look at how vehicle deductions interact with the rest of their tax planning; our guide on [real estate CPA services](/industries/real-estate) covers how those pieces fit together.
+A real estate agent who drives clients to two or three showings a day but replaces vehicles every few years for image and reliability may prefer leasing, especially if mileage stays under the cap. Landlords and investors juggling other depreciation decisions on their properties should look at how vehicle deductions interact with the rest of their tax planning.
 
 A bar or pub owner using a vehicle mainly for supply runs and bank deposits, with modest annual mileage, often finds leasing the simpler, lower-stress choice, freeing up cash for inventory and payroll instead.
 
-The honest answer is that neither option is universally better. It depends on how many miles you drive, how long you keep vehicles, what type of vehicle you need, and how your business handles cash flow month to month. [That's a conversation worth having with a CPA](/resources/auto-leasing-vs-buying-which-makes-more-sense-2) before you sign anything, not after.
+The honest answer is that neither option is universally better. It depends on how many miles you drive, how long you keep vehicles, what type of vehicle you need, and how your business handles cash flow month to month. That's a conversation worth having with our firm before you sign anything, not after.
 
 ## Common Questions
 
-**Is it better to lease or buy a car for tax purposes?**
-It depends on the vehicle and how it's used. Leasing lets you deduct the business-use portion of your monthly payment every year. Buying can allow a larger first-year deduction through Section 179 and bonus depreciation, particularly for trucks and SUVs over 6,000 pounds gross vehicle weight, as outlined in [IRS Publication 946](https://www.irs.gov/publications/p946). Passenger cars face annual depreciation caps regardless of which option you choose.
+**Is it better to lease or buy a car for tax purposes**?It depends on the vehicle and how it's used. Leasing lets you deduct the business-use portion of your monthly payment every year. Buying can allow a larger first-year deduction through Section 179 and bonus depreciation, particularly for trucks and SUVs over 6,000 pounds gross vehicle weight, as outlined in [IRS Publication 946](https://www.irs.gov/publications/p946). Passenger cars face annual depreciation caps regardless of which option you choose.
 
-**Can I deduct a car lease as a business expense?**
-Yes, if the vehicle is used for business. You deduct the business-use percentage of your lease payment, along with related costs like fuel, insurance, and maintenance tied to that same percentage. Keeping a mileage log is essential to support the deduction if the IRS asks.
+**Can I deduct a car lease as a business expense**?Yes, if the vehicle is used for business. You deduct the business-use percentage of your lease payment, along with related costs like fuel, insurance, and maintenance tied to that same percentage. Keeping a mileage log is essential to support the deduction if the IRS asks.
 
-**Does Section 179 apply to leased vehicles?**
-No. Section 179 is a depreciation deduction, which only applies to vehicles you own. If you lease, you deduct the payments themselves as an operating expense instead, spread across the lease term rather than taken upfront.
+**Does Section 179 apply to leased vehicles**?No. Section 179 is a depreciation deduction, which only applies to vehicles you own. If you lease, you deduct the payments themselves as an operating expense instead, spread across the lease term rather than taken upfront.
 
-**How many miles a year makes buying the better choice?**
-There's no single number, but once you're consistently driving more than the 10,000 to 15,000 miles a year typical lease caps allow, the penalties for excess mileage start eating into the savings leasing offered in the first place. High-mileage drivers, including many real estate agents and contractors, tend to come out ahead buying.
+**How many miles a year makes buying the better choice**?There's no single number, but once you're consistently driving more than the 10,000 to 15,000 miles a year typical lease caps allow, the penalties for excess mileage start eating into the savings leasing offered in the first place. High-mileage drivers, including many real estate agents and contractors, tend to come out ahead buying.
 
 If you're weighing a vehicle purchase or lease for your construction, real estate, or hospitality business and want the numbers run against your actual tax situation, [reach out to our team](/contact) and we'll walk through it together.
