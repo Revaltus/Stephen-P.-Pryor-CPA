@@ -61,6 +61,6 @@ Every legitimate dog-related deduction we've described shares one thing: paper t
 
 **What's the difference between a service dog and a therapy dog for tax purposes**?A service dog trained for a specific task tied to a diagnosed disability can qualify as a medical expense deduction under [IRS Publication 502](https://www.irs.gov/publications/p502). A therapy dog or emotional support animal generally doesn't qualify unless there's specific medical documentation showing prescribed training tied to a diagnosed condition.
 
-**Can I deduct expenses for breeding dogs as a business**?Yes, if you're running it as an actual business with a genuine profit motive, reported on Schedule C, and not simply claiming losses on what functions as a hobby. Consistent recordkeeping and a track record of trying to turn a profit matter more here than any single expense.
+**Can I deduct expenses for breeding dogs as a business**?Yes, if you're running it as an actual business with a genuine profit motive, reported on Schedule C, and not simply claiming losses on what functions as a hobby. Consistent record keeping and a track record of trying to turn a profit matter more here than any single expense.
 
 If you're not sure whether a dog-related expense on your books, or your bookkeeper's, is defensible, it's worth a short conversation before it becomes a line item on a return. [Contact Stephen P. Pryor, CPA](/contact) to talk through your specific situation.
