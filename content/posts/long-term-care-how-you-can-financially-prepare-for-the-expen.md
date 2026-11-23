@@ -57,8 +57,6 @@ A lot of the anxiety around long-term care comes from not knowing the numbers, w
 
 ## Common Questions
 
-**How much does long-term care actually cost in Westchester County**?A private room in a Westchester County nursing home typically runs $170,000 to $190,000 a year. Home health aides usually bill $30 to $35 an hour, and assisted living facilities in the area often start around $7,000 to $10,000 a month, with costs rising as care needs increase.
-
 **Is long-term care insurance worth it if I'm already in my early 60s**?It depends on your health and assets. Premiums are higher than they'd be at 55, but a policy bought at 62 or 63 can still be cheaper than self-funding two or three years of nursing home care outright. The math changes based on your specific health history, which is why it's worth running the numbers before assuming you've missed the window.
 
 **Can I get VA benefits and still use my personal savings for care**?Yes. The VA Aid and Attendance benefit is designed to supplement other funding sources, not replace them. Most families who qualify use it alongside savings, a pension, or an insurance payout to cover the full cost of care.
