@@ -41,15 +41,13 @@ In bars and restaurants, it's the point-of-sale ecosystem. POS providers love ad
 
 ## Building a subscription audit that sticks
 
-A [subscription audit only works](/resources/take-back-control-of-subscription-creep-2) if it produces a decision, not just a spreadsheet. Here's a process that holds up:
+A subscription audit only works if it produces a decision, not just a spreadsheet. Here's a process that holds up:
 
 1. **Pull 60 to 90 days of statements.** A single month can miss quarterly or annual charges that renew quietly.
 2. **List every recurring charge**, no matter how small, with the vendor, the amount, and who requested it.
 3. **Sort each one into three buckets**: essential, nice to have, and unused. Be honest about the middle bucket, that's usually where the savings live.
 4. **Assign an owner.** Every subscription should have one person accountable for deciding whether it stays.
 5. **Cancel or downgrade** before the next renewal date, not after.
-
-For business owners, having real-time visibility into these charges matters more than the audit itself. A secure online platform that shows transactions as they post, rather than waiting for a monthly statement to arrive, makes it far easier to catch a new subscription the week it starts rather than six months later. That's part of why bundled bookkeeping and advisory support works better as an ongoing habit than a once-a-year scramble.
 
 ## Making the review part of your routine
 
