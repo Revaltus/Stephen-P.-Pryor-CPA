@@ -51,9 +51,7 @@ What tends to hold up is documentation showing the animal was trained for a spec
 
 ## Keeping records that hold up if you're asked
 
-Every legitimate dog-related deduction we've described shares one thing: paper trail. For a guard dog, that means a log of hours and location, training records, and a clear business reason the property needs protecting. For a breeding operation, it means running the numbers like a real business, with income, expenses, and a documented profit motive, not just deducting losses in the years it's convenient. For a service animal, it means medical documentation connecting the animal's training to a diagnosed condition, kept alongside your other itemized medical records.
-
-We walk clients through this kind of documentation constantly, whether it's a construction company in Port Chester tracking site security costs or an individual client sorting out which medical expenses actually clear the itemization threshold. If you're weighing a dog-related deduction and you're not sure which bucket it falls into, that's exactly the kind of question worth asking before you file, not after you get a letter. Our [tax planning guide](/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning) covers how we approach year-round planning for situations exactly like this one.
+Every legitimate dog-related deduction we've described shares one thing: paper trail. For a guard dog, that means a log of hours and location, training records, and a clear business reason the property needs protecting. For a breeding operation, it means running the numbers like a real business, with income, expenses, and a documented profit motive, not just deducting losses in the years it's convenient. For a service animal, it means medical documentation connecting the animal's training to a diagnosed condition, kept alongside your other itemized medical records. If you're weighing a dog-related deduction and you're not sure which bucket it falls into, that's exactly the kind of question worth asking before you file, not after you get a letter.
 
 ## Common Questions
 
