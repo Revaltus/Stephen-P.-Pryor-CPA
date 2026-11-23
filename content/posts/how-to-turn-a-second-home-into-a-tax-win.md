@@ -16,6 +16,9 @@ canonical_url: https://pryorcpa.com/resources/how-to-turn-a-second-home-into-a-t
 schema_markup: "FAQPage"
 answer_block: "A second home stays tax-free for rental income if you rent it 14 days or fewer per year, regardless of how much you charge. Rent it more than 14 days and personal use exceeds 14 days or 10% of rental days (whichever is greater), and you can report income but not a loss. Only when personal use falls below that line does the IRS treat it as a full rental property with depreciation and loss deductions available."
 ---
+
+*By Stephen P. Pryor, CPA — Port Chester accountant providing accounting, tax and advisory services to businesses and individuals throughout New York, New Jersey, Connecticut and across the country.*
+
 Buying a second home almost always starts as a lifestyle decision. A lake house in the Catskills, a condo near the Jersey Shore, a place in Connecticut you can reach in under two hours on a Friday afternoon. Then someone floats the idea of renting it out for a few weeks a year to help cover the mortgage, and the tax question shows up before the closing paperwork is even filed away. The IRS has a specific test for exactly this situation, and how you actually use the property, not what you call it on your mortgage application, decides whether it works as a tax shelter or turns into a rental business with its own reporting rules.
 
 This matters more than most buyers realize, because the difference between a tax-free vacation rental and a property generating taxable income (with limited deductions) can come down to a single week of personal use.
@@ -40,7 +43,7 @@ Most of the confusion we see starts in that middle row. Owners assume that once 
 
 Lenders and tax law don't use the same definitions. A bank might approve you for a second-home mortgage with a lower rate because you promised to occupy it part of the year, while the IRS is only counting days. You can have a property titled and financed as a second home that the tax code treats as a rental property, and vice versa. What decides it is the personal-use count from the table above, tracked in actual days, not intentions.
 
-This distinction gets more important the moment you consider selling. Depreciation, passive-loss carryforwards, and 1031 exchange eligibility only apply to property the IRS already views as a rental, not a personal residence with occasional rental income. If you're weighing whether to buy a lake house purely for personal use, buy it as a rental from day one, or convert it later, the math is worth running before you sign anything. Our [real estate industry page](/industries/real-estate) covers depreciation and 1031 exchange planning for owners in exactly this position, and it's a conversation worth having with a CPA who works with rental real estate regularly, like [Shawn Wilson, CPA](/who-we-are/shawn-wilson), before the purchase closes rather than after.
+This distinction gets more important the moment you consider selling. Depreciation, passive-loss carryforwards, and 1031 exchange eligibility only apply to property the IRS already views as a rental, not a personal residence with occasional rental income. If you're weighing whether to buy a lake house purely for personal use, buy it as a rental from day one, or convert it later, the math is worth running before you sign anything.
 
 ## What counts as a personal-use day
 
@@ -58,16 +61,12 @@ For a lot of owners, the real decision isn't tax optimization, it's how much per
 
 ## Common Questions
 
-**What is the IRS 14-day rule for a second home?**
-If you rent your second home for 14 days or fewer during the tax year, the rental income is tax-free and doesn't need to be reported at all, no matter how much you charged. Go over 14 days and you're required to report the income, and the deduction rules shift based on how much you personally used the property that year.
+**What is the IRS 14-day rule for a second home**?If you rent your second home for 14 days or fewer during the tax year, the rental income is tax-free and doesn't need to be reported at all, no matter how much you charged. Go over 14 days and you're required to report the income, and the deduction rules shift based on how much you personally used the property that year.
 
-**Can I deduct a loss if I rent out my second home?**
-Only if the property qualifies as a rental under the IRS use test, meaning your personal use stayed at or below 14 days or 10 percent of rental days, whichever is greater. If personal use exceeds that limit, your rental deductions are capped at your rental income and no loss is allowed, even if your actual expenses were higher.
+**Can I deduct a loss if I rent out my second home**?Only if the property qualifies as a rental under the IRS use test, meaning your personal use stayed at or below 14 days or 10 percent of rental days, whichever is greater. If personal use exceeds that limit, your rental deductions are capped at your rental income and no loss is allowed, even if your actual expenses were higher.
 
-**Does renting my second home change it from a second home to an investment property for tax purposes?**
-It can, but the label your mortgage lender uses doesn't control it. The IRS looks strictly at personal-use days versus rental days each year, so the same property could be a personal residence one year and a rental property the next, depending on how it was actually used.
+**Does renting my second home change it from a second home to an investment property for tax purposes**?It can, but the label your mortgage lender uses doesn't control it. The IRS looks strictly at personal-use days versus rental days each year, so the same property could be a personal residence one year and a rental property the next, depending on how it was actually used.
 
-**Do family members who stay for free count as personal-use days?**
-Yes, in most cases. Days used by you, your family, or anyone paying less than fair rental value count as personal use, with a narrow exception for family members who pay fair rent and use the home as their primary residence. Keeping a written log of who stayed and when protects your rental classification if the IRS ever questions it.
+**Do family members who stay for free count as personal-use days**?Yes, in most cases. Days used by you, your family, or anyone paying less than fair rental value count as personal use, with a narrow exception for family members who pay fair rent and use the home as their primary residence. Keeping a written log of who stayed and when protects your rental classification if the IRS ever questions it.
 
 If you're weighing a second-home purchase, thinking about renting one out for the first time, or trying to sort out how a property you already own should be classified, we can walk through the actual use-day math with you before it turns into a filing problem. [Reach out through our contact page](/contact) and we'll go through your specific numbers together.
