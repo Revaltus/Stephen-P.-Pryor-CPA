@@ -51,7 +51,7 @@ Either method lets you add parking fees and tolls on top, which is where a lot o
 
 The expenses that typically qualify for board members include mileage or actual driving costs to meetings, parking, unreimbursed conference or training fees connected to the board role, and materials purchased for the organization's use. What doesn't qualify is the value of your professional advice given during those meetings, even if that advice would normally cost a client several hundred dollars an hour.
 
-One detail that catches people off guard: these deductions belong on your personal return as itemized charitable contributions, not on your business return, even if the nonprofit work overlaps with your professional expertise. Keeping that line clean matters if you're ever asked to substantiate the deduction. If you want these habits built into a broader tax plan rather than handled once a year in a scramble, our [tax planning guide](/resources/e-books/maximizing-your-tax-refund-a-strategic-guide-to-tax-planning) walks through how year-round documentation makes deductions like these hold up.
+One detail that catches people off guard: these deductions belong on your personal return as itemized charitable contributions, not on your business return, even if the nonprofit work overlaps with your professional expertise. Keeping that line clean matters if you're ever asked to substantiate the deduction.
 
 ## The recordkeeping the IRS expects
 
