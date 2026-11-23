@@ -16,6 +16,9 @@ canonical_url: https://pryorcpa.com/resources/your-time-is-priceless-but-the-irs
 schema_markup: "FAQPage"
 answer_block: "The IRS doesn't allow a deduction for the value of your time or services when you volunteer, but unreimbursed out-of-pocket costs directly tied to that volunteer work, like mileage, supplies, and required uniforms, are deductible for itemizers under IRS Publication 526. Keep receipts for every expense and get written acknowledgment from the organization for totals of $250 or more."
 ---
+
+*By Stephen P. Pryor, CPA — Port Chester accountant providing accounting, tax and advisory services to businesses and individuals throughout New York, New Jersey, Connecticut and across the country.*
+
 You spend a Saturday framing interior walls on a Habitat for Humanity build in Westchester County, pay $150 out of pocket for lumber the project ran short on, and drive to two nonprofit board meetings a month in your own car. Tax season rolls around and you wonder what, if any of it, counts. The honest answer: the IRS puts a value of exactly zero on your time, but your out-of-pocket costs are a different story entirely.
 
 This mix-up trips up a lot of people, and it usually goes one of two ways. Some assume volunteering is worth something on a tax return simply because it feels valuable in real life. Others assume the opposite: that because their time isn't deductible, nothing about volunteering is. Both are wrong, and the gap between those two assumptions is where real deductions get missed every year.
