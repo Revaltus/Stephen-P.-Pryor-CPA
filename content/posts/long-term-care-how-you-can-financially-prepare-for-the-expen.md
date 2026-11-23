@@ -17,7 +17,7 @@ schema_markup: "FAQPage"
 answer_block: "Long-term care planning means funding future care costs, often $170,000 or more a year in Westchester County, through a mix of long-term care insurance, the VA Aid and Attendance benefit for eligible veterans, and personal savings, rather than waiting until a health event forces the decision."
 ---
 
-*By Stephen P. Pryor, CPA, Port Chester accountant providing accounting, tax and advisory services to businesses and individuals throughout New York, New Jersey, Connecticut and across the country.*
+*By Stephen P. Pryor, CPA — Port Chester accountant providing accounting, tax and advisory services to businesses and individuals throughout New York, New Jersey, Connecticut and across the country.*
 
 Picture a woman who gets a letter saying her father's assisted living facility is raising its monthly rate to $9,800. She wonders how her family is supposed to keep paying that for another five years. The honest answer is that most families never plan for this cost until it's already showing up on a bill, and by then the cheapest options are already off the table. Long-term care is one of the few expenses in life that is both highly likely and almost entirely predictable in shape, if not in timing, which makes it a planning problem, not a crisis to react to.
 
