@@ -16,6 +16,7 @@ secondary_keywords: ["annual state report deadlines", "business insurance renewa
 canonical_url: https://pryorcpa.com/resources/the-december-compliance-calendar-map-your-businesss-year-ahe
 schema_markup: "FAQPage"
 answer_block: "A business compliance calendar is one schedule of every insurance renewal, license expiration, contract notice date, payroll filing, state report, and tax payment your company has. Business owners should build it in December, when things slow down, by listing each deadline plus the earlier date they need to start acting, then setting reminders 30 to 90 days ahead."
+faq_block: [{"question":"What is a business compliance calendar?","answer":"It's a single schedule of every recurring deadline your business has: insurance renewals, license expirations, contract notice dates, payroll filings, state reports, and tax payments. The value is the reminder dates, set early enough that you can compare options and decide instead of reacting to a notice."},{"question":"When should I review my business insurance before renewal?","answer":"Start 60 to 90 days before the policy ends. That gives your broker time to shop quotes and gives you time to update payroll, equipment, and revenue figures. For workers' comp, bring payroll by job classification, since the premium is based on it."},{"question":"Do I need a calendar if I only operate in New York?","answer":"Yes. Even a single-state business has federal payroll returns, state unemployment filings, a state entity report, local licenses, and several insurance policies. If you also have employees or customers in Connecticut or New Jersey, you may have extra registration and filing requirements, so the calendar matters more."}]
 ---
 It's mid-December, the year is winding down, and your desk has a pile on it. A workers' comp renewal notice. A lease that rolls over next month. A license card with a date you can't quite read. Most business owners we talk to in Port Chester are good at running their business and bad at remembering which paperwork dates are coming. That isn't a character flaw. Those dates are scattered across brokers, state websites, and old email threads, and nobody hands them to you in one place.
 
@@ -132,3 +133,15 @@ Yes. Even a single-state contractor has federal payroll returns, state unemploym
 ## Start next year with the dates already set
 
 If you'd rather not build this alone, we can do it with you. Stephen P. Pryor, CPA bundles bookkeeping, tax, and payroll compliance into one fixed monthly fee, so many of these dates already sit in our system. We can sit down with you in December, walk through your insurance, contracts, licenses, and filings, and hand you a finished calendar for the year. [Contact our Port Chester office](/contact) to set up a time before the holidays.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: What is a business compliance calendar?**
+A: It's a single schedule of every recurring deadline your business has: insurance renewals, license expirations, contract notice dates, payroll filings, state reports, and tax payments. The value is the reminder dates, set early enough that you can compare options and decide instead of reacting to a notice.
+
+**Q: When should I review my business insurance before renewal?**
+A: Start 60 to 90 days before the policy ends. That gives your broker time to shop quotes and gives you time to update payroll, equipment, and revenue figures. For workers' comp, bring payroll by job classification, since the premium is based on it.
+
+**Q: Do I need a calendar if I only operate in New York?**
+A: Yes. Even a single-state business has federal payroll returns, state unemployment filings, a state entity report, local licenses, and several insurance policies. If you also have employees or customers in Connecticut or New Jersey, you may have extra registration and filing requirements, so the calendar matters more.
