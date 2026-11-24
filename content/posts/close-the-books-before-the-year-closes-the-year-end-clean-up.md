@@ -5,7 +5,7 @@ date: 2026-11-24
 content_type: blog
 author: "Stephen P. Pryor, CPA"
 excerpt: "Reconciling accounts, separating personal spending, and fixing miscategorized transactions in Q4 is the cheapest way for a business owner to lower tax prep fees and skip the January scramble."
-image: contractor-reviewing-year-end-books-port-chester.jpg
+image: adobestock-2227633909.png
 image_alt: "Business owner reviewing financial paperwork and a laptop at a desk during year-end bookkeeping cleanup"
 tags: ["Year-End Bookkeeping", "Small Business", "Tax Planning", "Bookkeeping"]
 categories: [c-8ac9bc]
@@ -35,8 +35,6 @@ The [IRS recordkeeping guidance for small businesses](https://www.irs.gov/busine
 ## Reconcile every account before December 31
 
 Reconciling means matching what your books say to what the bank, card company, or lender says, line by line, until the ending balances agree. It sounds basic. It is also the step most often skipped when things get busy.
-
-![Bookkeeper matching bank statements to accounting software with a calculator](/content-assets/bookkeeper-reconciling-bank-statements.jpg)
 
 Start with these accounts and work through each one for every month of the year:
 
