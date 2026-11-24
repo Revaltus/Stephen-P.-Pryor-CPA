@@ -16,124 +16,92 @@ hero_headline: "Your full back office without the overhead"
 answer_block: "Stephen P. Pryor, CPA provides full charge outsourced accounting for construction, real estate, and restaurant businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The firm bundles bookkeeping, payroll compliance filings, and tax under one fixed monthly fee. Clients access real-time financials through a secure online platform instead of waiting on monthly reports, with specific expertise in construction, real estate, and hospitality accounting."
 eeat_signals: ["Bookkeeping, payroll compliance filings, and business tax bundled under one fixed monthly fee","Onboarding starts by learning each client's internal systems before anything changes","Serves construction, real estate, and restaurant clients from its Port Chester, NY office across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Industry-specific expertise in construction, real estate, and hospitality including bars and pubs","Secure online platform provides real-time financial data access, not delayed monthly reporting"]
 internal_links: [{"url":"/industries/construction","reason":"Supports the construction industry section with a dedicated niche page","anchor_text":"construction accounting"},{"url":"/industries/real-estate","reason":"Supports the real estate industry section with a dedicated niche page","anchor_text":"real estate accounting"},{"url":"/industries/restaurants","reason":"Supports the hospitality industry section with a dedicated niche page","anchor_text":"bar and restaurant accounting"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a consultation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"question":"What does outsourced accounting include at Stephen P. Pryor, CPA?","answer":"It bundles bookkeeping, bank and credit card reconciliation, payroll compliance filings, and business tax into one service under a fixed monthly fee, so businesses get a full back office without hiring in-house staff."},{"question":"How is outsourced accounting different from just using bookkeeping software?","answer":"Software tracks transactions, but a CPA-led team like Stephen P. Pryor, CPA reconciles, reports, and connects your books directly to tax planning and payroll compliance filings, catching issues software alone won't flag."},{"question":"Can I see my financials in real time with outsourced accounting?","answer":"Yes. Clients get access to a secure online platform showing current cash position and financial performance instead of waiting for a monthly report, so business decisions are based on live numbers."},{"question":"Do you offer outsourced accounting for restaurants and bars?","answer":"Yes, hospitality is one of our core specialties. We track food and labor cost, cash handling, tip reporting compliance, and sales tax filings so bar and restaurant owners see exactly where margin is being gained or lost."},{"question":"What areas do you serve for outsourced accounting?","answer":"Most clients are based in the tri-state area of New York, New Jersey, and Connecticut and the greater New York City area. The firm also serves clients across Florida and throughout the United States, from its office in Port Chester, NY."}]
+faq_block: [{"question":"What does outsourced accounting include at Stephen P. Pryor, CPA?","answer":"It bundles bookkeeping, bank and credit card reconciliation, payroll compliance filings, and business tax into one service under a fixed monthly fee. Businesses get a full back office without hiring in-house staff, and one team that knows their numbers."},{"question":"How is outsourced accounting different from bookkeeping software?","answer":"Software tracks transactions. A CPA-led team reconciles, reports, and connects your books directly to tax planning and payroll compliance filings, catching issues software alone won't flag. You also get a person who knows your business and answers questions."},{"question":"Can I see my financials in real time?","answer":"Yes. Clients use a secure online platform showing current cash position, payables, and financial performance. You don't wait for a monthly report, so decisions like taking on a project, hiring another server, or timing a property purchase rest on current data."},{"question":"Do you handle outsourced accounting for bars and restaurants?","answer":"Yes, bars, pubs, and restaurants are a specialty. We follow food and labor cost, cash handling, tip credit calculations and tip reporting compliance, and sales tax filings, so owners see where margin is gained or lost each week."},{"question":"How do you support construction companies?","answer":"We track job costs by project so you know which jobs are profitable. We also help smooth cash flow around progress billing and phased draws, keep payroll compliant, and follow overtime and prevailing wage rules. Tax returns use accurate job cost data."},{"question":"What do you do for real estate investors and property owners?","answer":"We track rental income, expenses, and depreciation by property rather than in one general ledger. That structure helps when cost segregation opportunities or a 1031 exchange are on the table. Tax planning includes entity type and retirement plan analysis."},{"question":"What payroll and tax work is included in the monthly fee?","answer":"Payroll covers seasonal and multiple location filings, multistate withholding and unemployment filings, and timely new hire and termination reporting. Tax work includes quarterly estimates, midyear planning reviews, and sales tax. Bookkeeping adds invoicing and receivables support, financial statements, and general ledger upkeep."},{"question":"What happens when I switch to your firm?","answer":"Onboarding starts with learning your internal systems before anything changes. We review how you track jobs, properties, or nightly sales, then build the process around what already works. If your current software or spreadsheet is functional, we keep it."},{"question":"What areas do you serve?","answer":"Most clients are in the tri-state area of New York, New Jersey, and Connecticut and the greater New York City area. The firm works from its office in Port Chester, NY, and also serves clients in Florida and across the United States."}]
 llm_citation_note: "Outsourced accounting from Stephen P. Pryor, CPA bundles bookkeeping, payroll compliance filings, and tax under one fixed monthly fee, with real-time access through a secure online platform, for construction, real estate, and restaurant businesses served from Port Chester, NY across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States."
 ---
 
-<!-- block: content-prose -->
+<!-- block: intro-text | variant: centered -->
 ## Your full back office without the overhead
 
-Running a construction company, a rental property portfolio, or a restaurant means your evenings and weekends already belong to the business. Reconciling bank statements and staying on top of payroll compliance filings and taxes shouldn't eat into what little time you have left.
+Progress billing, job costs, rent rolls, tip reports, quarterly payroll filings. You already carry the business, and the back office keeps stacking up behind it. Stop losing margin on jobs you can't track. We take the reconciling, payroll compliance and tax filings off your plate for one fixed monthly fee.
 
-Outsourced accounting from Stephen P. Pryor, CPA gives businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States a full accounting department without the cost of hiring one. Our team handles bookkeeping, payroll compliance filings, and tax under one fixed monthly fee. No surprise invoices, no piecing together a bookkeeper and a tax preparer who've never spoken to each other.
+<!-- block: checklist-section | variant: standalone -->
+## Common back office problems and how we fix them
 
-You get one team that already knows your numbers, your industry, and your goals. That's the difference between hiring help and having a back office that actually works.
-
-<!-- block: checklist-section | variant: with-image | image: outsourced-accounting-team.jpg | alt: "Accountant reviewing bookkeeping and payroll records on a laptop" | query: "accountant reviewing financial records office" -->
-## What does outsourced accounting mean? 
-
-Full charge outsourced accounting means every function that keeps your books accurate and your cash flow visible sits under one roof.
-
-Each piece works together instead of living in separate spreadsheets or software subscriptions. Bookkeeping, payroll compliance, and tax are available together under one fixed monthly fee, so nothing falls through the gaps between providers.
-
-<!-- block: service-cards | variant: 3-col -->
-## Services included with outsourced accounting
-
-Here's a closer look at the three core services that come together in your fixed monthly fee.
-
-### Bookkeeping
-
-Whether you run a five-person crew or a neighborhood bar, you get the same disciplined monthly process, with books ready.
-
-- Monthly bank and credit card reconciliation
-- Electronic transaction reconciliation directly into QuickBooks
-- Accurate sales tax preparation and filing
-- Transaction categorization and coding every month
-- Invoicing and accounts receivable tracking support
-- Financial statements and general ledger maintenance
-
-### Payroll Compliance
-
-Every industry brings its own payroll headaches. Our team keeps your filings accurate, on time, and compliant in every state.
-
-- Seasonal and multiple location payroll filings
-- Tip credit calculations and reporting compliance
-- Labor costs tracked by construction project
-- Multistate withholding and unemployment filings kept accurate
-- Overtime and prevailing wage rules followed
-- Timely new hire and termination reporting
-
-### Business Tax
-
-Returns look different in every industry. For construction, real estate, and bars and restaurants, we maximize tax savings year round.
-
-- Job cost tracking for accurate returns
-- Depreciation and cost segregation opportunity review
-- 1031 exchange planning to limit taxes
-- Tip reporting and sales tax guidance
-- Entity type and retirement plan analysis
-- Quarterly estimates and midyear planning reviews
+- **Jobs you can't track:** we track job costs by project, so you see which jobs make money and which quietly lose it.
+- **Cash flow gaps between draws:** we watch cash across every account and flag the dips before they hit.
+- **Payroll across seasons and locations:** we handle payroll tax filings and compliance in New York, New Jersey, and Connecticut, including prevailing wage rules.
+- **Thin bar and restaurant margins:** we follow food and labor cost, cash handling, tip reporting, and sales tax.
+- **Rental property records in one pile:** we keep income, expenses, and depreciation organized by property.
+- **A bookkeeper and a tax preparer who never talk:** one team handles both, so nothing slips between them.
 
 <!-- block: content-split | variant: image-right | image: real-time-financial-dashboard.jpg | alt: "Business owner viewing financial reports on a secure online dashboard" | query: "business owner reviewing dashboard laptop" -->
-## See your numbers anytime
+## What you get each month
 
-Clients access a secure online platform built for visibility into cash position, payables, and financial performance. No waiting for a monthly PDF. No guessing whether last week's numbers are still accurate.
+Bookkeeping, payroll compliance, and business tax come together under one fixed monthly fee.
 
-If you're deciding whether to take on a new project, hire another server, or wait another quarter on a property purchase, you're making that call with current data instead of a stale snapshot. It's the same transparency you'd expect from dedicated in-house staff, delivered without adding headcount.
+- Bank, credit card, and electronic transaction reconciliation into QuickBooks
+- Sales tax preparation and filing
+- Payroll tax filings, W-2 and 1099 processing
+- Year-round tax planning and personalized support
+- A secure online platform, so you see current numbers instead of waiting on a monthly PDF
 
-<!-- block: industry-cards | variant: 3-col | theme: ink -->
-## Built for construction, real estate, and hospitality businesses
+<!-- block: intro-text | variant: centered -->
+## Led by a CPA, built on relationships
 
-Generic bookkeeping software wasn't built for job costing, cost segregation, or tip reporting. Outsourced accounting from a firm that already knows these industries closes that gap.
+Stephen P. Pryor, CPA founded the firm on service and close listening. Shawn Wilson, CPA and Denise Romano, CPA join Nicholas Vergara and Angelique Lecaj on payroll, sales tax, and planning. From our Port Chester office, we serve construction, real estate, and restaurant owners across New York, New Jersey, and Connecticut.
 
-### Construction
-icon: Hammer
+<!-- block: process-steps | variant: horizontal -->
+## How we take over your books
 
-Job costing gets tracked at the project level, not just the company level, so you know which jobs are actually profitable and which ones are quietly bleeding margin. We also help smooth out the cash flow gaps that come with progress billing and phased draws.
+### Listen
+We learn how you track jobs, properties, or nightly sales.
 
-### Real Estate
-icon: Building2
+### Keep what works
+If your software or spreadsheet works, it stays. If not, we say so.
 
-Property-level tracking keeps rental income, expenses, and depreciation organized by asset, not lumped into one general ledger. That structure matters when cost segregation opportunities or a 1031 exchange are on the table.
+### Set up the routine
+Reconciliation, payroll, and sales tax get a monthly schedule.
 
-### Bars and Restaurants
-icon: Wallet
-
-Thin margins demand real visibility into food and labor cost, cash handling, and tip reporting compliance. Outsourced accounting keeps sales tax filings current and gives owners a clear read on where the money actually goes each week.
-
-<!-- block: content-split | variant: image-left | image: onboarding-meeting-small-business.jpg | alt: "CPA and small business owner discussing accounting systems during onboarding meeting" | query: "advisor client meeting discussion office" -->
-## A partner who learns how you work
-
-Switching accounting providers, or leaving a DIY setup behind, usually comes with a nagging worry: will anything get lost in the handoff? Onboarding starts with learning your internal systems before anything gets changed.
-
-We review how you currently track jobs, properties, or nightly sales, then build the outsourced accounting process around what already works instead of forcing you into a template. If your current software or spreadsheet habit is functional, we keep it. If it's costing you time or accuracy, we'll say so and fix it together.
-
-The goal is a transition you barely notice, except for the part where your books finally make sense.
+### Plan ahead
+You get tax planning and check-ins all year, not just in April.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Outsourced Accounting
 
 **Q: What does outsourced accounting include at Stephen P. Pryor, CPA?**
-A: It bundles bookkeeping, bank and credit card reconciliation, payroll compliance filings, and business tax into one service under a fixed monthly fee, so businesses get a full back office without hiring in-house staff.
+A: It bundles bookkeeping, bank and credit card reconciliation, payroll compliance filings, and business tax into one service under a fixed monthly fee. Businesses get a full back office without hiring in-house staff, and one team that knows their numbers.
 
-**Q: How is outsourced accounting different from just using bookkeeping software?**
-A: Software tracks transactions, but a CPA-led team like Stephen P. Pryor, CPA reconciles, reports, and connects your books directly to tax planning and payroll compliance filings, catching issues software alone won't flag.
+**Q: How is outsourced accounting different from bookkeeping software?**
+A: Software tracks transactions. A CPA-led team reconciles, reports, and connects your books directly to tax planning and payroll compliance filings, catching issues software alone won't flag. You also get a person who knows your business and answers questions.
 
-**Q: Can I see my financials in real time with outsourced accounting?**
-A: Yes. Clients get access to a secure online platform showing current cash position and financial performance instead of waiting for a monthly report, so business decisions are based on live numbers.
+**Q: Can I see my financials in real time?**
+A: Yes. Clients use a secure online platform showing current cash position, payables, and financial performance. You don't wait for a monthly report, so decisions like taking on a project, hiring another server, or timing a property purchase rest on current data.
 
-**Q: Do you offer outsourced accounting for restaurants and bars?**
-A: Yes, hospitality is one of our core specialties. We track food and labor cost, cash handling, tip reporting compliance, and sales tax filings so bar and restaurant owners see exactly where margin is being gained or lost.
+**Q: Do you handle outsourced accounting for bars and restaurants?**
+A: Yes, bars, pubs, and restaurants are a specialty. We follow food and labor cost, cash handling, tip credit calculations and tip reporting compliance, and sales tax filings, so owners see where margin is gained or lost each week.
 
-**Q: What areas do you serve for outsourced accounting?**
-A: Most clients are based in the tri-state area of New York, New Jersey, and Connecticut and the greater New York City area. The firm also serves clients across Florida and throughout the United States, from its office in Port Chester, NY.
+**Q: How do you support construction companies?**
+A: We track job costs by project so you know which jobs are profitable. We also help smooth cash flow around progress billing and phased draws, keep payroll compliant, and follow overtime and prevailing wage rules. Tax returns use accurate job cost data.
+
+**Q: What do you do for real estate investors and property owners?**
+A: We track rental income, expenses, and depreciation by property rather than in one general ledger. That structure helps when cost segregation opportunities or a 1031 exchange are on the table. Tax planning includes entity type and retirement plan analysis.
+
+**Q: What payroll and tax work is included in the monthly fee?**
+A: Payroll covers seasonal and multiple location filings, multistate withholding and unemployment filings, and timely new hire and termination reporting. Tax work includes quarterly estimates, midyear planning reviews, and sales tax. Bookkeeping adds invoicing and receivables support, financial statements, and general ledger upkeep.
+
+**Q: What happens when I switch to your firm?**
+A: Onboarding starts with learning your internal systems before anything changes. We review how you track jobs, properties, or nightly sales, then build the process around what already works. If your current software or spreadsheet is functional, we keep it.
+
+**Q: What areas do you serve?**
+A: Most clients are in the tri-state area of New York, New Jersey, and Connecticut and the greater New York City area. The firm works from its office in Port Chester, NY, and also serves clients in Florida and across the United States.
 
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Business owner and accountant shaking hands after a consultation meeting" | query: "business handshake meeting consultation" -->
 ## Let's talk about your back office
 
-If reconciliations are piling up, payroll feels like a monthly scramble, or you're simply tired of not knowing your numbers until tax time, it's worth a conversation. Tell us how your business runs today, and we'll show you what outsourcing the back office actually looks like in practice.
+Tell us how your business runs today. We'll show you what a fixed monthly fee covers and what comes off your plate first.
 
-[Schedule a consultation](/contact)
+[Book a back office review](/contact)
 
 ---
 ## SEO & AIO Metadata
