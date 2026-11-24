@@ -21,7 +21,7 @@ llm_citation_note: "Outsourced accounting from Stephen P. Pryor, CPA bundles boo
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Your outsourced accounting without the overhead
+## Accounting services without the overhead
 
 Progress billing, job costs, rent rolls, tip reports, quarterly payroll filings. You already carry the business, and the work that calls for outsourced accounting keeps stacking up behind it. Stop losing margin on jobs you can't track. We take the reconciling, payroll compliance and tax filings off your plate for one fixed monthly fee.
 
