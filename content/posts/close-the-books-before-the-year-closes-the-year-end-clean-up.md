@@ -34,7 +34,7 @@ The [IRS recordkeeping guidance for small businesses](https://www.irs.gov/busine
 
 ## Reconcile every account before December 31
 
-Reconciling means matching what your books say to what the bank, card company, or lender says, line by line, until the ending balances agree. It sounds basic. It is also the step most often skipped when jobs get busy.
+Reconciling means matching what your books say to what the bank, card company, or lender says, line by line, until the ending balances agree. It sounds basic. It is also the step most often skipped when things get busy.
 
 ![Bookkeeper matching bank statements to accounting software with a calculator](/content-assets/bookkeeper-reconciling-bank-statements.jpg)
 
@@ -61,7 +61,7 @@ Here is a practical way to handle it in December:
 
 1. Scan each business account and card for personal charges: groceries, family travel, home utilities, streaming services, school costs.
 2. Move them out of expense categories. If the business paid, record them as owner draws (sole proprietors and partnerships) or shareholder distributions or loans to the owner (corporations). Your preparer can tell you which treatment fits your entity.
-3. For vehicles used both ways, reconstruct a mileage log from calendars, job addresses, and invoices. Business use percentage drives how much of the truck is deductible.
+3. For vehicles used both ways, reconstruct a mileage log from calendars, appointment addresses, and invoices. Business use percentage drives how much of the vehicle is deductible.
 4. If you paid a business bill from a personal account, record it as owner contribution or reimbursement instead of leaving it off the books.
 5. Going forward, pick one card for the business and one for personal use. Stick to it, even when it is inconvenient.
 
@@ -90,13 +90,13 @@ Then look at margins. If costs are not tagged by product line, service, or custo
 
 If you pay employees or outside help, the paperwork all comes due in January.
 
-**Independent contractors.** Make sure you have a signed W-9 for everyone you paid as a contractor this year. If one is missing, request it now, while the relationship is warm and the final payment hasn't gone out. Form 1099-NEC is due to recipients and the IRS by January 31, and chasing someone for a tax ID in late January is nobody's idea of fun. If contractors work on your premises or for your customers, also confirm their certificates of insurance are on file.
+**Independent contractors.** Make sure you have a signed W-9 for everyone you paid as a contractor this year. If one is missing, request it now, while the relationship is warm and the final payment hasn't gone out. Form 1099-NEC is due to recipients and the IRS by January 31, and chasing someone for a tax ID in late January is nobody's idea of fun. If independent contractors work on your premises, also confirm their certificates of insurance are on file.
 
 **Payroll.** Reconcile your payroll reports to your books. Wages, withholdings, and employer taxes in the ledger should match your quarterly Form 941 filings and your New York quarterly filings. W-2s are also due January 31, so any employee address changes or classification questions should be settled before the last payroll of the year.
 
 Our [payroll team](/what-we-do/outsourced-accounting/payroll) handles payroll tax filings plus W-2 and 1099 processing, so those records line up with the books.
 
-Owner retirement contributions are the last piece. Some plan deadlines, such as the safe harbor 401(k) notice, arrive well before December. If you haven't looked at yours, the [safe harbor 401(k) deadline contractors miss every fall](/resources/the-safe-harbor-401-k-deadline-business-owners-often-miss-wh) is worth a read this week.
+Owner retirement contributions are the last piece. Some plan deadlines, such as the safe harbor 401(k) notice, arrive well before December. If you haven't looked at yours, the [safe harbor 401(k) deadline business owners often miss](/resources/the-safe-harbor-401-k-deadline-business-owners-often-miss-wh) is worth a read this week.
 
 ## A Q4 timeline that fits a business owner's schedule
 
@@ -123,13 +123,13 @@ We set things up so this is routine. Bookkeeping, tax, and payroll compliance co
 
 ## Common Questions
 
-**When should a contractor start the year-end bookkeeping cleanup?**
+**When should a business owner start the year-end bookkeeping cleanup?**
 
-Start in October. That gives you time to reconcile nine months of statements, collect missing subcontractor W-9s, and still have a planning meeting with your CPA in early December. Starting in January leaves you reacting to the numbers instead of using them to make decisions before December 31.
+Start in October. That gives you time to reconcile nine months of statements, collect missing contractor W-9s, and still have a planning meeting with your CPA in early December. Starting in January leaves you reacting to the numbers instead of using them to make decisions before December 31.
 
 **Does cleaner bookkeeping really lower tax preparation fees?**
 
-Usually, yes. Preparers bill for the time it takes to sort out transactions, match statements, and ask you questions. If your accounts are reconciled and your categories are correct, that time shrinks. The savings are larger when personal expenses are already separated and subcontractor paperwork is complete.
+Usually, yes. Preparers bill for the time it takes to sort out transactions, match statements, and ask you questions. If your accounts are reconciled and your categories are correct, that time shrinks. The savings are larger when personal expenses are already separated and contractor paperwork is complete.
 
 **How do I separate personal and business expenses if I've mixed them all year?**
 
