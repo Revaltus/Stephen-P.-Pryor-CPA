@@ -16,6 +16,7 @@ secondary_keywords: ["reconcile bank accounts before tax season", "separate pers
 canonical_url: https://pryorcpa.com/resources/close-the-books-before-the-year-closes-the-year-end-clean-up
 schema_markup: "FAQPage"
 answer_block: "A year-end bookkeeping checklist for taxes starts with reconciling every bank, card, loan, and payroll account, then separating personal spending, fixing miscategorized transactions, and collecting W-9s from independent contractors. Doing this in October through December means your CPA spends time on tax planning instead of sorting transactions, which is what lowers your tax preparation fees."
+faq_block: [{"question":"When should a business owner start the year-end bookkeeping cleanup?","answer":"Start in October. That gives you time to reconcile nine months of statements, collect missing contractor W-9s, and still have a planning meeting with your CPA in early December. Starting in January leaves you reacting to the numbers instead of using them to make decisions before December 31."},{"question":"Does cleaner bookkeeping really lower tax preparation fees?","answer":"Usually, yes. Preparers bill for the time it takes to sort out transactions, match statements, and ask you questions. If your accounts are reconciled and your categories are correct, that time shrinks. The savings are larger when personal expenses are already separated and contractor paperwork is complete."},{"question":"How do I separate personal and business expenses if I've mixed them all year?","answer":"Review each account and card for personal charges, then record them as owner draws, distributions, or loans to the owner, depending on your entity type. Rebuild a mileage log for any vehicle used both ways. From here on, use one card for the business and one for personal spending."}]
 ---
 Most business owners don't dread tax season because of the tax. They dread the first week of January, when the preparer opens the books and finds a year of uncategorized transactions, a bank account nobody has reconciled since spring, and a vehicle payment coded as supplies. Every hour spent untangling that mess shows up on your invoice.
 
@@ -137,3 +138,15 @@ Review each account and card for personal charges, then record them as owner dra
 ## Get your books ready before the year closes
 
 If your books need work, the best time to call is before Thanksgiving, not after New Year's. Stephen P. Pryor, CPA works with business owners in Port Chester and across New York, New Jersey, and Connecticut to reconcile accounts, clean up categories, and plan for the tax year ahead. [Contact us](/contact) to talk through where your books stand and what a year-end cleanup would involve.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: When should a business owner start the year-end bookkeeping cleanup?**
+A: Start in October. That gives you time to reconcile nine months of statements, collect missing contractor W-9s, and still have a planning meeting with your CPA in early December. Starting in January leaves you reacting to the numbers instead of using them to make decisions before December 31.
+
+**Q: Does cleaner bookkeeping really lower tax preparation fees?**
+A: Usually, yes. Preparers bill for the time it takes to sort out transactions, match statements, and ask you questions. If your accounts are reconciled and your categories are correct, that time shrinks. The savings are larger when personal expenses are already separated and contractor paperwork is complete.
+
+**Q: How do I separate personal and business expenses if I've mixed them all year?**
+A: Review each account and card for personal charges, then record them as owner draws, distributions, or loans to the owner, depending on your entity type. Rebuild a mileage log for any vehicle used both ways. From here on, use one card for the business and one for personal spending.
