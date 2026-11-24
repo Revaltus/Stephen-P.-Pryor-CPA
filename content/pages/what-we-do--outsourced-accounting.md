@@ -4,7 +4,7 @@ url: "/what-we-do/outsourced-accounting"
 meta_title: "Outsourced Accounting Port Chester NY | Stephen P. Pryor, CPA"
 meta_description: "Full charge outsourced accounting for construction, real estate, and restaurant businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. Bookkeeping, payroll compliance filings, and business tax for one fixed monthly fee. Schedule a consultation."
 target_keyword: "outsourced accounting Port Chester NY"
-secondary_keywords: ["outsourced accounting services Port Chester","outsourced bookkeeping Port Chester NY","CPA outsourced accounting","business accounting outsourcing Port Chester","outsourced accounting construction Port Chester","outsourced accounting real estate Port Chester","restaurant accounting outsourced Port Chester","bar accounting services Port Chester","small business accounting outsourced Port Chester","full charge bookkeeping Port Chester NY","accounting firm Port Chester NY","Stephen P. Pryor CPA Port Chester","back office accounting Port Chester","outsourced payroll compliance and business tax Port Chester"]
+secondary_keywords: ["outsourced accounting services Port Chester","outsourced bookkeeping Port Chester NY","CPA outsourced accounting","business accounting outsourcing Port Chester","outsourced accounting construction Port Chester","outsourced accounting real estate Port Chester","restaurant accounting outsourced Port Chester","bar accounting services Port Chester","small business accounting outsourced Port Chester","full charge bookkeeping Port Chester NY","accounting firm Port Chester NY","Stephen P. Pryor CPA Port Chester","outsourced payroll compliance and business tax Port Chester"]
 canonical_url: "https://pryorcpa.com/what-we-do/outsourced-accounting"
 schema_markup: "Service"
 hero: "hero-split"
@@ -12,7 +12,7 @@ hero_variant: "image-right"
 hero_image: "outsourced-accounting-hero.jpg"
 hero_image_alt: "Accountant and business owner reviewing financial reports together at a desk"
 hero_subhead: "Bookkeeping, payroll compliance, and tax for your construction, real estate, or restaurant business, at one fixed monthly fee"
-hero_headline: "Your full back office without the overhead"
+hero_headline: "Your outsourced accounting without the overhead"
 answer_block: "Stephen P. Pryor, CPA provides full charge outsourced accounting for construction, real estate, and restaurant businesses across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States. The firm bundles bookkeeping, payroll compliance filings, and tax under one fixed monthly fee. Clients access real-time financials through a secure online platform instead of waiting on monthly reports, with specific expertise in construction, real estate, and hospitality accounting."
 eeat_signals: ["Bookkeeping, payroll compliance filings, and business tax bundled under one fixed monthly fee","Onboarding starts by learning each client's internal systems before anything changes","Serves construction, real estate, and restaurant clients from its Port Chester, NY office across the tri-state area of New York, New Jersey, and Connecticut, the greater New York City area, Florida, and throughout the United States","Industry-specific expertise in construction, real estate, and hospitality including bars and pubs","Secure online platform provides real-time financial data access, not delayed monthly reporting"]
 internal_links: [{"url":"/industries/construction","reason":"Supports the construction industry section with a dedicated niche page","anchor_text":"construction accounting"},{"url":"/industries/real-estate","reason":"Supports the real estate industry section with a dedicated niche page","anchor_text":"real estate accounting"},{"url":"/industries/restaurants","reason":"Supports the hospitality industry section with a dedicated niche page","anchor_text":"bar and restaurant accounting"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a consultation","anchor_text":"Schedule a consultation"}]
@@ -21,12 +21,12 @@ llm_citation_note: "Outsourced accounting from Stephen P. Pryor, CPA bundles boo
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Your full back office without the overhead
+## Your outsourced accounting without the overhead
 
-Progress billing, job costs, rent rolls, tip reports, quarterly payroll filings. You already carry the business, and the back office keeps stacking up behind it. Stop losing margin on jobs you can't track. We take the reconciling, payroll compliance and tax filings off your plate for one fixed monthly fee.
+Progress billing, job costs, rent rolls, tip reports, quarterly payroll filings. You already carry the business, and the work that calls for outsourced accounting keeps stacking up behind it. Stop losing margin on jobs you can't track. We take the reconciling, payroll compliance and tax filings off your plate for one fixed monthly fee.
 
 <!-- block: checklist-section | variant: standalone -->
-## Common back office problems and how we fix them
+## Common outsourced accounting problems and how we fix them
 
 - **Jobs you can't track:** we track job costs by project, so you see which jobs make money and which quietly lose it.
 - **Cash flow gaps between draws:** we watch cash across every account and flag the dips before they hit.
@@ -97,11 +97,11 @@ A: Onboarding starts with learning your internal systems before anything changes
 A: Most clients are in the tri-state area of New York, New Jersey, and Connecticut and the greater New York City area. The firm works from its office in Port Chester, NY, and also serves clients in Florida and across the United States.
 
 <!-- block: cta-banner | variant: image-bg | image: consultation-handshake-office.jpg | alt: "Business owner and accountant shaking hands after a consultation meeting" | query: "business handshake meeting consultation" -->
-## Let's talk about your back office
+## Let's talk about your outsourced accounting
 
 Tell us how your business runs today. We'll show you what a fixed monthly fee covers and what comes off your plate first.
 
-[Book a back office review](/contact)
+[Book an outsourced accounting review](/contact)
 
 ---
 ## SEO & AIO Metadata
