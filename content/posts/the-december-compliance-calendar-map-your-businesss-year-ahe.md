@@ -5,7 +5,7 @@ date: 2026-11-24
 content_type: blog
 author: "Stephen P. Pryor, CPA"
 excerpt: "December is the quiet month to put every insurance renewal, license date, contract notice, and state filing on one page. Here is how Port Chester business owners can do it in an afternoon."
-image: contractor-planning-year-ahead-calendar.jpg
+image: adobestock-1186260035.png
 image_alt: "Business owner reviewing paperwork and a wall calendar in an office while planning the year ahead"
 tags: ["compliance calendar", "small business", "year-end planning", "payroll compliance"]
 categories: [c-8ac9bc]
@@ -62,8 +62,6 @@ Vendor and customer agreements deserve the same look. Check payment terms, late 
 ## Gather licenses, permits, and certifications
 
 Licenses are easy to forget because they renew on cycles that don't match anything else in your year. Some renew annually, some every two years, and the issuer depends on where you work: a village, a county, a city, or the state.
-
-![Business owner reviewing license and permit documents at a desk](/content-assets/contractor-reviewing-permit-job-site.jpg)
 
 Make a short list of everything that lets you work legally and win business:
 
