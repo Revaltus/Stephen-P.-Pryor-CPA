@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "c-8ac9bc",
+      "name": "Construction",
+      "slug": "construction"
+    },
+    {
+      "id": "c-ddcdaf",
+      "name": "Real Estate",
+      "slug": "real-estate"
+    },
+    {
+      "id": "c-46165e",
+      "name": "Bars and Restaurants",
+      "slug": "bars-and-restaurants"
+    },
+    {
+      "id": "c-bf6c23",
+      "name": "Individuals and Households",
+      "slug": "individuals-and-households"
+    }
+  ]
+}

@@ -3736,6 +3736,495 @@ Stephen Pryor and the team at Stephen P. Pryor, CPA work with construction, real
 
 ## Resources
 
+### The Year-End Bookkeeping Checklist for Taxes That Cuts a Contractor's Prep Bill
+URL: /resources/close-the-books-before-the-year-closes-the-year-end-clean-up
+
+Most contractors don't dread tax season because of the tax. They dread the first week of January, when the preparer opens the books and finds a year of uncategorized transactions, a bank account nobody has reconciled since spring, and a truck payment coded as materials. Every hour spent untangling that mess shows up on your invoice.
+
+The fix is cheaper than the problem, and it fits in Q4. This year-end bookkeeping checklist for taxes walks through the four cleanup jobs that matter most for construction businesses in Port Chester and the surrounding Westchester, Fairfield, and New York City job markets: reconciling accounts, separating personal spending, correcting miscategorized transactions, and tightening up subcontractor and payroll records.
+
+## Why messy books raise your tax prep bill
+
+A tax return is only as good as the books behind it. When the books are clean, your preparer starts with a trial balance and works on tax strategy. When they are not, the first stretch of the engagement is detective work: chasing down what a $4,800 debit was, figuring out whether a transfer was a loan or a draw, and asking you to remember a supplier from February.
+
+That detective time is billable under most hourly arrangements. It also delays the part you actually want, which is a conversation about what you owe and how to lower it while there is still time to act.
+
+Here is a simple example. Picture a remodeling contractor with six accounts: one operating checking account, a job-deposit account, two credit cards, an equipment loan, and a line of credit. If those accounts were never reconciled, a preparer might spend a full day just matching statements to the ledger before touching a single tax line. Do that matching in November and it takes a bookkeeper a couple of hours, because you still remember what the charges were.
+
+The [IRS recordkeeping guidance for small businesses](https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping) says the same thing in plainer terms: your records need to support the income and deductions on your return. Clean books are how you show that.
+
+## Reconcile every account before December 31
+
+Reconciling means matching what your books say to what the bank, card company, or lender says, line by line, until the ending balances agree. It sounds basic. It is also the step most often skipped when jobs get busy.
+
+Start with these accounts and work through each one for every month of the year:
+
+- Operating checking and any separate job or deposit accounts
+- Business credit cards, including cards held by foremen or project managers
+- Equipment, truck, and vehicle loans (check that principal and interest are split correctly)
+- Lines of credit
+- Payroll clearing or payroll liability accounts
+- Merchant or payment platforms like Square, Stripe, or PayPal, if clients pay you that way
+
+Watch for the things that quietly throw a reconciliation off. Deposits sitting in transit at year-end, checks written to suppliers that haven't cleared, duplicate bank feed entries in QuickBooks, and a customer payment applied to the wrong invoice are the usual suspects. If a number won't tie out, flag it now. A difference of $300 in October is a five-minute question. The same difference in March is a mystery.
+
+Our [bookkeeping service](/what-we-do/outsourced-accounting/bookkeeping) is built around this kind of monthly reconciliation of bank, credit card, and electronic transactions into QuickBooks, so year-end is a review rather than a rescue.
+
+## Separate personal spending from the business
+
+Commingling is the most common cleanup problem in small construction companies, and it is easy to see why. You stop at the lumber yard on the way home and grab a few things for the house. The company card pays for a family dinner because it was in your pocket. The truck is used for jobs and weekend errands.
+
+None of that is unusual. It just has to be sorted out before the return is prepared, because personal expenses deducted as business expenses are a problem if anyone ever asks questions.
+
+Here is a practical way to handle it in December:
+
+1. Scan each business account and card for personal charges: groceries, family travel, home utilities, streaming services, school costs.
+2. Move them out of expense categories. If the business paid, record them as owner draws (sole proprietors and partnerships) or shareholder distributions or loans to the owner (corporations). Your preparer can tell you which treatment fits your entity.
+3. For vehicles used both ways, reconstruct a mileage log from calendars, job addresses, and invoices. Business use percentage drives how much of the truck is deductible.
+4. If you paid a business bill from a personal account, record it as owner contribution or reimbursement instead of leaving it off the books.
+5. Going forward, pick one card for the business and one for personal use. Stick to it, even when it is inconvenient.
+
+Owners with a construction company plus a separate entity, such as an LLC that holds a building or equipment, have an extra layer to watch. Money moving between entities needs a paper trail, and multi-entity planning is something Shawn Wilson, CPA, works through with owners regularly.
+
+If you are still deciding how your business should be structured in the first place, our [entity type analysis](/what-we-do/advisory/entity-type-analysis) can help sort out what belongs where.
+
+## Fix the miscategorized transactions that distort job costs
+
+Bad categories cost you twice. They muddy the tax return, and they hide which jobs actually make money. Open your profit and loss report and look for these red flags:
+
+| What you see | What it usually means | Where it belongs |
+|---|---|---|
+| Large "Uncategorized" or "Ask my accountant" balance | Bank feed items nobody reviewed | The right expense, income, or balance sheet account |
+| Truck or equipment purchase in "Repairs" or "Supplies" | Asset coded as an expense | Fixed assets, then depreciation or Section 179 review |
+| Loan payment fully in expenses | Principal treated as a cost | Principal reduces the loan; only interest is an expense |
+| Owner transfers in "Wages" or "Job expenses" | Draws mixed into operating costs | Owner draw or distribution |
+| Materials and subcontractor costs lumped together | No job-level detail | Separate cost of goods sold accounts, tagged by job |
+| Customer deposits recorded as income immediately | Billing ahead of work | Deferred revenue or contract liability, depending on your method |
+
+The equipment row deserves extra attention in Q4. If you bought a truck, excavator, or other equipment this year, it generally needs to be placed in service by December 31 to be considered for first-year expensing. Whether Section 179 or bonus depreciation makes sense depends on your income and cash position, which is exactly the kind of decision that is easier to make in November than in April.
+
+Then look at job costing. If labor, materials, and subs are not tagged by job, you cannot see that the $85,000 kitchen job cleared a 22 percent margin while the $40,000 deck job barely broke even. Fixing categories now gives you real numbers to price next year's work. If thin job margins are a recurring headache, our post on [firing unprofitable customers and renegotiating vendor contracts](/resources/its-not-you-its-your-margins-how-to-break-up-with-unprofitab) shows how contractors act on that data.
+
+## Check your subcontractor and payroll paperwork
+
+Construction has more paperwork exposure than most industries, and it all comes due in January.
+
+**Subcontractors.** Make sure you have a signed W-9 for every sub you paid this year. If one is missing, request it now, while the relationship is warm and the final payment hasn't gone out. Form 1099-NEC is due to recipients and the IRS by January 31, and chasing a sub for a tax ID in late January is nobody's idea of fun. Also confirm each sub's certificate of insurance is on file, since a lapse can create liability and workers' compensation headaches.
+
+**Payroll.** Reconcile your payroll reports to your books. Wages, withholdings, and employer taxes in the ledger should match your quarterly Form 941 filings and your New York quarterly filings. W-2s are also due January 31, so any employee address changes or classification questions should be settled before the last payroll of the year.
+
+**Public works jobs.** If you work on public contracts, certified payroll and prevailing wage reports need to agree with what you actually paid. Mismatches between certified payroll records and the general ledger are easy to create and annoying to explain later. Our [payroll team](/what-we-do/outsourced-accounting/payroll) handles certified payroll and prevailing wage compliance support for contractors, so those records line up with the books.
+
+Owner retirement contributions are the last piece. Some plan deadlines, such as the safe harbor 401(k) notice, arrive well before December. If you haven't looked at yours, the [safe harbor 401(k) deadline contractors miss every fall](/resources/the-safe-harbor-401-k-deadline-business-owners-often-miss-wh) is worth a read this week.
+
+## A Q4 timeline that fits a contractor's schedule
+
+Year-end cleanup goes better in small pieces than in one weekend marathon. Here is a pace that works around a busy fall season.
+
+| When | What to do |
+|---|---|
+| October | Reconcile January through September for every account. Collect missing W-9s and insurance certificates. |
+| Early November | Review the profit and loss report for uncategorized items, personal charges, and assets coded as expenses. |
+| Late November | Reconcile October. Run job cost reports for open jobs and check for unbilled work and retainage. |
+| Early December | Meet with your CPA to project taxable income, decide on equipment purchases, and set estimated payments or retirement contributions. |
+| Mid to late December | Make any planned purchases and contributions. Send final payments to subs only after paperwork is complete. |
+| Early January | Reconcile December, close the books, and send your 1099 and W-2 information. |
+
+The early December meeting is where cleanup pays off most. With accurate numbers, a CPA can run tax projections and show you what changes if you buy the truck in December versus January. With inaccurate numbers, you are guessing.
+
+## What to hand your accountant in January
+
+Once the books are closed, the handoff is short. A tidy package includes the year-end reconciliations, a final profit and loss report and balance sheet, a fixed asset list with purchase dates and costs, loan statements showing year-end balances, your mileage log, payroll summaries, and your 1099 data. If your firm uses a secure online platform, upload everything there instead of emailing attachments.
+
+That is the whole list. When it is ready, preparation becomes a review, not an excavation, and that is where the fee savings come from.
+
+We set things up so this is routine. Bookkeeping, tax, and payroll compliance come bundled for one fixed monthly fee, and clients have secure online access to their financial data all year. Year-end is a conversation about projections and planning, not a scramble through bank statements. You can also read more about our work with [construction businesses](/specialties/construction) in Port Chester and across the tri-state area.
+
+## Common Questions
+
+**When should a contractor start the year-end bookkeeping cleanup?**
+
+Start in October. That gives you time to reconcile nine months of statements, collect missing subcontractor W-9s, and still have a planning meeting with your CPA in early December. Starting in January leaves you reacting to the numbers instead of using them to make decisions before December 31.
+
+**Does cleaner bookkeeping really lower tax preparation fees?**
+
+Usually, yes. Preparers bill for the time it takes to sort out transactions, match statements, and ask you questions. If your accounts are reconciled and your categories are correct, that time shrinks. The savings are larger when personal expenses are already separated and subcontractor paperwork is complete.
+
+**How do I separate personal and business expenses if I've mixed them all year?**
+
+Review each account and card for personal charges, then record them as owner draws, distributions, or loans to the owner, depending on your entity type. Rebuild a mileage log for any vehicle used both ways. From here on, use one card for the business and one for personal spending.
+
+## Get your books ready before the year closes
+
+If your books need work, the best time to call is before Thanksgiving, not after New Year's. Stephen P. Pryor, CPA works with contractors in Port Chester and across New York, New Jersey, and Connecticut to reconcile accounts, clean up categories, and plan for the tax year ahead. [Contact us](/contact) to talk through where your books stand and what a year-end cleanup would involve.
+
+---
+
+
+### Business Compliance Calendar for Contractors: Set Your Dates in December
+URL: /resources/the-december-compliance-calendar-map-your-businesss-year-ahe
+
+It's mid-December, the crews are slowing down, and your desk has a pile on it. A workers' comp renewal notice. A lease that rolls over next month. A license card with a date you can't quite read. Most contractors we talk to in Port Chester are good at running jobs and bad at remembering which paperwork dates are coming. That isn't a character flaw. Those dates are scattered across brokers, state websites, and old email threads, and nobody hands them to you in one place.
+
+A business compliance calendar fixes that. It is one page, built once a year, that shows every renewal, filing, and notice deadline for the next twelve months. December is the best time to build it, because the slow stretch gives you room to think and the dates that matter most hit in January and February.
+
+## Why December works for contractors
+
+Construction has a rhythm. Work in Westchester, Fairfield County, and the five boroughs tends to ease off between Christmas and the first week of January. That gap is when you can sit down for two or three hours without a phone ringing about a delivery.
+
+There's also a practical reason. Many of the deadlines that cost contractors money are not in April. They're in the first 60 days of the year: W-2 and 1099 filings, fourth-quarter payroll returns, insurance renewals, and the first state reports of the year. If you map them in December, you walk into January knowing what's coming. If you don't, you find out when a penalty notice arrives.
+
+The goal isn't to create a binder nobody opens. It's to turn a handful of recurring surprises into dates on a calendar, with a reminder set far enough ahead to act on them.
+
+## Review insurance 60 to 90 days before it renews
+
+Insurance is the first thing to put on the calendar, and it's the one most contractors review too late. By the time the renewal quote shows up, you have a week to decide, and the easy move is to say yes.
+
+Start by listing every policy with its renewal date:
+
+- General liability
+- Workers' compensation
+- Commercial auto
+- Umbrella or excess liability
+- Builder's risk, if you carry it on projects
+- Surety bonds, if your contracts require them
+
+Then ask your broker for renewal quotes 60 to 90 days out, not 10. That gives you time to compare options and ask why a premium moved.
+
+Workers' comp deserves extra attention because the premium is built on payroll and job classification codes. If your payroll grew, or you moved a carpenter into a supervisor role, the numbers your carrier has may no longer match reality. Insurers audit these figures after the policy year, and a bad estimate can turn into a surprise bill. Your bookkeeper or CPA can pull payroll by classification in minutes, so you hand your broker real figures instead of guesses.
+
+Also check your certificates of insurance. General contractors and property managers often require specific limits and additional-insured language, and a lapse can hold up a payment or a start date. If coverage looks heavier than your actual risk, or thinner, our post on [sizing insurance coverage to your actual risk](/resources/insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl) walks through how to think about it.
+
+## Read the contracts that renew themselves
+
+Auto-renewals are quiet. An equipment rental, a software subscription, a supplier agreement, or the lease on your yard or office can roll into another full year if you miss a cancellation window.
+
+Here's a simple example. Say you rent a skid steer for $1,100 a month under a 12-month agreement that renews automatically unless you give 60 days' written notice. If the work dried up in October and you forgot the notice date, that's $13,200 for a machine sitting in the yard. The date that matters isn't the end of the term. It's the notice deadline, and that's the one to put on your calendar.
+
+Go through each agreement and record three things: the end date, the notice date, and what it costs to leave. Then ask whether the terms still fit how you work. Vendors often move on pricing or payment terms when you ask early, especially if you've paid on time all year.
+
+Subcontractor and customer agreements deserve the same look. Check payment terms, retainage, and change order language. If a customer pays in 75 days while your suppliers want 30, you're financing their project. Our post on [firing unprofitable customers and renegotiating vendor contracts](/resources/its-not-you-its-your-margins-how-to-break-up-with-unprofitab) covers how to bring that up without burning the relationship.
+
+## Gather licenses, permits, and certifications
+
+Licenses are easy to forget because they renew on cycles that don't match anything else in your year. Some renew annually, some every two years, and the issuer depends on where you work: a village, a county, a city, or the state.
+
+Make a short list of everything that lets you work legally and win bids:
+
+- Home improvement or trade licenses, with the issuing office and expiration date
+- Local permits tied to ongoing jobs
+- OSHA 10 and 30-hour cards, plus site safety training if you work in New York City
+- Any certifications your public or commercial clients require
+
+Put each expiration date on the calendar with a reminder 90 days ahead. Renewals sometimes need proof of insurance, so they connect back to the first step. The SBA keeps a useful overview of [applying for licenses and permits](https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits) if you're unsure which levels of government apply to a new service line. Rules differ by municipality, so confirm the details with the office that issues each one.
+
+## Put state reports and payroll filings on the same page
+
+This is where our work with contractors gets very specific. If you run a business entity in New York, New Jersey, or Connecticut, each state has its own report schedule. New York LLCs file a biennial statement, New Jersey entities file an annual report, and Connecticut has its own annual report. If you work across state lines, you may have more than one.
+
+Payroll adds another layer. Federal and state payroll returns, year-end wage statements, and unemployment filings all have fixed dates. If you work on public projects, certified payroll reports go in on a regular cycle, and prevailing wage rates change, so the rate in your contract may not match what you should be paying on a later job. Our [payroll compliance support](/what-we-do/outsourced-accounting/payroll) covers certified payroll and prevailing wage reporting for contractors on public works contracts, and Nicholas Vergara on our team handles payroll tax filing for employers with multiple locations or seasonal swings.
+
+Here is what the first quarter often looks like for a Port Chester contractor with employees and a pass-through entity:
+
+| Timing | What's due | Who it touches |
+|---|---|---|
+| Mid-January | Fourth-quarter estimated tax payment | Owners of S-corps, partnerships, and sole proprietorships |
+| January 31 | W-2s, 1099-NECs, fourth-quarter payroll returns | Anyone with employees or paid subcontractors |
+| Mid-March | S-corp and partnership tax returns | Pass-through entities |
+| Anniversary month | State annual report or biennial statement | Entities formed or registered in NY, NJ, or CT |
+
+These are typical dates, and they shift when a deadline lands on a weekend. Confirm each one for your entity type, or let us confirm it for you. The [IRS small business and self-employed page](https://www.irs.gov/businesses/small-businesses-self-employed) is a good place to check the federal side.
+
+One more reason to get 1099s right: if your subcontractor files aren't clean, you're chasing W-9s in late January with a deadline already running. Collect them now, from every sub you paid this year.
+
+## Add the tax dates that touch your cash
+
+A compliance calendar and a tax plan belong together. A few decisions only exist until December 31, so they should be on the calendar before the holidays.
+
+Equipment is the big one. If you're thinking about a truck, a trailer, or a piece of machinery, the date it's placed in service can change what you deduct for the year. That's worth a conversation before you sign, and it ties directly to how you finance it. Our post on [leasing vs. buying a vehicle](/resources/auto-leasing-vs-buying-which-makes-more-sense) covers the cash flow side.
+
+Retirement plans are the other. Some plan options have notice deadlines well before year-end, and a safe harbor 401(k) is the clearest example. If you missed it, put next fall's date on this year's calendar now. Our post on [the safe harbor 401(k) deadline contractors miss every fall](/resources/the-safe-harbor-401-k-deadline-business-owners-often-miss-wh) explains the timing.
+
+Finally, look at your fourth-quarter estimate. With job-based income, a profitable fall can leave you underpaid. Shawn Wilson, CPA works with construction owners who run more than one entity, and he'll tell you the same thing: projecting the year in December costs a lot less than correcting it in April.
+
+## Build it in one afternoon
+
+You don't need software. A shared calendar and a spreadsheet will do. Here's the order we'd follow:
+
+1. Pull every renewal letter, license, lease, and contract into one folder.
+2. Write down two dates for each item: the actual deadline and the date you need to start acting.
+3. Add the state report dates for every entity you own.
+4. Add payroll, 1099, and estimated tax dates from your CPA.
+5. Set reminders 30, 60, or 90 days ahead, depending on how much decision time each item needs.
+6. Name one person who owns the calendar, even if that's you.
+
+If you're a client, much of the information is already in your secure online platform: payroll history, vendor payments, and prior filings. That makes step one much faster, since we can pull the numbers rather than asking you to dig for them.
+
+## Common Questions
+
+**What is a business compliance calendar?**
+
+It's a single schedule of every recurring deadline your business has: insurance renewals, license expirations, contract notice dates, payroll filings, state reports, and tax payments. For a contractor, it also covers certified payroll and bonding renewals. The value is the reminder dates, set early enough that you can compare options and decide.
+
+**When should I review my business insurance before renewal?**
+
+Start 60 to 90 days before the policy ends. That gives your broker time to shop quotes and gives you time to update payroll, equipment, and revenue figures. For workers' comp, bring payroll by job classification, since the premium is based on it.
+
+**Do I need a calendar if I only operate in New York?**
+
+Yes. Even a single-state contractor has federal payroll returns, state unemployment filings, a state entity report, local licenses, and several insurance policies. If you also take jobs in Connecticut or New Jersey, you may have extra registration and filing requirements, so the calendar matters more.
+
+## Start next year with the dates already set
+
+If you'd rather not build this alone, we can do it with you. Stephen P. Pryor, CPA handles bookkeeping, tax, and payroll compliance for contractors for one fixed monthly fee, so many of these dates already sit in our system. We can sit down with you in December, walk through your insurance, contracts, licenses, and filings, and hand you a finished calendar for the year. [Contact our Port Chester office](/contact) to set up a time before the holidays.
+
+---
+
+
+### The Safe Harbor 401(k) Deadline Contractors Miss Every Fall
+URL: /resources/the-safe-harbor-401-k-deadline-business-owners-often-miss-wh
+
+Most contractors treat the 401(k) as a December job. The year is winding down, the jobs are finishing up, and someone says it's time to think about retirement contributions. By then, the best options have usually closed. The safe harbor decision is made in the fall, sometimes earlier, and the cost of waiting shows up in three places: the plan design you can still choose, the deduction you can still take, and how much of your own money you can actually put away.
+
+This post walks through how the timing works for a calendar-year plan, what it looks like on a typical construction payroll, and which SECURE 2.0 changes are worth checking before you sign anything. The dollar limits below are the 2025 figures. They adjust every year, so confirm the current numbers on the [IRS retirement plans page](https://www.irs.gov/retirement-plans) or with us before you commit.
+
+## Why a failed test lands on the owner first
+
+A standard 401(k) has to pass nondiscrimination testing every year. The deferral test (ADP) compares what your highly compensated employees (HCEs) defer, as a percentage of pay, against what everyone else defers. You are an HCE if you own more than 5% of the business, or if you were paid above $160,000 the prior year (the 2025 threshold).
+
+Here is the problem on a construction payroll. Field crews, laborers, and apprentices often defer little or nothing, and plenty of them are living job to job. If your non-HCE group averages 2%, the HCE group generally can't average more than 4%.
+
+Say you pay yourself $250,000. At a 4% cap, you can defer $10,000. The 2025 employee deferral limit is $23,500. That leaves $13,500 of your own contribution room stuck behind a test your crew's paychecks are controlling.
+
+If the plan fails outright, the plan has to refund the excess deferrals to HCEs, generally by March 15 for a calendar-year plan, to avoid a 10% excise tax on the employer. Those refunds are taxable to you. You lose the deferral, and you pay tax on the money coming back.
+
+A safe harbor plan skips the ADP test, and the related matching test (ACP) for the safe harbor contributions. In exchange, you commit to a required employer contribution. That is the trade, and it is why the design choice has to be made before the plan year runs out.
+
+## Safe harbor match vs nonelective contribution
+
+There are two main ways to fund a safe harbor plan. Each has a different cost profile and, more importantly, a different deadline.
+
+| | Basic safe harbor match | Safe harbor nonelective |
+|---|---|---|
+| Employer contribution | 100% of the first 3% an employee defers, plus 50% of the next 2% (4% of pay at most) | 3% of pay to every eligible employee, whether they defer or not |
+| Who gets it | Only employees who defer | Everyone eligible |
+| Annual notice to employees | Required | Not required |
+| Vesting | Immediate (a QACA design can use a 2-year cliff) | Immediate (a QACA design can use a 2-year cliff) |
+| Late adoption | Generally not available | Available, with limits |
+
+Here is what that costs on a sample contractor with $1,000,000 of eligible payroll: you at $250,000 and 12 employees at $750,000 combined.
+
+| Scenario | Estimated employer cost |
+|---|---|
+| Nonelective 3%, anyone defers or not | $30,000 |
+| Basic match, you plus 3 employees defer 5% or more | about $17,500 |
+| Basic match, you plus 6 employees defer 5% or more | about $25,000 |
+| Basic match, you plus all 12 employees defer 5% or more | about $40,000 |
+
+The match is cheaper when few people defer, and it gets more expensive as your crew participates more. The nonelective is a fixed number. It also puts 3% in the paycheck-to-paycheck employees' accounts whether or not they ever sign up, which tends to help with retention in a trade where good people leave for another contractor over a dollar an hour.
+
+One more detail on the nonelective. Your own 3%, $7,500 on $250,000, goes in your account too. Add your $23,500 deferral and you are at $31,000, well under the $70,000 overall limit for 2025, so there is room for additional profit sharing if the business had a strong year. If you are 50 or older, catch-up contributions go on top.
+
+## The dates that matter for a calendar-year plan
+
+The notice and adoption rules are where owners get caught. The short version:
+
+- **Before the plan year starts (match plans):** Eligible employees must receive a safe harbor notice 30 to 90 days before the year begins. For a January 1 plan, that window is roughly October 2 through December 2 of the prior year.
+- **Nonelective plans:** The SECURE Act eliminated the notice requirement for plans that use only the 3% nonelective safe harbor. Employees still have to be allowed to make or change elections each year.
+- **Late nonelective adoption:** Under the SECURE Act, you can adopt the 3% nonelective safe harbor for an existing plan any time up to 30 days before the plan year ends. For a calendar-year plan, that is around December 1.
+- **Even later:** After that point, you can still adopt a safe harbor for the year by making a 4% nonelective contribution, as late as the end of the following plan year.
+- **Brand-new plan:** A new plan generally needs at least three months in its first plan year to qualify as safe harbor. In practice, an October 1 start for a calendar-year plan is the usual cutoff, and a provider's own setup timeline can push it earlier.
+- **Funding and deduction:** Employer contributions are generally deductible for the year if deposited by your tax return due date, including extensions. Your employees' own deferrals still have to come out of actual paychecks during the year.
+
+That last point is the reason waiting hurts. The deferral window closes with the final payroll of the year. A match plan can't be bolted on in December. The cheaper late-adoption route, the 3% nonelective, ends around December 1. After that, you are paying 4% for the same result.
+
+Providers and payroll systems have their own cutoffs, and plan documents sometimes need to be amended before you act. Check your plan document and your provider's deadlines before relying on any date in this post.
+
+## Seasonal crews, union hours, and prevailing wage jobs
+
+Construction payroll has quirks that generic plan-provider material doesn't cover. They affect who counts, what you owe, and how the contribution is treated on public jobs.
+
+**Seasonal and part-time workers.** Eligibility rules decide who is in the test and who gets the safe harbor contribution. Under the SECURE Act and SECURE 2.0, long-term part-time employees who work at least 500 hours a year for two consecutive years (phased in from 2024 and 2025) generally have to be allowed to defer. A crew you bring on every April and let go in November can trip this over time, so track hours.
+
+**Union employees.** Workers covered by a collective bargaining agreement that provides for retirement benefits can generally be excluded from your 401(k) and from the testing. Your union pension or annuity contributions are a separate obligation, and they need to be coordinated with the plan, not stacked blindly on top of it.
+
+**Public works.** On prevailing wage jobs, certain bona fide fringe benefit contributions can count toward the fringe portion of the required wage rate. A 401(k) contribution may help here, but only if it is handled properly on certified payroll. Our [payroll compliance team](/what-we-do/outsourced-accounting/payroll) works with contractors on public works contracts and can show you how the numbers fit before you set the contribution formula.
+
+**Multiple entities.** Many contractor owners run a construction company, a separate equipment or real estate entity, and sometimes a management company. Related businesses can be treated as one employer for plan purposes, which changes who has to be covered. Shawn Wilson, CPA, handles multi-entity tax planning and cash-flow consulting for owners of construction and hospitality businesses, and this is one of the first things he checks.
+
+## SECURE 2.0 changes to check before you adopt
+
+SECURE 2.0 added several rules that touch plan design. Confirm each against current IRS guidance, because effective dates and limits shift:
+
+- **Automatic enrollment for new plans.** New 401(k) plans established after December 29, 2022 generally must automatically enroll eligible employees starting with plan years that begin after 2024. Businesses with 10 or fewer employees and businesses less than three years old are exempt. A plan that is already in place is generally grandfathered.
+- **Startup credits.** Employers with 50 or fewer employees may be able to claim a credit for up to 100% of startup costs, capped at $5,000 a year for three years, plus a credit for employer contributions. Confirm eligibility with your CPA before relying on either.
+- **Roth catch-up for higher earners.** Beginning in 2026, employees age 50 and over who were paid more than roughly $150,000 in Social Security wages the prior year (indexed) must make catch-up contributions as Roth. If you pay yourself a W-2 salary in that range, this applies to you.
+- **Higher catch-up at ages 60 to 63.** The limit for this age band is the greater of $10,000 or 150% of the regular catch-up amount, which is $11,250 for 2025. If you are within a few years of that age band, it can change how much you plan to put in.
+- **Owner-only businesses.** A newer rule lets a sole proprietor with no employees (other than a spouse) make first-year employee deferrals after the plan year ends, up to the tax filing deadline. It does not apply once you have a crew on the payroll.
+
+The safe harbor contribution can sit alongside most of these provisions, but they affect your plan document, your payroll setup, and your timeline. That is why the work belongs in September or October, not the week of Christmas.
+
+## A fall checklist for contractors
+
+If you want a simple order of operations, this is the one we use with construction clients at our [retirement plan analysis](/what-we-do/advisory/retirement-plan-analysis) meetings:
+
+1. **September:** Run a projected ADP test using year-to-date payroll. If it fails, you want to know in September.
+2. **Early October:** Price the match against the nonelective, using your real crew participation and headcount, not a rule of thumb.
+3. **Before December 1:** Adopt the 3% nonelective by plan amendment if you are going that route, and update your payroll so the owner deferral is in place.
+4. **Before year-end:** Check the owner's deferral total against the limit, including catch-up.
+5. **Before your return due date:** Deposit the employer contribution and confirm the deduction on the business return.
+
+This fits with the rest of your tax picture, too. The employer contribution is a business deduction that changes your estimated payments, and it interacts with your entity choice, since owner pay looks different in an S-corp than in a sole proprietorship. For more on how the pieces connect for contractors, see our [construction CPA page](/specialties/construction).
+
+## Common Questions
+
+**What is the safe harbor 401(k) deadline?**
+
+For a calendar-year plan, match plans need a notice 30 to 90 days before the year begins. A 3% nonelective safe harbor can generally be adopted until about 30 days before year-end (around December 1). After that, a 4% nonelective can still qualify, up to the end of the following plan year.
+
+**Do I need to send a notice for a nonelective safe harbor plan?**
+
+No. The SECURE Act removed the annual notice requirement for plans that use only the nonelective safe harbor contribution. Employees must still have a chance to make or change their elections, and plans with a safe harbor match still need the notice. Check your plan document in case it adds its own requirements.
+
+**Can I still set up a safe harbor plan in December?**
+
+For a brand-new plan, usually not. A new plan generally needs three months in its first plan year, so October 1 is a typical cutoff. An existing plan can still add the 3% nonelective until about December 1, or the 4% nonelective after that, which is why the fall is the planning window.
+
+## Talk before the window closes
+
+If you run a construction business in Port Chester or anywhere in the New York, New Jersey, and Connecticut area, a short fall meeting can tell you whether a safe harbor plan saves you money or just costs you. Bring last year's payroll summary and your current plan document if you have one. Reach out through our [contact page](/contact) and we will run the testing projection and the match-versus-nonelective cost with you before the dates above go by.
+
+---
+
+
+### It's Not You, It's Your Margins: How Contractors Can Fire Unprofitable Customers and Renegotiate Vendor Contracts
+URL: /resources/its-not-you-its-your-margins-how-to-break-up-with-unprofitab
+
+Every contractor has one customer they wince at when the phone lights up. The one who pays at day 85, disputes the last invoice, and texts at 9 p.m. about a change they approved verbally in October. You keep the job because revenue is revenue and February is slow. But revenue and profit are different things, and some of your customers are quietly costing you money.
+
+Valentine's Day is a handy excuse to take a hard look at who you work with and who you buy from. Keep the relationships that pay off. Renegotiate the ones that drain you. End the ones that will never love your bottom line back. Here is how to do that with real numbers, for a construction business in Port Chester or anywhere in the tri-state area.
+
+## Why winter is the right time to review your customer list
+
+Winter is when many Westchester and Fairfield County contractors have the most breathing room. Fewer crews are stretched across jobs, the year-end books are closing, and the spring bid calendar has not filled up yet. If you are going to turn down a customer, you want to do it before you have committed crews and materials for the season.
+
+It is also when last year's numbers are fresh. Your 2024 or 2025 job-cost reports, aging receivables, and vendor statements hold the answers. You just have to line them up in one place.
+
+## Find the real margin on each customer
+
+Most contractors know their gross margin by job. Fewer know their margin by customer after the hidden costs. A customer profitability analysis adds three things that rarely show up on a job-cost report:
+
+- **Office and project management time.** Pay applications, lien waivers, change-order paperwork, and certified payroll for public work all take hours. Price them at your loaded hourly cost.
+- **Rework and back-charges.** Callbacks, disputed deductions, and punch-list items that drag on for months.
+- **The cost of waiting to get paid.** If you carry a line of credit at 9 percent, every day a customer sits on your invoice has a price.
+
+Here is what that looks like for three sample customers over one year.
+
+| | Repeat developer | General contractor | Remodel homeowner |
+|---|---|---|---|
+| Revenue | $240,000 | $310,000 | $95,000 |
+| Direct job costs | $192,000 | $263,500 | $71,250 |
+| Gross profit | $48,000 (20%) | $46,500 (15%) | $23,750 (25%) |
+| Office and PM time | $2,400 | $7,200 | $8,400 |
+| Rework and back-charges | $0 | $14,000 | $7,500 |
+| Carrying cost of slow pay | $1,775 | $6,500 | $470 |
+| **True profit** | **$43,825** | **$18,800** | **$7,380** |
+| **True margin** | **18.3%** | **6.1%** | **7.8%** |
+
+Look at the homeowner. On the job report, that was the best margin on the list at 25 percent. After 140 hours of texts, revisions, and rework, it is the second worst. And the general contractor, your biggest customer by revenue, earns you barely six cents on the dollar while tying up $310,000 of your work for nearly three months at a time.
+
+Those numbers are only as good as your bookkeeping. If costs are not coded to jobs and customers each month, the analysis turns into guesswork. That is why [monthly bookkeeping with job-cost tracking](/what-we-do/outsourced-accounting/bookkeeping) sits at the center of how we work with contractors.
+
+## Set a floor before you set a feeling
+
+The hardest part of ending a customer relationship is that it feels personal. A written threshold takes some of the emotion out of it.
+
+Pick a minimum true margin. For many contractors it lands somewhere between 10 and 12 percent after overhead is considered, but your number depends on your fixed costs and what you want to take home. Then add a second rule for payment behavior, such as no customer averaging more than 60 days to pay.
+
+With a 10 percent floor, the table above is easy to read. The developer stays, and you probably look for more work like it. The general contractor and the homeowner are both below the line. That does not mean they are gone. It means they get a conversation.
+
+## Try to fix the relationship first
+
+Firing is the last step, not the first. Most underwater customers can be repaired with one or two changes, and you often learn something about your own contracts along the way.
+
+- **Raise your price.** A 5 percent increase on the homeowner job lifts true profit from $7,380 to $12,130, a 64 percent jump. If they leave, you lose very little.
+- **Tighten payment terms.** Require a deposit of 25 to 30 percent, move to progress billing every two weeks, and add a late fee that is written in the contract.
+- **Enforce a change-order rule.** No extra work starts until a signed change order arrives. Verbal approvals are how $7,500 of rework happens.
+- **Set a minimum job size.** Small, scattered jobs for the same customer often cost more per dollar of revenue than one larger job.
+- **Negotiate retainage.** Ask for release at substantial completion instead of final closeout.
+
+Give the customer a clear, calm explanation and a deadline. Some will agree and become better customers. The ones who push back on every reasonable term have told you what you need to know.
+
+## How to end a customer relationship without burning the bridge
+
+Port Chester is a small business community. The GC you walk away from today may sit next to your next best customer at a Chamber event, so how you leave matters.
+
+1. **Finish what is under contract.** Do not walk off a job. Complete the current scope, collect what you are owed, and close it properly.
+2. **Stop bidding.** The simplest exit is to decline future work or bid at a price that reflects your true cost.
+3. **Say it in writing, and keep it short.** Thank them, state that you will not be taking new projects, and give the date your current work wraps up.
+4. **Offer a handoff.** A referral to another contractor shows goodwill and cuts the risk of an angry reply.
+5. **Check your contract and lien deadlines.** If money is still owed, have your attorney review notice and lien deadlines before you send anything. Missing one can cost you the right to collect.
+
+You do not owe them a long explanation. "Our schedule and pricing no longer fit your projects" is honest, and it ends the conversation.
+
+## What happens to your books and taxes when a customer walks or never pays
+
+This is where the tax side of a breakup shows up.
+
+If you use the accrual method and a customer's invoice becomes truly uncollectible, you may be able to deduct it as a business bad debt. You need to show the amount was already included in income and that you made reasonable efforts to collect. If you are a cash-basis contractor, you generally cannot deduct an unpaid invoice, because you never counted it as income in the first place. You simply do not receive the money.
+
+Retainage deserves special attention. Money held back for a year or more and never released needs to be tracked separately, not buried in accounts receivable. Keep your collection emails, demand letters, and lien filings in one folder. If a deduction is ever questioned, that file is your support. The [IRS small business resources](https://www.irs.gov/businesses/small-businesses-self-employed) are a good starting point, and your CPA can confirm how the rules apply to your method of accounting.
+
+## Renegotiate vendor contracts before you cancel them
+
+Customers are only half of your margin. Materials, equipment rentals, subcontractors, insurance, software, and dumpster services make up most of your direct costs. If you have not asked for better terms in two years, you are probably leaving money on the table.
+
+Start with a simple list. Pull 12 months of spending by vendor from QuickBooks and sort it from highest to lowest. For most contractors, five or six vendors account for the bulk of the dollars. Those are the ones worth a call.
+
+Then ask for specific things:
+
+- **Volume pricing or a rebate.** If you spent $150,000 at a supply yard last year, say so and ask for a tier.
+- **Early-payment discounts.** Terms of 2/10 net 30 mean a 2 percent discount for paying 20 days sooner. That works out to roughly a 37 percent annualized return, far better than what your line of credit costs.
+- **Price locks.** Lumber, copper, and fuel move. Ask for a fixed price for a quarter or for a specific project.
+- **Delivery guarantees.** Late materials are expensive. Four carpenters waiting for eight hours at a $55 loaded rate is $1,760 gone in a day.
+- **Net 45 or net 60 terms.** If your largest customer pays you at 85 days, your vendor terms should not be 15.
+
+Read the contract itself while you are at it. Auto-renewals, minimum purchase commitments, and early termination fees tend to hide in the fine print of equipment rentals, software, and service agreements. If you want to clean up the small stuff too, our post on [subscription creep](/resources/take-back-control-of-subscription-creep) shows how to audit recurring charges.
+
+## When to terminate a vendor contract
+
+A vendor is worth leaving when the pain is repeatable and they will not fix it. Common triggers:
+
+- Prices climbed more than your own costs justify, and a competing quote is 8 to 10 percent lower.
+- Late or incomplete deliveries have delayed at least two jobs in a quarter.
+- Quality problems are creating rework you cannot bill for.
+- The contract locks you into minimums you no longer meet.
+
+Before you cancel, check the notice window and any exit fee. A $2,500 termination fee can be worth paying if the new vendor saves you $1,000 a month. Termination fees and breakage costs are generally deductible as ordinary business expenses, but the details depend on the contract, so check with your CPA before you sign anything. The [SBA's business management guidance](https://www.sba.gov/business-guide/manage-your-business) is also useful for vendor planning.
+
+Finally, line up the replacement before you give notice. No contractor wants to find out on a Monday morning that the new supplier cannot deliver until Thursday.
+
+## Common Questions
+
+**How do I fire unprofitable customers without hurting my reputation?**
+
+Finish all work you have under contract, then stop bidding on new projects. Send a short, polite written note that you will not be taking future work and offer a referral if possible. Skip the long explanations. A clean, professional exit rarely damages your standing, and it protects your payment and lien rights.
+
+**What is a good profit margin to keep a construction customer?**
+
+Many contractors set a floor of 10 to 12 percent true margin after office time, rework, and the cost of slow payment. Your number depends on your overhead and income goals. The key is to calculate it by customer, not just by job, so slow payers and high-maintenance accounts show up clearly.
+
+**Can I deduct an unpaid invoice from a customer I stopped working with?**
+
+If you use accrual accounting and the debt is truly uncollectible, you may be able to deduct it as a business bad debt, as long as you can show collection efforts. Cash-basis businesses generally cannot deduct unpaid invoices because the income was never recorded. Keep your demand letters and emails as support.
+
+## Ready to see which customers and vendors are costing you margin?
+
+If you are not sure which of your customers earn their keep, we can build the analysis with you. We set up the job-cost coding, run the numbers by customer, review your vendor contracts, and help you decide who stays, who gets a new price, and who gets a polite goodbye. [Contact Stephen P. Pryor, CPA](/contact) to get started. You run your business. We'll run your numbers.
+
+---
+
+
 ### OBBBA's Expanded Home Construction Exception to Percentage of Completion
 URL: /resources/obbbas-expanded-home-construction-exception-why-builders-sho
 
