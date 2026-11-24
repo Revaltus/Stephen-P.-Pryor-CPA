@@ -120,7 +120,7 @@ If you're a client, much of the information is already in your secure online pla
 
 **What is a business compliance calendar?**
 
-It's a single schedule of every recurring deadline your business has: insurance renewals, license expirations, contract notice dates, payroll filings, state reports, and tax payments. For a contractor, it also covers certified payroll and bonding renewals. The value is the reminder dates, set early enough that you can compare options and decide.
+It's a single schedule of every recurring deadline your business has: insurance renewals, license expirations, contract notice dates, payroll filings, state reports, and tax payments. The value is the reminder dates, set early enough that you can compare options and decide instead of reacting to a notice.
 
 **When should I review my business insurance before renewal?**
 
@@ -128,7 +128,7 @@ Start 60 to 90 days before the policy ends. That gives your broker time to shop 
 
 **Do I need a calendar if I only operate in New York?**
 
-Yes. Even a single-state contractor has federal payroll returns, state unemployment filings, a state entity report, local licenses, and several insurance policies. If you also take jobs in Connecticut or New Jersey, you may have extra registration and filing requirements, so the calendar matters more.
+Yes. Even a single-state business has federal payroll returns, state unemployment filings, a state entity report, local licenses, and several insurance policies. If you also have employees or customers in Connecticut or New Jersey, you may have extra registration and filing requirements, so the calendar matters more.
 
 ## Start next year with the dates already set
 
