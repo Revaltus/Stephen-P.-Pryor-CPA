@@ -92,7 +92,7 @@ A: Yes. The team of CPAs at Stephen P. Pryor, CPA regularly work with owners in 
 A: Documents are uploaded and stored through a secure online platform, giving you real-time access to your return status without emailing sensitive files or relying on paper copies.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | query: "accountant client handshake consultation" -->
-## Start your personal tax return with a CPA who listens
+## CPAs who know your whole financial picture
 
 You don't need every document organized or every question answered before you reach out. Schedule a consultation with the team at Stephen P. Pryor, CPA and tell us what's going on with your taxes this year, whether that's a new job, a rental property, or a side business that finally needs its own line item. We'll take it from there.
 
