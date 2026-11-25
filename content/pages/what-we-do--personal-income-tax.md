@@ -94,7 +94,7 @@ A: Documents are uploaded and stored through a secure online platform, giving yo
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | query: "accountant client handshake consultation" -->
 ## CPAs who know your whole financial picture
 
-You don't need every document organized or every question answered before you reach out. Schedule a consultation with the team at Stephen P. Pryor, CPA and tell us what's going on with your taxes this year, whether that's a new job, a rental property, or a side business that finally needs its own line item. We'll take it from there.
+Schedule a consultation with the team at Stephen P. Pryor, CPA and tell us what's going on with your taxes this year, whether that's a new job, a rental property, or a side business that finally needs its own line item. We'll take it from there.
 
 [Schedule a consultation](/contact)
 
